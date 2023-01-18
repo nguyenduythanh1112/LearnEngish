@@ -1,0 +1,56 @@
+bookcase
+n kệ sách, tủ sách
+bookshelf
+n giá sách
+case
+n ca, trường hợp
+central office
+phr văn phòng trung tâm
+copy machine
+phr máy photocopy
+fax
+n máy fax
+file folder
+phr thư mục, tập tin
+greet
+v chào hỏi
+handwriting
+n chữ viết tay
+keypad
+n bàn phím
+knife
+n con dao
+log on to
+phr đăng nhập vào
+online
+adj trực tuyến, trên mạng
+photocopier
+n máy photocopy
+photocopy
+n bản sao; v sao chép
+print out
+phr in ra
+right away
+phr ngay, ngay lập tức
+spell
+v đánh vần, đọc chính tả
+wrap
+v bọc
+fold
+v gấp
+least
+adj ít nhất, nhỏ nhất
+paper
+n giấy
+planning
+n việc lập kế hoạch
+post
+v đăng lên, dán lên; gửi thư (qua đường bưu điện)
+press the button
+phr nhấn nút
+server
+n người phục vụ, máy chủ
+store opening
+phr khai trương cửa hàng
+task
+n nhiệm vụ
