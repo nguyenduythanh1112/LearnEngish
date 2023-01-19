@@ -24,6 +24,7 @@ public class Controller {
             }
         }
         catch (Exception exception){System.out.println("Read error");}
+        if(Constant.isRandom) words=Controller.randomList(words);
         return words;
     }
     public static void writeFile(List<Word> words,String path){
@@ -49,6 +50,9 @@ public class Controller {
             if(c>='a'&&c<='z') result=result+c;
             if(c>='A'&&c<='Z') result=result+c;
         }
+        result=result.replaceAll("something","st");
+        result=result.replaceAll("sth","st");
+        result=result.replaceAll("somebody","sb");
         return result;
     }
 

@@ -11,7 +11,6 @@ public class HackerToeicVocabulary {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         List<Word> words=Controller.readFile(Constant.filePath);
-        words=Controller.randomList(words);
         HashSet<Word> errorWords=new HashSet<>();
 
         for(int i=0;i<words.size();i++){
