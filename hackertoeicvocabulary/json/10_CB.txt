@@ -1,0 +1,114 @@
+[
+{"english":"bakery",
+"vietnamese":"n tiệm bánh, lò bánh mỳ"},
+
+
+{"english":"best-selling",
+"vietnamese":"adj bán chạy nhất"},
+
+
+{"english":"cashier",
+"vietnamese":"n nhân viên thu ngân"},
+
+
+{"english":"clothing",
+"vietnamese":"n quần áo, y phục"},
+
+
+{"english":"corner",
+"vietnamese":"n góc, lối rẽ"},
+
+
+{"english":"costume",
+"vietnamese":"n trang phục"},
+
+
+{"english":"free",
+"vietnamese":"adj rảnh rỗi, tự do, miễn phí"},
+
+
+{"english":"label",
+"vietnamese":"n nhãn, nhãn hiệu"},
+
+
+{"english":"necklace",
+"vietnamese":"n vòng cổ"},
+
+
+{"english":"photography equipment",
+"vietnamese":"phr thiết bị chụp ảnh"},
+
+
+{"english":"shelf",
+"vietnamese":"n giá, kệ"},
+
+
+{"english":"shop",
+"vietnamese":"n cửa hàng, cửa hiệu"},
+
+
+{"english":"shopper",
+"vietnamese":"n người mua hàng"},
+
+
+{"english":"size",
+"vietnamese":"n kích cỡ, kích thước"},
+
+
+{"english":"sunglasses",
+"vietnamese":"n kính râm"},
+
+
+{"english":"supermarket",
+"vietnamese":"n siêu thị"},
+
+
+{"english":"wear",
+"vietnamese":"v mang, đeo, mặc, đội"},
+
+
+{"english":"basis",
+"vietnamese":"n nền tảng, cơ sở"},
+
+
+{"english":"brand",
+"vietnamese":"n thương hiệu"},
+
+
+{"english":"department store",
+"vietnamese":"phr cửa hàng bách hóa, trung tâm thương mại"},
+
+
+{"english":"discount store",
+"vietnamese":"phr cửa hàng giảm giá"},
+
+
+{"english":"display",
+"vietnamese":"v trưng bày, biểu lộ; n sự trưng bày"},
+
+
+{"english":"fit",
+"vietnamese":"v hợp, xứng, ăn khớp"},
+
+
+{"english":"fully",
+"vietnamese":"adv đầy"},
+
+
+{"english":"grocery",
+"vietnamese":"n cửa hàng tạp hóa"},
+
+
+{"english":"keep",
+"vietnamese":"v giữ, bảo quản, chăm sóc"},
+
+
+{"english":"store",
+"vietnamese":"n cửa hàng; vị lưu trữ, tích trữ"},
+
+
+{"english":"tax",
+"vietnamese":"n thuế"},
+
+
+]

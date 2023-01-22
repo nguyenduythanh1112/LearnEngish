@@ -39,6 +39,24 @@ public class Controller {
 
     }
 
+    public static void writeFileJson(List<hackertoeicvocabulary.Word> words, String path){
+        try {
+            PrintWriter printWriter=new PrintWriter(new File(path));
+            printWriter.println("[");
+            for (hackertoeicvocabulary.Word word:words){
+                printWriter.println("{\"english\":"+"\""+word.getE()+"\",");
+                printWriter.println("\"vietnamese\":"+"\""+word.getV()+"\"},");
+                printWriter.println("\n");
+            }
+            printWriter.println("]");
+            printWriter.close();
+        }
+        catch (Exception exception){
+            System.out.println("Write error"+ exception.getMessage());
+        }
+
+    }
+
     public static String reduceWord(String s){
         String result="";
         for(int i=0;i<s.length();i++){

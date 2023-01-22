@@ -1,0 +1,8 @@
+shop
+n cửa hàng, cửa hiệu
+
+
+brand
+n thương hiệu
+
+

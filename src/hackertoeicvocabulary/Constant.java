@@ -2,13 +2,13 @@ package hackertoeicvocabulary;
 
 public class Constant {
 
-    static boolean isRandom=true;
-//    static boolean isRandom=false;
+//    static boolean isRandom=true;
+    static boolean isRandom=false;
 
-    static String fileName="9_900.txt";
-//    static String fileName="9_800_2.txt";
-//    static String fileName="9_800_1.txt";
-//    static String fileName="9_CB.txt";
+//    static String fileName="10_900.txt";
+    static String fileName="10_800_2.txt";
+//    static String fileName="10_800_1.txt";
+//    static String fileName="10_CB.txt";
 
 
 

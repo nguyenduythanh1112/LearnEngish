@@ -47,7 +47,7 @@ v hợp, xứng, ăn khớp
 fully
 adv đầy
 grocery
-a cửa hàng tạp hóa
+n cửa hàng tạp hóa
 keep
 v giữ, bảo quản, chăm sóc
 store
@@ -127,7 +127,7 @@ adv ở một nơi nào khác, đầu đó
 gift certificate
 phr phiếu quà tặng
 glassware
-a đồ thủy tinh
+n đồ thủy tinh
 inexpensive
 adj rẻ, không đắt
 lately
