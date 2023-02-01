@@ -1,0 +1,82 @@
+[
+{"english":"allot",
+"vietnamese":"v. phân bổ, dành cho"},
+
+
+{"english":"appall",
+"vietnamese":"v. làm ghê sợ"},
+
+
+{"english":"cache",
+"vietnamese":"n. bộ nhớ đệm"},
+
+
+{"english":"convenience",
+"vietnamese":"n. sự tiện lợi"},
+
+
+{"english":"dearth",
+"vietnamese":"n. sự khan hiếm, thiếu"},
+
+
+{"english":"deliberate",
+"vietnamese":"adj. cố ý"},
+
+
+{"english":"dire",
+"vietnamese":"adj. thảm khốc"},
+
+
+{"english":"elapse",
+"vietnamese":"v. trôi qua"},
+
+
+{"english":"empathy",
+"vietnamese":"n. sự đồng cảm"},
+
+
+{"english":"fanciful",
+"vietnamese":"adj. huyền ảo"},
+
+
+{"english":"gripe",
+"vietnamese":"v. kêu ca, càu nhàu"},
+
+
+{"english":"grueling",
+"vietnamese":"adj. khắc nghiệt, khó khăn"},
+
+
+{"english":"mundane",
+"vietnamese":"adj. tầm thường, trần tục"},
+
+
+{"english":"opt",
+"vietnamese":"v. lựa chọn"},
+
+
+{"english":"outrage",
+"vietnamese":"n. sự phẫn nộ"},
+
+
+{"english":"paltry",
+"vietnamese":"adj. ít ỏi"},
+
+
+{"english":"rectify",
+"vietnamese":"v. sửa chữa, khắc phục"},
+
+
+{"english":"resourceful",
+"vietnamese":"adj. tháo vát"},
+
+
+{"english":"sustenance",
+"vietnamese":"n. dưỡng chất"},
+
+
+{"english":"tedious",
+"vietnamese":"adj. tẻ nhạt"}
+
+
+]

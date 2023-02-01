@@ -1,0 +1,82 @@
+[
+{"english":"aquatic",
+"vietnamese":"adj. thủy sinh"},
+
+
+{"english":"biosphere",
+"vietnamese":"adj. sinh quyển"},
+
+
+{"english":"bizarre",
+"vietnamese":"adj. kỳ quái"},
+
+
+{"english":"celsius",
+"vietnamese":"n. độ c"},
+
+
+{"english":"coarse",
+"vietnamese":"adj. thô"},
+
+
+{"english":"companion",
+"vietnamese":"n. bạn đồng hành"},
+
+
+{"english":"digest",
+"vietnamese":"v. tiêu hoá"},
+
+
+{"english":"duration",
+"vietnamese":"n. khoảng thời gian"},
+
+
+{"english":"ecology",
+"vietnamese":"n. sinh thái học"},
+
+
+{"english":"feat",
+"vietnamese":"n. kỳ tích"},
+
+
+{"english":"infinite",
+"vietnamese":"adj. vô hạn"},
+
+
+{"english":"nucleus",
+"vietnamese":"n. hạt nhân"},
+
+
+{"english":"parasite",
+"vietnamese":"n. vật ký sinh"},
+
+
+{"english":"prominent",
+"vietnamese":"adj. nổi bật"},
+
+
+{"english":"repetitive",
+"vietnamese":"adj. lặp đi lặp lại"},
+
+
+{"english":"reproductive",
+"vietnamese":"adj. sinh sản"},
+
+
+{"english":"temperate",
+"vietnamese":"adj. ôn hoà, ôn đới"},
+
+
+{"english":"tolerance",
+"vietnamese":"n. khoan dung"},
+
+
+{"english":"undergo",
+"vietnamese":"v. trải qua"},
+
+
+{"english":"vulnerable",
+"vietnamese":"adj. dễ bị tổn thương"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"alter",
+"vietnamese":"v. thay đổi nhỏ"},
+
+
+{"english":"aside",
+"vietnamese":"adv. qua một bên"},
+
+
+{"english":"autumn",
+"vietnamese":"n. mùa thu"},
+
+
+{"english":"blend",
+"vietnamese":"v. trộn"},
+
+
+{"english":"collapse",
+"vietnamese":"v. đổ, sụp"},
+
+
+{"english":"crush",
+"vietnamese":"v. đè bẹp, nghiền nát"},
+
+
+{"english":"curve",
+"vietnamese":"v. đường cong"},
+
+
+{"english":"disgusting",
+"vietnamese":"adj. kinh tởm"},
+
+
+{"english":"drain",
+"vietnamese":"n. ống cho nước chảy ra, ống tháo nước"},
+
+
+{"english":"embrace",
+"vietnamese":"v. ôm hôn"},
+
+
+{"english":"envy",
+"vietnamese":"v. ganh tỵ"},
+
+
+{"english":"fireworks",
+"vietnamese":"n. pháo hoa"},
+
+
+{"english":"flour",
+"vietnamese":"n. bột mỳ"},
+
+
+{"english":"fuse",
+"vietnamese":"n. cầu trì, dây nổ, ngòi"},
+
+
+{"english":"ginger",
+"vietnamese":"n. gừng"},
+
+
+{"english":"jealous",
+"vietnamese":"adj. gen tỵ"},
+
+
+{"english":"paste",
+"vietnamese":"n. bột nhão"},
+
+
+{"english":"receipt",
+"vietnamese":"n. biên nhận, biên lai"},
+
+
+{"english":"wipe",
+"vietnamese":"v. lau, chùi"},
+
+
+{"english":"wire",
+"vietnamese":"n. wire"}
+
+
+]

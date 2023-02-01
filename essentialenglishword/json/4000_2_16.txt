@@ -1,0 +1,82 @@
+[
+{"english":"chamber",
+"vietnamese":"n. buồng, phòng ngủ"},
+
+
+{"english":"deny",
+"vietnamese":"v. từ chối"},
+
+
+{"english":"document",
+"vietnamese":"n. tài liệu"},
+
+
+{"english":"emphasize",
+"vietnamese":"v. nhấn mạnh"},
+
+
+{"english":"fever",
+"vietnamese":"n. sốt"},
+
+
+{"english":"flu",
+"vietnamese":"n. cúm"},
+
+
+{"english":"freeze",
+"vietnamese":"v. đông cứng"},
+
+
+{"english":"gesture",
+"vietnamese":"n. chứng chỉ"},
+
+
+{"english":"interrupt",
+"vietnamese":"v. làm gián đoạn"},
+
+
+{"english":"last",
+"vietnamese":"v. cuối cùng"},
+
+
+{"english":"likeness",
+"vietnamese":"n. giống nhau"},
+
+
+{"english":"moreover",
+"vietnamese":"adv. hơn thế nữa"},
+
+
+{"english":"perspective",
+"vietnamese":"n. quan điểm"},
+
+
+{"english":"rational",
+"vietnamese":"adj. hợp lý"},
+
+
+{"english":"recover",
+"vietnamese":"v. phục hồi"},
+
+
+{"english":"rely",
+"vietnamese":"v. dựa vào, tin cậy"},
+
+
+{"english":"shock",
+"vietnamese":"v. sốc"},
+
+
+{"english":"shy",
+"vietnamese":"adj. rụt rè, mắc cỡ"},
+
+
+{"english":"stare",
+"vietnamese":"v. nhìn chằm chằm"},
+
+
+{"english":"thus",
+"vietnamese":"adv. do đó"}
+
+
+]

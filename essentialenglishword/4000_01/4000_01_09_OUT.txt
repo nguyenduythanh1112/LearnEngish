@@ -1,0 +1,82 @@
+against
+(prep): trái lại, chống lại, đối lại ( _ _ _ i _ _ _ )
+beach
+(n): bãi biển ( _ e _ _ _ )
+damage
+(v): làm hư hại, làm tổn hại ( _ _ _ _ g _ )
+discover
+(v): khám phá, tìm hiểu ( _ _ _ _ _ _ e r )
+emotion
+(n): cảm xúc ( e _ _ _ _ _ _ )
+fix
+(v): sửa chữa ( _ _ _ )
+frank
+(a): chân thành, thẳng thắn ( _ _ _ _ k )
+identify
+(v): nhận định, nhận danh ( _ d _ _ _ _ _ y )
+island
+(n): hòn đảo ( i _ _ _ _ _ )
+ocean
+(n): đại dương, biển cả ( _ c _ _ _ )
+perhaps
+(adv): có lẽ ( _ _ r _ _ _ _ )
+pleasant
+(a): dễ chịu ( _ _ _ a s _ _ _ )
+prevent
+(v): ngăn chặn, ngăn cản ( p _ _ _ _ _ _ )
+rock
+(n): hòn đá, tảng đá ( _ o _ _ )
+save
+(v): cứu, giải cứu ( _ _ _ e )
+step
+(v): bước đi ( s _ _ _ )
+still
+(adv): vẫn còn ( s _ _ _ _ )
+taste
+(n): nếm thử, mùi vị ( t _ _ _ _ )
+throw
+(v): ném ( _ h _ _ _ )
+throw about/around
+(pv): tiêu tiền một cách phung phí, ném tiền qua cửa sổ ( _ _ _ _ _ _ _ _ _ u t / _ _ _ _ n _ )
+throw away
+(pv): vứt cái gì không cần nữa ( _ h _ o _ _ _ _ _ _ )
+throw away
+(pv): lãng phí một kỹ năng hay cơ hội ( _ _ _ _ _ _ _ w a _ )
+throw back at
+(pv): nhắt ai đó về việc người đó đã nói, làm trong quá khứ ( _ _ _ _ w   _ a _ _ _ _ _ )
+throw down
+(pv): thách đấu ( _ _ _ _ _ _ _ o w _ )
+throw in
+(pv): tham gia, đồng hành với ( _ _ _ o _ _ i _ )
+throw in
+(pv): thêm cái gì vào mà không tăng giá ( _ h _ _ _ _ i _ )
+throw off
+(pv): tháo phụ kiện, cởi quần áo ( t _ r _ _ _ _ _ _ )
+throw off
+(pv): loại bỏ, thoát khỏi ( _ _ _ _ _ _ o f _ )
+throw on
+(pv): mặc quần áo nhanh chóng ( _ _ _ _ w   _ _ )
+throw over
+(pv): kết thúc một mối quan hệ với ai đó ( t h _ _ _ _ _ _ _ _ )
+throw out
+(pv): từ chối, loại bỏ, vứt bỏ, trục xuất, đưa ra nhiều sáng kiến, câu hỏi ( t _ _ _ _ _ _ _ t )
+throw out
+(pv): từ chối ( t h _ _ _ _ _ _ _ )
+throw out
+(pv): loại bỏ, vứt bỏ ( t _ _ o _ _ _ _ _ )
+throw out
+(pv): trục xuất, đưa ra nhiều sáng kiến, câu hỏi ( _ _ _ _ _ _ o u _ )
+throw out
+(pv): đưa ra nhiều sáng kiến, câu hỏi ( _ _ r _ _ _ o _ _ )
+throw together
+(pv): làm cho tình cờ gặp nhau, sắp xếp chuẩn bị nhanh chóng ( t _ _ _ _   _ _ _ _ _ h _ _ )
+throw together
+(pv): làm cho tình cờ gặp nhau ( _ _ _ _ w   _ _ _ _ _ _ _ r )
+throw together
+(pv): sắp xếp chuẩn bị nhanh chóng ( _ _ _ _ _ _ _ _ g _ _ h _ r )
+throw up
+(pv): nôn ói, đề xuất vấn đề, ý tưởng, rời bỏ công việc đột ngột ( _ h r _ _ _ _ _ )
+throw up
+(pv): nôn ói, đề xuất vấn đề, ý tưởng, rời bỏ công việc đột ngột ( _ _ _ o _ _ u _ )
+wave
+(n): sóng biển ( _ a _ _ )

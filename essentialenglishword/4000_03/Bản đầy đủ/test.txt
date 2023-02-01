@@ -1,0 +1,36 @@
+p1 : LOC = Montreal
+p2 : LOC = New York
+p3 : LOC = Paris
+p4 : BUDGET ≤ 200000
+p5 : BUDGET > 200000
+pr = p1,p2,p3,p4,p5
+
+Thử p1
+có p1 LOC = Montreal tách thành hai mảnh
+	ứng dụng 1 truy cập vào f1(chọn LOC = Montreal ) theo cách p1
+	ứng dụng 1 truy cập vào f2(chọn LOC = Montreal ) theo cách không phải p1
+
+Thử p2
+p2 không làm thay đổi f1
+p2 làm thay đổi f2 
+	f21 ứng dụng 1 truy cập vào f2 theo cách p2
+	f22 ứng dụng 1 truy cập vào f2 theo cách không phải p2
+
+Thử p3
+p3 không làm thay đổi f1
+p3 không làm thay đổi f21
+p3 làm thay đổi f22
+	f31 ứng dụng 1 truy cập vào f22 theo cách p3
+	f32 ứng dụng 1 truy cập vào f22 theo cách không phải p3
+Thử p4
+p4 làm thay đổi f1 thành
+	f11 ứng dụng 2 truy cập vào f1 theo cách p4
+	f12 ứng dụng 2 truy cập vào f1 theo cách không phải p4
+p4 làm thay đổi f21 thành
+	f211 ứng dụng 2 truy cập vào f1 theo cách p4
+	f212
+p4 làm thay đổi f31 thành
+	f311
+	f312
+
+

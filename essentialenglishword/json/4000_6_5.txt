@@ -1,0 +1,82 @@
+[
+{"english":"alternate",
+"vietnamese":"v. luôn phiên"},
+
+
+{"english":"apologetic",
+"vietnamese":"adj. có lỗi"},
+
+
+{"english":"benign",
+"vietnamese":"adj. lành tính"},
+
+
+{"english":"char",
+"vietnamese":"v. cháy"},
+
+
+{"english":"clarify",
+"vietnamese":"v. làm rõ"},
+
+
+{"english":"dogged",
+"vietnamese":"adj. bị cản trở"},
+
+
+{"english":"distress",
+"vietnamese":"n. đau khổ"},
+
+
+{"english":"ensue",
+"vietnamese":"v. xảy ra sau đó"},
+
+
+{"english":"gasp",
+"vietnamese":"v. thở hồn hển"},
+
+
+{"english":"negotiate",
+"vietnamese":"v. đàm phán"},
+
+
+{"english":"overdose",
+"vietnamese":"n. quá liều"},
+
+
+{"english":"persuasion",
+"vietnamese":"n. thuyết phục"},
+
+
+{"english":"relay",
+"vietnamese":"n. chạy tiếp sức"},
+
+
+{"english":"reluctance",
+"vietnamese":"n. miễn cưỡng, do dự"},
+
+
+{"english":"restate",
+"vietnamese":"v. trình bày lại"},
+
+
+{"english":"sesame",
+"vietnamese":"n. vừng"},
+
+
+{"english":"sip",
+"vietnamese":"v. nhâm nhi, nhấm nháp"},
+
+
+{"english":"verge",
+"vietnamese":"n. sắp, suýt; gần"},
+
+
+{"english":"wary",
+"vietnamese":"adj. thận trọng"},
+
+
+{"english":"waver",
+"vietnamese":"v. phân vân"}
+
+
+]

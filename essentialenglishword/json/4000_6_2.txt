@@ -1,0 +1,82 @@
+[
+{"english":"arduous",
+"vietnamese":"adj. gian khổ"},
+
+
+{"english":"attain",
+"vietnamese":"v. đạt được"},
+
+
+{"english":"coexist",
+"vietnamese":"v. cùng tồn tại"},
+
+
+{"english":"conceive",
+"vietnamese":"v. tưởng tượng, hình dung"},
+
+
+{"english":"dubious",
+"vietnamese":"adj. đáng ngờ"},
+
+
+{"english":"ego",
+"vietnamese":"n. cái tôi"},
+
+
+{"english":"elastic",
+"vietnamese":"n. dây đàn hồi"},
+
+
+{"english":"endeavor",
+"vietnamese":"n. nỗ lực"},
+
+
+{"english":"engrave",
+"vietnamese":"v. khắc"},
+
+
+{"english":"excavate",
+"vietnamese":"v. khai quật"},
+
+
+{"english":"jagged",
+"vietnamese":"adj. lởm chởm"},
+
+
+{"english":"locale",
+"vietnamese":"n. địa phương"},
+
+
+{"english":"mold",
+"vietnamese":"n. khuôn"},
+
+
+{"english":"outright",
+"vietnamese":"adj. không giấu giếm"},
+
+
+{"english":"periphery",
+"vietnamese":"n. ngoại vi"},
+
+
+{"english":"plaster",
+"vietnamese":"n. bột trát"},
+
+
+{"english":"shovel",
+"vietnamese":"n. xẻng"},
+
+
+{"english":"skeletal",
+"vietnamese":"adj. xương"},
+
+
+{"english":"terrestrial",
+"vietnamese":"adj. mặt đất"},
+
+
+{"english":"vicious",
+"vietnamese":"adj. hung ác"}
+
+
+]

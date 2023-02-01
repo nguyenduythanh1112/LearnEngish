@@ -1,0 +1,82 @@
+[
+{"english":"betray",
+"vietnamese":"v. phản bội"},
+
+
+{"english":"blast",
+"vietnamese":"n. vụ nổ"},
+
+
+{"english":"bracelet",
+"vietnamese":"n. vòng tay"},
+
+
+{"english":"cease",
+"vietnamese":"v. ngừng"},
+
+
+{"english":"choke",
+"vietnamese":"v. nghẹt thở"},
+
+
+{"english":"civil",
+"vietnamese":"adj. dân sự, nội"},
+
+
+{"english":"comment",
+"vietnamese":"v. bình luận"},
+
+
+{"english":"cross",
+"vietnamese":"v. bang qua"},
+
+
+{"english":"dent",
+"vietnamese":"n. vết lõm"},
+
+
+{"english":"distrust",
+"vietnamese":"v. không tin tưởng"},
+
+
+{"english":"fort",
+"vietnamese":"n. pháo đài"},
+
+
+{"english":"found",
+"vietnamese":"v. sáng lập, thành lập"},
+
+
+{"english":"lining",
+"vietnamese":"n. lót"},
+
+
+{"english":"mass",
+"vietnamese":"n. lượng lớn"},
+
+
+{"english":"pray",
+"vietnamese":"v. cầu nguyện"},
+
+
+{"english":"rife",
+"vietnamese":"adj. đầy rẫy"},
+
+
+{"english":"sole",
+"vietnamese":"adj. duy nhất"},
+
+
+{"english":"sweep",
+"vietnamese":"v. quét"},
+
+
+{"english":"treachery",
+"vietnamese":"n. phản bội"},
+
+
+{"english":"tuck",
+"vietnamese":"v. gài, nhét"}
+
+
+]

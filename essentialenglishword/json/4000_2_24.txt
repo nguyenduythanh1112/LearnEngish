@@ -1,0 +1,82 @@
+[
+{"english":"bath",
+"vietnamese":"n. bồn tắm"},
+
+
+{"english":"bend",
+"vietnamese":"v. bẻ cong"},
+
+
+{"english":"chew",
+"vietnamese":"v. nhai"},
+
+
+{"english":"disabled",
+"vietnamese":"adj. tàn tật"},
+
+
+{"english":"fantastic",
+"vietnamese":"adj. tuyệt diệu"},
+
+
+{"english":"fiction",
+"vietnamese":"n. viễn cảnh"},
+
+
+{"english":"flag",
+"vietnamese":"n. cờ"},
+
+
+{"english":"inspect",
+"vietnamese":"v. xem xét, kiểm tra"},
+
+
+{"english":"journal",
+"vietnamese":"n. tạp chí"},
+
+
+{"english":"liquid",
+"vietnamese":"n. chất lỏng"},
+
+
+{"english":"marvel",
+"vietnamese":"v. ngạc nhiên, lấy làm lạ"},
+
+
+{"english":"nutrient",
+"vietnamese":"n. chất dinh dưỡng"},
+
+
+{"english":"overcome",
+"vietnamese":"v. vượt qua"},
+
+
+{"english":"recall",
+"vietnamese":"v. hồi tưởng"},
+
+
+{"english":"regret",
+"vietnamese":"v. hối tiếc"},
+
+
+{"english":"soul",
+"vietnamese":"n. linh hồn"},
+
+
+{"english":"sufficient",
+"vietnamese":"adj. đầy đủ"},
+
+
+{"english":"surgery",
+"vietnamese":"n. phẫu thuật"},
+
+
+{"english":"tough",
+"vietnamese":"adj. khó khăn"},
+
+
+{"english":"tube",
+"vietnamese":"n. ống"}
+
+
+]

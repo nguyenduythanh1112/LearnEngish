@@ -1,0 +1,42 @@
+throw
+(v): ném ( _ _ _ _ w )
+throw about/around
+(pv): tiêu tiền một cách phung phí, ném tiền qua cửa sổ ( _ _ r _ _ _ _ b o _ _ / _ _ _ _ _ _ )
+throw away
+(pv): vứt cái gì không cần nữa ( t _ _ _ w _ _ _ _ _ )
+throw away
+(pv): lãng phí một kỹ năng hay cơ hội ( _ _ _ _ _   _ _ a _ )
+throw back at
+(pv): nhắt ai đó về việc người đó đã nói, làm trong quá khứ ( _ _ r _ _   _ _ _ _ _ a _ )
+throw down
+(pv): thách đấu ( _ _ _ _ _ _ d o _ _ )
+throw in
+(pv): tham gia, đồng hành với ( t _ _ _ _ _ i _ )
+throw in
+(pv): thêm cái gì vào mà không tăng giá ( _ _ _ _ _ _ i n )
+throw off
+(pv): tháo phụ kiện, cởi quần áo ( _ _ _ o _ _ o _ _ )
+throw off
+(pv): loại bỏ, thoát khỏi ( _ _ r _ _ _ o _ _ )
+throw on
+(pv): mặc quần áo nhanh chóng ( _ _ _ o _ _ _ n )
+throw over
+(pv): kết thúc một mối quan hệ với ai đó ( _ _ _ _ w _ o _ _ _ )
+throw out
+(pv): từ chối ( _ _ _ o w _ _ _ _ )
+throw out
+(pv): loại bỏ, vứt bỏ ( _ h _ _ _ _ o _ _ )
+throw out
+(pv): trục xuất ( _ _ r _ _   _ _ _ )
+throw out
+(pv): đưa ra nhiều sáng kiến, câu hỏi ( _ _ r _ w _ _ _ _ )
+throw together
+(pv): làm cho tình cờ gặp nhau ( _ _ _ _ _ _ t _ g _ _ h _ _ )
+throw together
+(pv): sắp xếp chuẩn bị nhanh chóng ( _ h _ _ _   _ o _ _ _ _ _ _ )
+throw up
+(pv): nôn ói ( t h _ _ _ _ _ _ )
+throw up
+(pv): đề xuất vấn đề, ý tưởng ( _ _ _ _ w _ u _ )
+throw up
+(pv): rời bỏ công việc đột ngột ( _ _ _ o _ _ u _ )

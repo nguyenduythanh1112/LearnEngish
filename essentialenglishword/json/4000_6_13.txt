@@ -1,0 +1,82 @@
+[
+{"english":"certify",
+"vietnamese":"v. chứng nhận"},
+
+
+{"english":"collaborate",
+"vietnamese":"v. cộng tác, hợp tác"},
+
+
+{"english":"compile",
+"vietnamese":"v. biên dịch"},
+
+
+{"english":"counteract",
+"vietnamese":"v. chống lại"},
+
+
+{"english":"curb",
+"vietnamese":"v. kiềm chế, chống lại"},
+
+
+{"english":"diagnose",
+"vietnamese":"v. chẩn đoán"},
+
+
+{"english":"enact",
+"vietnamese":"v. ban hành"},
+
+
+{"english":"federation",
+"vietnamese":"n. liên đoàn, liên bang"},
+
+
+{"english":"gross",
+"vietnamese":"adj. thô, gớm"},
+
+
+{"english":"humane",
+"vietnamese":"adj. nhân đạo"},
+
+
+{"english":"intolerable",
+"vietnamese":"adj. không thể chịu đựng được"},
+
+
+{"english":"needy",
+"vietnamese":"adj. thiếu thốn"},
+
+
+{"english":"onset",
+"vietnamese":"n. sự khởi đầu"},
+
+
+{"english":"pledge",
+"vietnamese":"v. cam kết"},
+
+
+{"english":"prohibit",
+"vietnamese":"v. cấm"},
+
+
+{"english":"rash",
+"vietnamese":"n. phát ban"},
+
+
+{"english":"render",
+"vietnamese":"v. trả lại, làm"},
+
+
+{"english":"smallpox",
+"vietnamese":"n. bệnh đậu mùa"},
+
+
+{"english":"transmit",
+"vietnamese":"v. truyền"},
+
+
+{"english":"vow",
+"vietnamese":"v. thề"}
+
+
+]

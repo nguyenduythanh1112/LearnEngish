@@ -1,0 +1,82 @@
+[
+{"english":"alert",
+"vietnamese":"v. cảnh báo"},
+
+
+{"english":"broadcast",
+"vietnamese":"n. phát sóng"},
+
+
+{"english":"bulletin",
+"vietnamese":"n. bản tin"},
+
+
+{"english":"bump",
+"vietnamese":"n. vết sưng, cục u"},
+
+
+{"english":"chop",
+"vietnamese":"v. chặt"},
+
+
+{"english":"closet",
+"vietnamese":"n. tủ quần áo"},
+
+
+{"english":"console",
+"vietnamese":"v. an ủi"},
+
+
+{"english":"district",
+"vietnamese":"n. huyện"},
+
+
+{"english":"drawer",
+"vietnamese":"n. ngăn kéo"},
+
+
+{"english":"endure",
+"vietnamese":"v. chịu đựng"},
+
+
+{"english":"execute",
+"vietnamese":"v. hành quyết, xử tử"},
+
+
+{"english":"grasp",
+"vietnamese":"v. nắm, cầm lấy"},
+
+
+{"english":"rear",
+"vietnamese":"n. phía sau"},
+
+
+{"english":"senator",
+"vietnamese":"n. thượng nghị sĩ"},
+
+
+{"english":"skull",
+"vietnamese":"n. hộp sọ"},
+
+
+{"english":"stir",
+"vietnamese":"v. khuấy"},
+
+
+{"english":"tap",
+"vietnamese":"v. vòi"},
+
+
+{"english":"tremendous",
+"vietnamese":"adj. khổng lồ"},
+
+
+{"english":"underneath",
+"vietnamese":"prep. bên dưới"},
+
+
+{"english":"worm",
+"vietnamese":"n. con sâu"}
+
+
+]

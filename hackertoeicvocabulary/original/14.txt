@@ -1,0 +1,256 @@
+agent
+n người đại lý, trung gian
+airport
+n sân bay
+beach
+n bãi biển
+boat
+n thuyền, tàu
+business class
+phr hạng thương gia
+connect
+v nối, kết nối
+departure time
+phr giờ khởi hành
+duty-free shop
+phr cửa hàng miễn thuế
+first class
+phr hạng nhất (trên máy bay)
+flight
+n chuyến bay
+go on vacation
+phr đi nghỉ
+guidebook
+n sách hướng dẫn (du lịch)
+journey
+n cuộc hành trình
+nonstop flight
+phr chuyến bay thẳng
+pack
+n gói, túi; v đóng gói, xếp đồ
+passport
+n hộ chiếu
+pilot
+n phi công
+salon
+n tiệm (làm đẹp, thời trang)
+span
+v mở rộng, nối, bắc qua (cầu)
+trip
+n chuyến đi
+border
+n biên giới, ranh giới
+central
+adj thuộc trung tâm, ở giữa
+safe
+adj an toàn
+sudden
+adj bất ngờ, đột ngột
+travel
+n chuyến đi; v đi lại, du lịch
+underwater
+adj dưới nước
+unique
+adj duy nhất, lạ thường
+visitor
+n du khách, khách đến thăm
+aboard
+adv trên tàu/xe/máy bay; prep lên trên
+aircraft
+n máy bay
+airfare
+n tiền vé máy bay
+aisle seat
+phr chỗ ngồi cạnh lối đi
+be on a trip
+phr trong chuyến đi
+board a flight
+phr lên máy bay
+boarding gate
+phr cửa lên máy bay
+boarding pass
+phr vé máy bay
+boarding time
+phr giờ lên máy bay
+by air
+phr bằng đường hàng không
+carry-on baggage
+phr hành lý xách tay tiếp
+connecting flight
+phr chuyến bay chuyển
+crew
+n phi hành đoàn
+cruise
+n tàu du lịch
+currency exchange
+phr trao đổi tiền tệ
+drift
+v trôi dạt, cuốn đi
+ferry
+n phà
+flight attendant
+phr tiếp viên hàng không
+fluid
+n chất lỏng
+guest pass
+phr thẻ ra vào của khách
+guided tour
+phr chuyến đi có hướng dẫn viên
+immigration
+n sự nhập cư
+in-flight
+adj trong chuyến bay
+landing
+n sự hạ cánh
+landmark
+n điểm mốc, bước ngoặt
+layover
+n chặng nghỉ, thời gian tạm nghỉ
+leave for
+phr lên đường đến
+line up
+phr xếp hàng
+luggage tag
+phr thẻ tên hành lý
+mainland
+n lục địa, đất liền
+missing luggage
+phr hành lý thất lạc
+native
+adj bản địa
+observation tower
+phr đài quan sát
+overbook
+v đặt chỗ trước quá nhiều (hết chỗ)
+overhead rack
+phr giá để đồ ở trên đầu
+overseas
+adj nước ngoài
+port
+n cảng, bến cảng
+porter
+n người khuân vác
+reclaim
+v lấy lại (hành lý)
+row the boat
+phr chèo thuyền
+stop over
+phr đỗ lại, tạm nghỉ
+take off
+phr cất cánh
+take one's bag off
+phr bỏ túi xuống
+train conductor
+phr người phục vụ hành khách trên tàu
+travel agency
+phr đại lý du lịch
+unload
+v dỡ ra, tháo ra
+unlock
+v mở khóa
+walking tour
+phr chuyến đi bộ tham quan
+distant
+adj xa, xa cách
+favor
+n sự ủng hộ, sự quý mến
+overhead
+adj ở trên đầu, trên cao
+remains
+n di tích
+remote
+adj xa, cách biệt
+rightly
+adv đúng đắn, công bằng
+travel arrangement
+phr sự chuẩn bị cho chuyến đi
+accumulate
+v chất đống, gom góp
+geographic
+adj thuộc về địa lý
+go through customs
+phr làm thủ tục qua cửa hải quan
+jet lag
+phr mệt mỏi do lệch múi giờ
+memorable
+ad đáng nhớ, không quên được
+memorial
+n đài tưởng niệm; adj thuộc ký ức
+precisely
+adv đúng, chính xác
+round trip
+phr chuyến đi khứ hồi
+runway
+n đường băng
+seasickness
+n say sóng
+suburban train line
+phr tuyến tàu ngoại ô
+voyage
+n chuyến du lịch (đường biển)
+wildlife
+n động vật hoang dã
+airsickness
+n say máy bay
+barge
+n sà lan
+be left unattended
+phr bị bỏ mặc
+buckle up (= fasten seatbelt)
+phr cài dây an toàn
+carousel
+n băng chuyển hành lý
+channel
+n kênh, eo biển
+deck
+n sàn (tàu, xe buýt)
+dock
+n bến tàu
+harbor
+n bến cảng; v neo ở cảng, đậu thuyền
+life preserver
+phr đồ cứu hộ
+meet one's flight
+phr đón ai đó đúng lúc chuyến bay vừa đến
+stall
+n quầy, sạp bán hàng; v ngăn, trì hoãn
+tie the boat to
+phr buộc thuyền vào
+turbulence
+n sự hỗn loạn
+allowance
+n sự cho phép, sự thừa nhận, sự chiếu cố
+concourse
+n hội trường, phòng lớn
+lodging
+n chỗ trọ, chỗ tạm trú
+presumable
+adj có thể đoán được
+touch down
+phr hạ cánh, đậu xuống
+aviation
+n hàng không
+charter plane
+phr máy bay thuê riêng
+confer
+v bàn bạc, hội ý
+disembark (= get off, leave)
+v xuống xe, lên bờ
+dispense
+v phân phối, phân phát
+impound
+v tịch thu
+motion sickness
+phr say tàu xe
+prestigious
+adj có uy tín
+quarantine desk
+phr đội kiểm dịch
+remittance
+n việc gửi tiền, khoản tiền gửi
+swap
+v tráo đổi, hoán đổi
+turn up
+phr xuất hiện
+vessel
+n thuyền lớn, tàu lớn

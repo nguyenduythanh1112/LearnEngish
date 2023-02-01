@@ -1,0 +1,82 @@
+[
+{"english":"accessory",
+"vietnamese":"n. phụ kiện"},
+
+
+{"english":"acquisition",
+"vietnamese":"n. mua lại"},
+
+
+{"english":"adequate",
+"vietnamese":"adj. đầy đủ"},
+
+
+{"english":"cardboard",
+"vietnamese":"n. các tông"},
+
+
+{"english":"dilemma",
+"vietnamese":"n. sự khó xử"},
+
+
+{"english":"elaborate",
+"vietnamese":"adj. trau chuốt"},
+
+
+{"english":"facilitate",
+"vietnamese":"v. tạo điều kiện thuận lợi"},
+
+
+{"english":"fleet",
+"vietnamese":"n. hạm đội"},
+
+
+{"english":"grid",
+"vietnamese":"n. lưới"},
+
+
+{"english":"import",
+"vietnamese":"v. nhập khẩu"},
+
+
+{"english":"infer",
+"vietnamese":"v. suy diễn"},
+
+
+{"english":"inflate",
+"vietnamese":"v. bơm hơi, thổi phồng"},
+
+
+{"english":"innate",
+"vietnamese":"adj. bẩm sinh"},
+
+
+{"english":"marble",
+"vietnamese":"n. đá cẩm thạch"},
+
+
+{"english":"mast",
+"vietnamese":"n. cột buồm"},
+
+
+{"english":"nausea",
+"vietnamese":"n. buồn nôn"},
+
+
+{"english":"naval",
+"vietnamese":"adj. hải quân"},
+
+
+{"english":"pouch",
+"vietnamese":"n. túi"},
+
+
+{"english":"saturated",
+"vietnamese":"adj. bão hòa"},
+
+
+{"english":"update",
+"vietnamese":"n. cập nhật"}
+
+
+]

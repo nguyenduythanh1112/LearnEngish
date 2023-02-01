@@ -1,0 +1,82 @@
+[
+{"english":"apparent",
+"vietnamese":"adj.rõ ràng"},
+
+
+{"english":"blind",
+"vietnamese":"adj.mù, mù quáng"},
+
+
+{"english":"calculate",
+"vietnamese":"v.tính toán"},
+
+
+{"english":"chat",
+"vietnamese":"v.trò chuyện"},
+
+
+{"english":"commit",
+"vietnamese":"v.cam kết"},
+
+
+{"english":"compose",
+"vietnamese":"v.soạn, biên soạn"},
+
+
+{"english":"dormitory",
+"vietnamese":"n.ký túc xá"},
+
+
+{"english":"exhaust",
+"vietnamese":"v.làm kiệt sức"},
+
+
+{"english":"greenhouse",
+"vietnamese":"n.nhà kính"},
+
+
+{"english":"ignore",
+"vietnamese":"v.bỏ qua, không chấp nhận"},
+
+
+{"english":"obvious",
+"vietnamese":"adj.hiển nhiên, rõ ràng"},
+
+
+{"english":"physics",
+"vietnamese":"n.vật lý"},
+
+
+{"english":"portion",
+"vietnamese":"n.phần"},
+
+
+{"english":"remind",
+"vietnamese":"v.nhắc lại, nhắc nhở"},
+
+
+{"english":"secretary",
+"vietnamese":"n.thư ký"},
+
+
+{"english":"severe",
+"vietnamese":"adj.nghiêm trọng"},
+
+
+{"english":"talent",
+"vietnamese":"n.năng lực"},
+
+
+{"english":"thesis",
+"vietnamese":"n.luận văn"},
+
+
+{"english":"uniform",
+"vietnamese":"n.đồng phục"},
+
+
+{"english":"vision",
+"vietnamese":"n.taamg nhìn"}
+
+
+]

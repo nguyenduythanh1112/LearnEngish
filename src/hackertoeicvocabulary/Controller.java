@@ -47,9 +47,11 @@ public class Controller {
         try {
             PrintWriter printWriter=new PrintWriter(new File(path));
             printWriter.println("[");
-            for (Word word:words){
+            for(int i=0;i<words.size();i++){
+                Word word=words.get(i);
                 printWriter.println("{\"english\":"+"\""+word.getE()+"\",");
-                printWriter.println("\"vietnamese\":"+"\""+word.getV()+"\"},");
+                if(i==words.size()-1) printWriter.println("\"vietnamese\":"+"\""+word.getV()+"\"}");
+                else printWriter.println("\"vietnamese\":"+"\""+word.getV()+"\"},");
                 printWriter.println("\n");
             }
             printWriter.println("]");

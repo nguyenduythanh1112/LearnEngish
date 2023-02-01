@@ -1,0 +1,82 @@
+[
+{"english":"account",
+"vietnamese":"n. tài khoản"},
+
+
+{"english":"architect",
+"vietnamese":"n. kiến trúc sư"},
+
+
+{"english":"conceal",
+"vietnamese":"v. che giấu"},
+
+
+{"english":"crime",
+"vietnamese":"n. tội ác"},
+
+
+{"english":"deed",
+"vietnamese":"n. chứng thư"},
+
+
+{"english":"gratitude",
+"vietnamese":"n. lòng biết ơn"},
+
+
+{"english":"habitat",
+"vietnamese":"n. môi trường sống"},
+
+
+{"english":"intervene",
+"vietnamese":"v. can thiệp"},
+
+
+{"english":"landmark",
+"vietnamese":"n. cột mốc"},
+
+
+{"english":"legal",
+"vietnamese":"adj. hợp pháp"},
+
+
+{"english":"memorable",
+"vietnamese":"adj. đáng nhớ"},
+
+
+{"english":"oblige",
+"vietnamese":"v. bắt buộc"},
+
+
+{"english":"offense",
+"vietnamese":"n. sự xúc phạm"},
+
+
+{"english":"proclaim",
+"vietnamese":"v. công bố, tuyên bố"},
+
+
+{"english":"rally",
+"vietnamese":"n. cuộc biểu tình"},
+
+
+{"english":"resolve",
+"vietnamese":"v. giải quyết"},
+
+
+{"english":"resource",
+"vietnamese":"n. tài nguyên, nguồn lực"},
+
+
+{"english":"sentence",
+"vietnamese":"n. bản án"},
+
+
+{"english":"volunteer",
+"vietnamese":"v. tình nguyện viên"},
+
+
+{"english":"witness",
+"vietnamese":"n. nhân chứng"}
+
+
+]

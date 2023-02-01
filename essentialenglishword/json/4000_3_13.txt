@@ -1,0 +1,82 @@
+[
+{"english":"aboard",
+"vietnamese":"prep. trên tàu, máy bay"},
+
+
+{"english":"bitter",
+"vietnamese":"adj. cay đắng, cay cú"},
+
+
+{"english":"bullet",
+"vietnamese":"n. đạn"},
+
+
+{"english":"devil",
+"vietnamese":"n. ác quỷ"},
+
+
+{"english":"drift",
+"vietnamese":"v. trôi dạt"},
+
+
+{"english":"enforce",
+"vietnamese":"v. bắt tuân theo"},
+
+
+{"english":"fountain",
+"vietnamese":"n. đài phun nước"},
+
+
+{"english":"harbor",
+"vietnamese":"n. hải cảng"},
+
+
+{"english":"inhabit",
+"vietnamese":"v. sinh sống"},
+
+
+{"english":"march",
+"vietnamese":"v. hành quân"},
+
+
+{"english":"millionaire",
+"vietnamese":"n. triệu phú"},
+
+
+{"english":"port",
+"vietnamese":"n. hải cảng"},
+
+
+{"english":"sheriff",
+"vietnamese":"n. cảnh sát trưởng"},
+
+
+{"english":"startle",
+"vietnamese":"v. giật mình"},
+
+
+{"english":"sweat",
+"vietnamese":"v. mồ hôi"},
+
+
+{"english":"trigger",
+"vietnamese":"n. cò súng"},
+
+
+{"english":"unify",
+"vietnamese":"v. hợp nhất"},
+
+
+{"english":"vessel",
+"vietnamese":"n. tàu"},
+
+
+{"english":"voyage",
+"vietnamese":"n. hành trình"},
+
+
+{"english":"worship",
+"vietnamese":"v. sùng bái"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"aesthetic",
+"vietnamese":"adj. thẩm mỹ"},
+
+
+{"english":"arrogant",
+"vietnamese":"adj. kiêu căng"},
+
+
+{"english":"bias",
+"vietnamese":"n. thành kiến"},
+
+
+{"english":"canyon",
+"vietnamese":"n. hẻm núi"},
+
+
+{"english":"creek",
+"vietnamese":"n. con lạch"},
+
+
+{"english":"drill",
+"vietnamese":"n. máy khoan"},
+
+
+{"english":"executive",
+"vietnamese":"n. giám đốc điều hành"},
+
+
+{"english":"fatigue",
+"vietnamese":"n. mệt mỏi"},
+
+
+{"english":"incline",
+"vietnamese":"n. ngả nghiêng"},
+
+
+{"english":"nasty",
+"vietnamese":"adj. khó chịu"},
+
+
+{"english":"perceive",
+"vietnamese":"v. nhận thức"},
+
+
+{"english":"primate",
+"vietnamese":"n. linh trưởng"},
+
+
+{"english":"primitive",
+"vietnamese":"adj. nguyên thủy"},
+
+
+{"english":"stereotype",
+"vietnamese":"n. định kiến"},
+
+
+{"english":"sticky",
+"vietnamese":"adj. dính"},
+
+
+{"english":"termite",
+"vietnamese":"n. mối, mọt"},
+
+
+{"english":"thereby",
+"vietnamese":"adv. do đó"},
+
+
+{"english":"trail",
+"vietnamese":"n. đường mòn"},
+
+
+{"english":"twig",
+"vietnamese":"n. cành"},
+
+
+{"english":"welfare",
+"vietnamese":"n. phúc lợi"}
+
+
+]

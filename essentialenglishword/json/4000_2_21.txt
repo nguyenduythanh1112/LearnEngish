@@ -1,0 +1,82 @@
+[
+{"english":"astronaut",
+"vietnamese":"n. phi hành gia"},
+
+
+{"english":"awake",
+"vietnamese":"adj. thức tỉnh, nhắc lại"},
+
+
+{"english":"courage",
+"vietnamese":"n. lòng can đảm"},
+
+
+{"english":"float",
+"vietnamese":"v. trôi nổi"},
+
+
+{"english":"grant",
+"vietnamese":"v. bẳng lòng, chấp nhận"},
+
+
+{"english":"gravity",
+"vietnamese":"n. lực hấp dẫn"},
+
+
+{"english":"jewel",
+"vietnamese":"n. ngọc, đá quý"},
+
+
+{"english":"miner",
+"vietnamese":"n. thợ mỏ"},
+
+
+{"english":"mineral",
+"vietnamese":"n. khoáng sản"},
+
+
+{"english":"participate",
+"vietnamese":"v. tham dự"},
+
+
+{"english":"permission",
+"vietnamese":"n. sự cho phép"},
+
+
+{"english":"pour",
+"vietnamese":"v. rót nước, đổ nước"},
+
+
+{"english":"presence",
+"vietnamese":"n. sự hiện diện"},
+
+
+{"english":"raw",
+"vietnamese":"adj. thô, chưa được xử lý"},
+
+
+{"english":"satellite",
+"vietnamese":"n. vệ tinh"},
+
+
+{"english":"scale",
+"vietnamese":"n. tỉ lệ"},
+
+
+{"english":"skip",
+"vietnamese":"v. bỏ qua"},
+
+
+{"english":"stretch",
+"vietnamese":"v. căng qua"},
+
+
+{"english":"telescope",
+"vietnamese":"n.kính viễn vọng"},
+
+
+{"english":"underground",
+"vietnamese":"adv. dưới lòng đất"}
+
+
+]

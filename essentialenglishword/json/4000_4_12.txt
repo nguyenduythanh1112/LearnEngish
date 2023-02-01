@@ -1,0 +1,82 @@
+[
+{"english":"alternative",
+"vietnamese":"n. sự thay thế"},
+
+
+{"english":"avenue",
+"vietnamese":"n. đại lộ"},
+
+
+{"english":"belly",
+"vietnamese":"n. bụng"},
+
+
+{"english":"bid",
+"vietnamese":"n. sự trả giá"},
+
+
+{"english":"blow",
+"vietnamese":"v. thổi"},
+
+
+{"english":"conflict",
+"vietnamese":"n. cuộc xung đột"},
+
+
+{"english":"continent",
+"vietnamese":"n. lục địa"},
+
+
+{"english":"current",
+"vietnamese":"n. hiện tại"},
+
+
+{"english":"disrespect",
+"vietnamese":"n. không tôn trọng"},
+
+
+{"english":"enthusiasm",
+"vietnamese":"n. sự nhiệt tình"},
+
+
+{"english":"harsh",
+"vietnamese":"adj. khắc nghiệt"},
+
+
+{"english":"lean",
+"vietnamese":"v. dựa"},
+
+
+{"english":"meantime",
+"vietnamese":"n. thời gian chờ đợi"},
+
+
+{"english":"mischief",
+"vietnamese":"n. nghịch ngợm"},
+
+
+{"english":"muscle",
+"vietnamese":"n. cơ"},
+
+
+{"english":"rescue",
+"vietnamese":"v. giải cứu"},
+
+
+{"english":"succession",
+"vietnamese":"n. sự kế vị"},
+
+
+{"english":"terrain",
+"vietnamese":"n. địa hình"},
+
+
+{"english":"timid",
+"vietnamese":"adj. nhút nhát"},
+
+
+{"english":"violence",
+"vietnamese":"n. bạo lực"}
+
+
+]

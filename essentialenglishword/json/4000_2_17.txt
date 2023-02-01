@@ -1,0 +1,82 @@
+[
+{"english":"aim",
+"vietnamese":"n. mục đích"},
+
+
+{"english":"attach",
+"vietnamese":"v. gắn, dán, trói buộc, đính kèm"},
+
+
+{"english":"bet",
+"vietnamese":"v. đánh cược, cá cược"},
+
+
+{"english":"carriage",
+"vietnamese":"n. xe ngựa"},
+
+
+{"english":"classic",
+"vietnamese":"adj. cổ điển"},
+
+
+{"english":"commute",
+"vietnamese":"v. đi lại"},
+
+
+{"english":"confirm",
+"vietnamese":"v. xác nhận"},
+
+
+{"english":"criticize",
+"vietnamese":"v. chỉ trích"},
+
+
+{"english":"differ",
+"vietnamese":"v. khác nhau"},
+
+
+{"english":"expense",
+"vietnamese":"n. chi phí"},
+
+
+{"english":"formal",
+"vietnamese":"adj. chính thức"},
+
+
+{"english":"height",
+"vietnamese":"n. chiều cao"},
+
+
+{"english":"invent",
+"vietnamese":"v. phát minh"},
+
+
+{"english":"junior",
+"vietnamese":"adj. trẻ tuổi hơn, ít kinh nghiệm làm việc"},
+
+
+{"english":"labor",
+"vietnamese":"n. lao động"},
+
+
+{"english":"mechanic",
+"vietnamese":"n. cơ khí"},
+
+
+{"english":"prime",
+"vietnamese":"adj. nguyên tố, quan trọng"},
+
+
+{"english":"shift",
+"vietnamese":"v. sự dịch chuyển"},
+
+
+{"english":"signal",
+"vietnamese":"n. tín hiệu"},
+
+
+{"english":"sincere",
+"vietnamese":"adj. chân thành"}
+
+
+]

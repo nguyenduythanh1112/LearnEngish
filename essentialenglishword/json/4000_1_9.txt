@@ -1,0 +1,166 @@
+[
+{"english":"against",
+"vietnamese":"(prep): trái lại, chống lại, đối lại"},
+
+
+{"english":"beach",
+"vietnamese":"(n): bãi biển"},
+
+
+{"english":"damage",
+"vietnamese":"(v): làm hư hại, làm tổn hại"},
+
+
+{"english":"discover",
+"vietnamese":"(v): khám phá, tìm hiểu"},
+
+
+{"english":"emotion",
+"vietnamese":"(n): cảm xúc"},
+
+
+{"english":"fix",
+"vietnamese":"(v): sửa chữa"},
+
+
+{"english":"frank",
+"vietnamese":"(a): chân thành, thẳng thắn"},
+
+
+{"english":"identify",
+"vietnamese":"(v): nhận định, nhận danh"},
+
+
+{"english":"island",
+"vietnamese":"(n): hòn đảo"},
+
+
+{"english":"ocean",
+"vietnamese":"(n): đại dương, biển cả"},
+
+
+{"english":"perhaps",
+"vietnamese":"(adv): có lẽ"},
+
+
+{"english":"pleasant",
+"vietnamese":"(a): dễ chịu"},
+
+
+{"english":"prevent",
+"vietnamese":"(v): ngăn chặn, ngăn cản"},
+
+
+{"english":"rock",
+"vietnamese":"(n): hòn đá, tảng đá"},
+
+
+{"english":"save",
+"vietnamese":"(v): cứu, giải cứu"},
+
+
+{"english":"step",
+"vietnamese":"(v): bước đi"},
+
+
+{"english":"still",
+"vietnamese":"(adv): vẫn còn"},
+
+
+{"english":"taste",
+"vietnamese":"(n): nếm thử, mùi vị"},
+
+
+{"english":"throw",
+"vietnamese":"(v): ném"},
+
+
+{"english":"throw about/around",
+"vietnamese":"(pv): tiêu tiền một cách phung phí, ném tiền qua cửa sổ"},
+
+
+{"english":"throw away",
+"vietnamese":"(pv): vứt cái gì không cần nữa"},
+
+
+{"english":"throw away",
+"vietnamese":"(pv): lãng phí một kỹ năng hay cơ hội"},
+
+
+{"english":"throw back at",
+"vietnamese":"(pv): nhắt ai đó về việc người đó đã nói, làm trong quá khứ"},
+
+
+{"english":"throw down",
+"vietnamese":"(pv): thách đấu"},
+
+
+{"english":"throw in",
+"vietnamese":"(pv): tham gia, đồng hành với"},
+
+
+{"english":"throw in",
+"vietnamese":"(pv): thêm cái gì vào mà không tăng giá"},
+
+
+{"english":"throw off",
+"vietnamese":"(pv): tháo phụ kiện, cởi quần áo"},
+
+
+{"english":"throw off",
+"vietnamese":"(pv): loại bỏ, thoát khỏi"},
+
+
+{"english":"throw on",
+"vietnamese":"(pv): mặc quần áo nhanh chóng"},
+
+
+{"english":"throw over",
+"vietnamese":"(pv): kết thúc một mối quan hệ với ai đó"},
+
+
+{"english":"throw out",
+"vietnamese":"(pv): từ chối, loại bỏ, vứt bỏ, trục xuất, đưa ra nhiều sáng kiến, câu hỏi"},
+
+
+{"english":"throw out",
+"vietnamese":"(pv): từ chối"},
+
+
+{"english":"throw out",
+"vietnamese":"(pv): loại bỏ, vứt bỏ"},
+
+
+{"english":"throw out",
+"vietnamese":"(pv): trục xuất, đưa ra nhiều sáng kiến, câu hỏi"},
+
+
+{"english":"throw out",
+"vietnamese":"(pv): đưa ra nhiều sáng kiến, câu hỏi"},
+
+
+{"english":"throw together",
+"vietnamese":"(pv): làm cho tình cờ gặp nhau, sắp xếp chuẩn bị nhanh chóng"},
+
+
+{"english":"throw together",
+"vietnamese":"(pv): làm cho tình cờ gặp nhau"},
+
+
+{"english":"throw together",
+"vietnamese":"(pv): sắp xếp chuẩn bị nhanh chóng"},
+
+
+{"english":"throw up",
+"vietnamese":"(pv): nôn ói, đề xuất vấn đề, ý tưởng, rời bỏ công việc đột ngột"},
+
+
+{"english":"throw up",
+"vietnamese":"(pv): nôn ói, đề xuất vấn đề, ý tưởng, rời bỏ công việc đột ngột"},
+
+
+{"english":"wave",
+"vietnamese":"(n): sóng biển"}
+
+
+]

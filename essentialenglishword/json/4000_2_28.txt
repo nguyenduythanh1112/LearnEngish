@@ -1,0 +1,82 @@
+[
+{"english":"accompany",
+"vietnamese":"v. đi cùng"},
+
+
+{"english":"bare",
+"vietnamese":"adj. trần trụi"},
+
+
+{"english":"branch",
+"vietnamese":"n. nhánh cây"},
+
+
+{"english":"breath",
+"vietnamese":"n. hơi thở"},
+
+
+{"english":"bridge",
+"vietnamese":"n. cầu"},
+
+
+{"english":"cast",
+"vietnamese":"v. ném"},
+
+
+{"english":"dare",
+"vietnamese":"v. mạo hiểm"},
+
+
+{"english":"electronic",
+"vietnamese":"adj. điện tử"},
+
+
+{"english":"inn",
+"vietnamese":"n. quán trọ"},
+
+
+{"english":"net",
+"vietnamese":"n. lưới đánh cá"},
+
+
+{"english":"philosophy",
+"vietnamese":"n. triết học"},
+
+
+{"english":"pot",
+"vietnamese":"n. cái nồi"},
+
+
+{"english":"seed",
+"vietnamese":"n. hạt giống"},
+
+
+{"english":"sharp",
+"vietnamese":"adj. nhọn, bén, sắc"},
+
+
+{"english":"sort",
+"vietnamese":"n. sắp xếp"},
+
+
+{"english":"subtract",
+"vietnamese":"v. trừ"},
+
+
+{"english":"tight",
+"vietnamese":"adj. chặt chẽ"},
+
+
+{"english":"virtual",
+"vietnamese":"adj. ảo"},
+
+
+{"english":"weigh",
+"vietnamese":"v. cân nặng"},
+
+
+{"english":"whisper",
+"vietnamese":"v. thì thầm"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"altogether",
+"vietnamese":"adv. hoàn toàn"},
+
+
+{"english":"bind",
+"vietnamese":"v. ràng buộc"},
+
+
+{"english":"bruise",
+"vietnamese":"n. vết thâm tím"},
+
+
+{"english":"custom",
+"vietnamese":"n. phong tục, tùy chỉnh"},
+
+
+{"english":"disobedient",
+"vietnamese":"adj. không vâng lời"},
+
+
+{"english":"foresee",
+"vietnamese":"v. thấy trước, biết trước"},
+
+
+{"english":"glimpse",
+"vietnamese":"v. nhìn thoáng qua"},
+
+
+{"english":"hoop",
+"vietnamese":"n. vòng"},
+
+
+{"english":"misfortune",
+"vietnamese":"n. họa, bất hạnh"},
+
+
+{"english":"negative",
+"vietnamese":"adj. tiêu cực, phủ định, âm tính"},
+
+
+{"english":"per",
+"vietnamese":"prep. mỗi"},
+
+
+{"english":"plead",
+"vietnamese":"v. van nài, cầu xin"},
+
+
+{"english":"rip",
+"vietnamese":"v. xé"},
+
+
+{"english":"sake",
+"vietnamese":"n. lợi ích"},
+
+
+{"english":"scrape",
+"vietnamese":"v. cạo"},
+
+
+{"english":"source",
+"vietnamese":"n. nguồn"},
+
+
+{"english":"stern",
+"vietnamese":"adj. nghiêm khắc"},
+
+
+{"english":"stitch",
+"vietnamese":"v. khâu"},
+
+
+{"english":"thump",
+"vietnamese":"n. tiếng đập"},
+
+
+{"english":"vehement",
+"vietnamese":"adj. kịch liệt"}
+
+
+]

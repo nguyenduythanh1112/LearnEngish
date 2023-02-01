@@ -1,0 +1,82 @@
+[
+{"english":"block",
+"vietnamese":"(danh từ): khối"},
+
+
+{"english":"cheer",
+"vietnamese":"(động từ): uống mừng"},
+
+
+{"english":"complex",
+"vietnamese":"(tính từ): phức tạp"},
+
+
+{"english":"critic",
+"vietnamese":"(danh từ): nhà phê bình"},
+
+
+{"english":"event",
+"vietnamese":"(danh từ): sự kiện"},
+
+
+{"english":"exercise",
+"vietnamese":"(danh từ): bài tập thể dục"},
+
+
+{"english":"fit",
+"vietnamese":"(động từ): vừa vặn"},
+
+
+{"english":"friendship",
+"vietnamese":"(danh từ): tình bạn"},
+
+
+{"english":"guide",
+"vietnamese":"(danh từ): người hướng dẫn"},
+
+
+{"english":"lack",
+"vietnamese":"(động từ): thiếu đi"},
+
+
+{"english":"passage",
+"vietnamese":"(danh từ): lối đi, đường hầm, đường vượt"},
+
+
+{"english":"perform",
+"vietnamese":"(động từ): trình diễn"},
+
+
+{"english":"pressure",
+"vietnamese":"(danh từ): áp lực"},
+
+
+{"english":"probable",
+"vietnamese":"(tính từ): có thể"},
+
+
+{"english":"public",
+"vietnamese":"(tính từ): công cộng"},
+
+
+{"english":"strike",
+"vietnamese":"(động từ): đâm vào, đánh vào"},
+
+
+{"english":"support",
+"vietnamese":"(động từ): giúp đỡ"},
+
+
+{"english":"task",
+"vietnamese":"(danh từ): nhiệm vụ"},
+
+
+{"english":"term",
+"vietnamese":"(danh từ): thuật ngữ"},
+
+
+{"english":"unite",
+"vietnamese":"(động từ): đoàn kết lại"}
+
+
+]

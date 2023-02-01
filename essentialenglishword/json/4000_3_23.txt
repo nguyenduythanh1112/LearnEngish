@@ -1,0 +1,82 @@
+[
+{"english":"aborigine",
+"vietnamese":"n. thổ dân"},
+
+
+{"english":"ban",
+"vietnamese":"v. cấm"},
+
+
+{"english":"cautious",
+"vietnamese":"adj. cẩn thận"},
+
+
+{"english":"confess",
+"vietnamese":"v. thú nhận"},
+
+
+{"english":"cottage",
+"vietnamese":"n. nhà tranh, nhà quê"},
+
+
+{"english":"daytime",
+"vietnamese":"n. ban ngày"},
+
+
+{"english":"desperate",
+"vietnamese":"adj. tuyệt vọng"},
+
+
+{"english":"fade",
+"vietnamese":"v. phai màu"},
+
+
+{"english":"fierce",
+"vietnamese":"adj. hung dữ"},
+
+
+{"english":"gamble",
+"vietnamese":"v. đánh bạc"},
+
+
+{"english":"lawn",
+"vietnamese":"n. bãi cỏ"},
+
+
+{"english":"mow",
+"vietnamese":"v. cắt cỏ"},
+
+
+{"english":"outlaw",
+"vietnamese":"n. kẻ ngoài vòng pháp luật"},
+
+
+{"english":"prospect",
+"vietnamese":"n. tiềm năng, triển vọng"},
+
+
+{"english":"purse",
+"vietnamese":"n. cái ví"},
+
+
+{"english":"rod",
+"vietnamese":"n. gậy"},
+
+
+{"english":"seldom",
+"vietnamese":"adv. hiếm khi"},
+
+
+{"english":"shave",
+"vietnamese":"v. cạo râu"},
+
+
+{"english":"terrified",
+"vietnamese":"adj. khiếp sợ"},
+
+
+{"english":"wizard",
+"vietnamese":"n. thuật sỹ"}
+
+
+]

@@ -1,0 +1,256 @@
+checklist
+n bảng liệt kê các mục cần kiểm tra
+client
+n khách hàng
+communicate
+v giao tiếp, truyền đạt
+exchange
+n sự trao đổi; v đổi, trao đổi
+film studio
+phr phim trường
+journal
+n tạp chí, báo
+journalist
+n nhà báo
+magazine
+n tạp chí
+newspaper
+n tờ báo
+newsstand
+n quầy báo, sạp báo
+parade
+n cuộc diễu hành
+publisher
+n nhà xuất bản
+reader
+n người đọc, độc giả
+reporter
+n phóng viên, người báo cáo
+sales trend
+phr xu hướng bán hàng
+comforting
+adj có thể an ủi
+excellently
+adv tuyệt vời, xuất sắc
+export
+v xuất khẩu; n hàng xuất khẩu
+former
+adj trước, cũ
+govern
+v quản lý, cai trị
+government
+n chính quyền, sự cai trị
+import
+v nhập khẩu; n hàng nhập khẩu
+politician
+n chính trị gia
+politics
+n chính trị, quan điểm chính trị
+shortly
+adv chẳng mấy chốc, vắn tắt, ngắn gọn
+start
+v bắt đầu; n buổi đầu, sự khởi đầu
+supplier
+n nhà cung cấp
+unlikely
+adj không chắc, không có thực
+back away from
+phr lùi xa khỏi
+be closed for the day 
+phr đóng cửa (hết giờ làm việc)
+be determined to do
+phr quyết tâm làm gì
+business day
+phr ngày làm việc
+commercial space
+phr không gian/mặt bằng kinh doanh
+day after tomorrow
+phr ngày kia
+front-page story
+phr câu chuyện trên trang nhất
+give a good price
+phr đưa ra một mức giá tốt
+headline
+n tiêu đề, dòng tít
+in stock
+phr có hàng (còn trong kho)
+lead (up/down) to
+phr dẫn đến
+make a recording
+phr ghi âm
+normal operating hours
+phr giờ làm việc bình thường
+on sale
+phe bản giảm giá
+on the market
+phr trên thị trường.
+out of print
+phr không xuất bản nữa
+out of stock
+phr hết hàng
+overcharge
+v bán quá đắt, nói thách
+payment option
+phr phương thức thanh toán
+place an order
+phr đặt hàng
+put A out for sale
+phr dua A ra bán
+retail store
+phr cửa hàng bán lẻ
+run out of
+phr hết, can kiệt
+sales presentation
+phr bài thuyết trình bán hàng
+salesperson
+n nhân viên bán hàng
+sold out
+phr hết hàng
+stay open late
+phr mở cửa muộn
+stockroom
+n nhà kho
+storage facility
+phr kho hàng, kho lưu trữ
+storeroom
+n kho hàng
+take inventory
+phr kiểm kê
+accordingly
+adv vì vậy, cho nên
+adaptable
+ad có thể thích nghi
+along with
+phr cùng với, kèm theo
+at the latest
+phr muộn nhất là
+compliant
+adj mềm mỏng, phục tùng
+correspond
+v tương xứng, đối nhau
+cultivation
+n sự trồng trọt, sự nuôi dưỡng
+do business with 
+phr buôn bán/giao dịch với
+had better do
+phr tốt hơn nên
+honorable
+adj đáng kính trọng, vinh dự
+perceptive
+adj (thuộc) nhận thức, nhận thức được
+reasonably
+adv hợp lý, vừa phải
+transformation
+n sự biến đổi
+attain
+v đạt được
+barter
+v đổi, đổi chác; n sự đổi chác
+boycott
+v tẩy chay; n sự tẩy chay 
+capitalize on
+phr lợi dụng, tranh thủ cơ hội
+council
+n hội đồng
+Department of Commerce
+phr Bộ Thương mại
+depot
+n kho chứa, kho hàng
+diminish
+v giảm, bớt
+duty-free
+adj miễn thuế
+election
+n cuộc bầu cử
+exercise one's right
+phr sử dụng quyền của
+federal
+adj (thuộc) liên bang
+hold power
+phr cầm quyền, nắm quyền 
+inclination
+n sự nghiêng, độ nghiêng
+inevitable
+adj không thể tránh được
+loyal customer
+phr khách hàng trung thành 
+outside provider
+phr nhà cung cấp bên ngoài
+poll
+n cuộc thăm dò ý kiến 
+possession
+n quyền sở hữu, sự chiếm hữu
+scarce
+adj khan hiếm, khó tìm
+status
+n trạng thái, tình trạng 
+switch A to B
+phr chuyển A sang B
+wholesaler
+n người bán buôn 
+withstand
+v chịu đựng, chống lại
+be closed to the public
+phr không mở cửa cho công chúng
+breaking news 
+phr tin mới nhất 
+run an article
+phr cho in một bài báo
+step down
+phr từ chức
+write up
+phr viết ra, viết tường trình
+diversified
+adj đa dạng
+engrave
+v khắc, chạm
+facilitator
+n người cố vấn
+itemized
+adj được ghi thành từng mục
+keep track of
+phr theo dõi
+predominantly
+adv phần lớn, chủ yếu là
+profoundly
+adv sâu sắc, hết sức
+barring
+prep trừ ra
+bureaucracy
+n sự quan liêu, thói quan liêu
+cast a ballot
+phr bỏ phiếu
+come to power
+phr lên nắm quyền
+constituency
+n người đi bỏ phiếu, đơn vị bầu cử
+contend with
+phr đương đầu với
+drawback
+n mặt hạn chế, điều trở ngại
+in place of
+phr thay cho
+in the prepaid envelope
+phr trong phong bì đã được trả phí
+nationalize
+v quốc hữu hóa
+parliament
+n nghị viện, quốc hội
+peddler
+n người bán rong
+price quote
+phr báo giá
+protocol
+n nghi thức ngoại giao
+scarcity
+n sự khan hiếm
+summit
+n hội nghị thượng đỉnh
+surrender 
+y đầu hàng, từ bỏ
+take an action against
+phr hành động chống lại
+third party
+phr bên/đảng phái thứ ba
+unsuccessful candidate
+phr ứng viên không trúng cử

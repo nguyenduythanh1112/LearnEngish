@@ -1,0 +1,82 @@
+[
+{"english":"academy",
+"vietnamese":"(n) trường đào tạo đặc biệt; học viện"},
+
+
+{"english":"ancient",
+"vietnamese":"(n) xưa, cổ xưa"},
+
+
+{"english":"board",
+"vietnamese":"(n) tấm ván; bảng"},
+
+
+{"english":"century",
+"vietnamese":"(n) thế kỷ"},
+
+
+{"english":"clue",
+"vietnamese":"(n) đầu mối; manh mối"},
+
+
+{"english":"concert",
+"vietnamese":"(n) buổi hoà nhạc"},
+
+
+{"english":"county",
+"vietnamese":"(n) quận, khu hành chính"},
+
+
+{"english":"dictionary",
+"vietnamese":"(n) từ điển"},
+
+
+{"english":"exist",
+"vietnamese":"(v)tồn tại"},
+
+
+{"english":"flat",
+"vietnamese":"(a)mặt phẳng"},
+
+
+{"english":"gentleman",
+"vietnamese":"(n) quý ông"},
+
+
+{"english":"hidden",
+"vietnamese":"(a) trốn, ẩn nấp, náu"},
+
+
+{"english":"maybe",
+"vietnamese":"(adv)có thể, có lẽ"},
+
+
+{"english":"officer",
+"vietnamese":"(n) sĩ quan"},
+
+
+{"english":"original",
+"vietnamese":"(a)tính nguyên bản, bản gốc"},
+
+
+{"english":"pound",
+"vietnamese":"(v)dập, đóng"},
+
+
+{"english":"process",
+"vietnamese":"(n) quá trình,quy trình, sự xử lý"},
+
+
+{"english":"publish",
+"vietnamese":"(v) công bố, ban bố, xuất bản"},
+
+
+{"english":"theater",
+"vietnamese":"(n) rạp hát, nhà hát"},
+
+
+{"english":"wealth",
+"vietnamese":"(n) sự giàu có; sự giàu sang"}
+
+
+]

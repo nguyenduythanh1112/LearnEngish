@@ -1,0 +1,82 @@
+[
+{"english":"anxiety",
+"vietnamese":"n.sự lo ngại"},
+
+
+{"english":"army",
+"vietnamese":"n.quân đội"},
+
+
+{"english":"billion",
+"vietnamese":"n.một tỷ"},
+
+
+{"english":"carve",
+"vietnamese":"v.khắc chạm, cắt"},
+
+
+{"english":"consult",
+"vietnamese":"v.tư vấn"},
+
+
+{"english":"emergency",
+"vietnamese":"n.trưởng hợp khẩn cấp"},
+
+
+{"english":"fortune",
+"vietnamese":"n.vận may"},
+
+
+{"english":"guarantee",
+"vietnamese":"v.sự cam đoan, bảo hành"},
+
+
+{"english":"hike",
+"vietnamese":"v.đi dạo"},
+
+
+{"english":"initial",
+"vietnamese":"adj.ban đầu, mở đầu"},
+
+
+{"english":"intense",
+"vietnamese":"adj.dữ dội"},
+
+
+{"english":"lend",
+"vietnamese":"v.cho vay"},
+
+
+{"english":"peak",
+"vietnamese":"n.đỉnh"},
+
+
+{"english":"potential",
+"vietnamese":"adj.tiềm năng, khả năng"},
+
+
+{"english":"pride",
+"vietnamese":"n.tự hào"},
+
+
+{"english":"proof",
+"vietnamese":"n.bằng chứng"},
+
+
+{"english":"quit",
+"vietnamese":"v.bỏ"},
+
+
+{"english":"spin",
+"vietnamese":"v.quay"},
+
+
+{"english":"tiny",
+"vietnamese":"adj.nhỏ bé"},
+
+
+{"english":"tutor",
+"vietnamese":"n.gia sư"}
+
+
+]

@@ -1,0 +1,1800 @@
+
+allot
+v. phân bổ, dành cho
+
+appall
+v. làm ghê sợ
+
+cache
+n. bộ nhớ đệm
+
+convenience
+n. sự tiện lợi
+
+dearth
+n. sự khan hiếm, thiếu
+
+deliberate
+adj. cố ý
+
+dire
+adj. thảm khốc
+
+elapse
+v. trôi qua
+
+empathy
+n. sự đồng cảm
+
+fanciful
+adj. huyền ảo
+
+gripe
+v. kêu ca, càu nhàu
+
+grueling
+adj. khắc nghiệt, khó khăn
+
+mundane
+adj. tầm thường, trần tục
+
+opt
+v. lựa chọn
+
+outrage
+n. sự phẫn nộ
+
+paltry
+adj. ít ỏi
+
+rectify
+v. sửa chữa, khắc phục
+
+resourceful
+adj. tháo vát
+
+sustenance
+n. dưỡng chất
+
+tedious
+adj. tẻ nhạt
+
+abbey
+n. tu viện
+
+abundant
+adj. phong phú
+
+adjoin
+v. liền kề, gắn liền
+
+ample
+adj. dư dả, nhiều
+
+arid
+adj. khô, khô cằn
+
+cathedral
+n. nhà thờ
+
+deprive
+v. tước đoạt
+
+drought
+n. hạn hán
+
+eligible
+adj. đủ điều kiện
+
+fast
+v. nhịn ăn
+
+grumble
+v. càu nhàu
+
+inland
+adv. nội địa, đất liền
+
+moisture
+n. độ ẩm
+
+nonetheless
+adv. tuy nhiên
+
+oath
+n. lời thề
+
+prairie
+n. thảo nguyên
+
+ragged
+adj. rách rưới
+
+rugged
+adj. gồ ghề
+
+scarce
+adj. khan hiếm
+
+speculate
+v. suy đoán
+
+analytic
+adj. Phân tích
+
+assert
+v. khẳng định
+
+bachelor
+n. cử nhân
+
+calculus
+n. giải tích
+
+celestial
+adj. thiên thể
+
+cognitive
+adj. nhận thức
+
+collision
+n. sự va chạm
+
+competent
+adj. có thẩm quyền
+
+diploma
+n. văn bằng
+
+excel
+v. xuất sắc
+
+geology
+n. địa chất học
+
+harness
+v. khai thác
+
+intellect
+n. trí tuệ
+
+keen
+adj. giỏi, xuất sắc, thông minh
+
+mythology
+n. thần thoại
+
+physiology
+n. sinh lý học
+
+radioactive
+adj. phóng xạ
+
+relativity
+n. thuyết tương đối
+
+sociology
+n. xã hội học
+
+theoretical
+adj. Lý thuyết
+
+administrator
+n. quản trị viên
+
+affluent
+adj. giàu
+
+audit
+v. kiểm tra
+
+automate
+v. tự động hoá
+
+bribe
+v. hối lộ
+
+corrupt
+adj. tham nhũng
+
+dispose
+v. vứt bỏ
+
+headquarters
+n. trụ sở
+
+incentive
+n. Khuyến khích
+
+infrastructure
+n. cơ sở hạ tầng
+
+legislate
+v. lập pháp
+
+legitimate
+adj. chính đáng, hợp pháp
+
+manipulate
+v. thao tác
+
+merchandise
+n. hàng hoá
+
+retail
+n. Bán lẻ
+
+revenue
+n. Doanh thu
+
+rubbish
+n. rác rưởi
+
+subsidy
+n. trợ cấp
+
+transaction
+n. Giao dịch
+
+violate
+v. vi phạm
+
+assess
+v. đánh giá
+
+astonish
+v. ngạc nhiên
+
+commence
+v. Bắt đầu
+
+essence
+n. bản chất
+
+extract
+v. giải nén
+
+fabulous
+adj. Tuyệt vời
+
+haste
+n. vội vàng
+
+impulse
+n. thôi thúc, vội vàng
+
+latter
+adj. sau
+
+molecule
+n. phân tử
+
+ongoing
+adj. Liên tục, đang diễn ra
+
+pharmaceutical
+adj. Dược phẩm
+
+precise
+adj. tỉ mỉ, chính xác
+
+proximity
+n. gần gũi
+
+publicity
+n. công khai
+
+remedy
+n. sự sửa chữa, khắc phục
+
+significance
+n. ý nghĩa
+
+subsequent
+adj. Tiếp theo
+
+synthetic
+adj. tổng hợp
+
+terminal
+adj. giai đoạn cuối
+
+altitude
+n. độ cao
+
+coastline
+n. đường bờ biển
+
+deter
+v. Ngăn chặn
+
+devise
+v. nghĩ ra
+
+expertise
+n. Chuyên môn
+
+fracture
+n. gãy
+
+impair
+v. làm suy yếu
+
+implement
+v. thực hiện
+
+indigenous
+adj. bản xứ, bản địa
+
+insight
+n. cái nhìn sâu sắc
+
+limb
+n. chi
+
+migraine
+n. Đau nửa đầu
+
+optimism
+n. lạc quan
+
+peculiar
+adj. đặc biệt
+
+proficient
+adj. thành thạo
+
+quest
+n. nhiệm vụ, thám hiện, cuộc điều tra
+
+ridge
+n. sườn núi
+
+spouse
+n. vợ chồng
+
+thrust
+v. đẩy
+
+tolerate
+v. chịu đựng
+
+aquatic
+adj. thủy sinh
+
+biosphere
+adj. sinh quyển
+
+bizarre
+adj. kỳ quái
+
+Celsius
+n. độ C
+
+coarse
+adj. thô
+
+companion
+n. bạn đồng hành
+
+digest
+v. tiêu hoá
+
+duration
+n. khoảng thời gian
+
+ecology
+n. sinh thái học
+
+feat
+n. kỳ tích
+
+infinite
+adj. vô hạn
+
+nucleus
+n. hạt nhân
+
+parasite
+n. vật ký sinh
+
+prominent
+adj. nổi bật
+
+repetitive
+adj. lặp đi lặp lại
+
+reproductive
+adj. sinh sản
+
+temperate
+adj. ôn hoà, ôn đới
+
+tolerance
+n. khoan dung
+
+undergo
+v. trải qua
+
+vulnerable
+adj. dễ bị tổn thương
+
+adept
+adj. thành thạo
+
+barren
+adj. cằn cỗi
+
+ceramic
+adj. gốm
+
+culinary
+adj. Ẩm thực
+
+dense
+adj. dày đăch, rậm rạp
+
+dignity
+n. nghêm túc, vẻ trang nghiêm
+
+dominate
+v. thống trị
+
+edible
+adj. ăn được
+
+hostile
+adj. Thù địch, không than thiện
+
+intake
+n. lượng ăn uống
+
+likewise
+adv. tương tự
+
+malnutrition
+n. Suy dinh dưỡng
+
+medication
+n. Thuốc
+
+misconception
+n. quan niệm sai lầm
+
+obscure
+adj. mờ mịt, ít người biết đến
+
+oppress
+v. đàn áp
+
+peel
+v. bóc, gọt vỏ
+
+prescription
+n. toa thuốc, đơn thuốc
+
+respirator
+n. mặt nạ phòng độc
+
+strive
+v. cố gắng, phấn đấu
+
+archaic
+adj. cổ xưa
+
+benevolent
+adj. rộng lượng, nhân từ
+
+brass
+n. đồng thau
+
+capitalism
+n. chủ nghĩa tư bản
+
+component
+n. thành phần
+
+dependence
+n. Phụ thuộc
+
+diminish
+v. giảm bớt
+
+drawback
+n. nhược điểm, hạn chế
+
+fad
+n. Mốt
+
+impose
+v. áp đặt
+
+managerial
+adj. Quản lý
+
+medieval
+adj. thời trung cổ
+
+obsolete
+adj. lỗi thời
+
+peninsula
+n. bán đảo
+
+prestige
+n. uy tín
+
+proportion
+n. Tỷ lệ
+
+radical
+adj. căn bản, căn nguyên
+
+refute
+v. bác bỏ
+
+spectacular
+adj. ngoạn mục
+
+weave
+v. dệt
+
+accountant
+n. kế toán
+
+capitalist
+n. tư bản
+
+contempt
+n. sự khinh thường
+
+dedicate
+v. hiến dâng
+
+ditch
+n. mương
+
+enterprise
+n. xí nghiệp, doanh nghiệp
+
+exquisite
+adj. tinh tế
+
+finance
+v. tài chính
+
+indifferent
+adj. thờ ơ
+
+irrigate
+v. tưới nước
+
+maximize
+v. Tối đa hóa
+
+monetary
+adj. tiền tệ
+
+precaution
+n. phòng ngừa
+
+preliminary
+adj. sơ bộ
+
+saturate
+v. bão hòa
+
+simplicity
+n. tính đơn giản
+
+sow
+v. gieo
+
+soy
+n. đậu nành
+
+spade
+n. xẻng
+
+upcoming
+adj. Sắp tới
+
+acute
+adj. cấp tính
+
+aggression
+n. gây hấn
+
+banquet
+n. bữa tiệc
+
+biography
+n. tiểu sử
+
+boost
+v. thúc đẩy, phát triển, làm tăng
+
+clap
+v. vỗ tay
+
+compel
+v. buộc
+
+dominance
+n. sự thống trị
+
+gorgeous
+adj. lộng lẫy
+
+inevitable
+adj. không thể tránh khỏi
+
+legacy
+n. kiệt tác
+
+masterpiece
+n. kiệt tác
+
+multiple
+adj. nhiều
+
+narrate
+v. kể lại
+
+notorious
+adj. khét tiếng
+
+outdated
+adj. lỗi thời
+
+overall
+adv. tổng thể
+
+partiality
+n. một phần, thiên về
+
+spontaneous
+adj. tự động, tự phát
+
+virtue
+n. đức hạnh, đức tính tốt
+
+anthropology
+n. nhân loại học
+
+applaud
+v. vỗ tay
+
+appoint
+v. bổ nhiệm
+
+compatible
+adj. tương thích
+
+competence
+n. năng lực
+
+confer
+v. hội ý
+
+consecutive
+adj. liên tiếp
+
+crude
+adj. thô sơ
+
+cube
+n. hình lập phương
+
+feedback
+n. phản hồi
+
+ignorance
+n. sự thiếu hiểu biết
+
+masculine
+adj. nam tính
+
+monument
+n. tượng đài
+
+muscular
+adj. cơ bắp
+
+posture
+n. tư thế
+
+situate
+v. vị trí, đặt, nằm
+
+supervise
+v. giám sát
+
+symmetry
+n. sự đối xứng
+
+tattoo
+n. hình xăm
+
+undergraduate
+n. đại học
+
+brook
+n. suối
+
+cater
+v. Phục vụ
+
+considerate
+adj. chu đáo
+
+consumption
+n. sự tiêu thụ
+
+criteria
+n. Tiêu chuẩn, tiêu chí
+
+crust
+n. vỏ
+
+degrade
+v. làm suy giảm
+
+entitle
+v. quyền
+
+escort
+v. hộ tống
+
+external
+adj. bên ngoài
+
+facility
+n. Cơ sở
+
+faculty
+n. khả năng
+
+heap
+n. đống
+
+hemisphere
+n. bán cầu
+
+hound
+n. chó săn
+
+impersonal
+adj. không có tính người
+
+ornament
+n. đồ trang trí
+
+pedestrian
+n. người đi bộ
+
+sanctuary
+n. khu bảo tồn, tị nạn
+
+spectator
+n. khán giả
+
+asset
+n. phẩm chất, tài năng có giá trị
+
+aspect
+n. khía cạnh
+
+Braille
+n. Chữ nổi
+
+bud
+n. chồi, nụ
+
+coordinate
+v. phối hợp, điều phối
+
+disprove
+v. Bác bỏ
+
+humanitarian
+adj. nhân đạo
+
+hypothesis
+n. giả thuyết
+
+imprint
+n. dấu ấn
+
+informative
+adj. Thông tin
+
+optic
+adj. thị giác
+
+premise
+n. tiền đề, giả thuyết
+
+rack
+n. giá đỡ
+
+Renaissance
+n. Phục Hưng
+
+revere
+v. tôn kính
+
+simultaneous
+adj. đồng thời
+
+skeptic
+n. người hoài nghi
+
+spatial
+adj. không gian
+
+specify
+v. Xác định, chỉ định
+
+wax
+n. sáp
+
+accessory
+n. phụ kiện
+
+acquisition
+n. mua lại
+
+adequate
+adj. đầy đủ
+
+cardboard
+n. các tông
+
+dilemma
+n. sự khó xử
+
+elaborate
+adj. trau chuốt
+
+facilitate
+v. tạo điều kiện thuận lợi
+
+fleet
+n. hạm đội
+
+grid
+n. lưới
+
+import
+v. nhập khẩu
+
+infer
+v. suy diễn
+
+inflate
+v. bơm hơi, thổi phồng
+
+innate
+adj. bẩm sinh
+
+marble
+n. đá cẩm thạch
+
+mast
+n. cột buồm
+
+nausea
+n. Buồn nôn
+
+naval
+adj. Hải quân
+
+pouch
+n. túi
+
+saturated
+adj. Bão hòa
+
+update
+n. cập nhật
+
+addict
+n. người nghiện
+
+archeological
+adj. khảo cổ
+
+archeology
+n. khảo cổ học
+
+brainstorm
+v. động não
+
+budget
+n. ngân sách
+
+chaotic
+adj. hỗn loạn
+
+cite
+v. trích dẫn, nêu ra
+
+correspond
+v. Tương ứng
+
+courtyard
+n. sân
+
+estate
+n. sản nghiệp, bất động sản
+
+fraud
+n. sự gian lận
+
+hydrogen
+n. hydrogen
+
+integrity
+n. sự toàn vẹn
+
+knit
+v. đan
+
+outlook
+n. quan điểm
+
+parachute
+n. cái dù
+
+prehistoric
+adj. thời tiền xử
+
+proponent
+n. người đề xuất
+
+refine
+v. Tinh chỉnh
+
+restrict
+v. hạn chế
+
+attorney
+n. Luật sư
+
+chronic
+adj. Mãn tính
+
+discipline
+n. kỷ luật
+
+donor
+n. Tài trợ
+
+fellow
+n. đồng bọn, đồng nghiệp
+
+gossip
+n. chuyện phiếm
+
+graduate
+v. tốt nghiệp
+
+graffiti
+n. vẽ tranh lên tường
+
+guardian
+n. Người giám hộ
+
+implicate
+v. liên quan, liên quan
+
+kin
+n. họ hàng
+
+referee
+n. trọng tài
+
+sever
+v. cắt đứt
+
+shaft
+n. Trục
+
+stab
+v. đâm
+
+stimulus
+n. Kích thích
+
+suspicion
+n. sự nghi ngờ
+
+terminate
+v. chấm dứt
+
+theme
+n. đề tài, chủ đề
+
+tuition
+n. học phí
+
+aggressive
+adj. hung hăng
+
+amnesty
+n. sự ân xá
+
+arena
+n. vũ đài, đấu trường
+
+auditorium
+n. giảng đường, khán phòng
+
+captive
+n. giam cầm, tù nhân
+
+combat
+n. chiến đấu
+
+commonplace
+adj. phổ biến
+
+compound
+n. hợp chất
+
+corps
+n. quân đoàn
+
+distract
+v. đánh lạc hướng
+
+dumb
+adj. câm
+
+foe
+n. kẻ thù
+
+hack
+v. chặt
+
+meditate
+v. Thiền
+
+nick
+v. chọc, khía
+
+provoke
+v. khiêu khích
+
+realm
+n. Lĩnh vực
+
+reign
+n. triều đại
+
+rust
+n. ghỉ
+
+sacred
+adj. thiêng liêng
+
+accordingly
+adv. Phù hợp
+
+anchor
+n. neo
+
+buoy
+n. phao
+
+catastrophe
+n. thảm họa
+
+context
+n. ngữ cảnh, bối cảnh
+
+designate
+v. chỉ định
+
+distort
+v. xuyên tạc
+
+dock
+n. bến tầu
+
+fore
+n. trước
+
+frequent
+adj. thường xuyên
+
+genuine
+adj. chính hãng
+
+grease
+n. dầu mỡ
+
+intricate
+adj. phức tạp
+
+offset
+v. Bù đắp
+
+overlap
+v. chồng chéo
+
+precipitate
+v. kết tủa
+
+secondhand
+adj. qua sử dụng
+
+slot
+n. khe
+
+submerge
+v. ngập nước, nhấn chìm
+
+tactic
+n. chiến thuật
+
+aggregate
+adj. tổng
+
+antibiotic
+n. kháng sinh
+
+circuit
+n. mạch điện
+
+complement
+v. bổ sung
+
+compress
+v. nén
+
+database
+n. cơ sở dữ liệu
+
+equivalent
+n. tương đương
+
+immune
+adj. miễn dịch
+
+input
+n. đầu vào
+
+intimate
+adj. thân mật
+
+magnet
+n. nam châm
+
+metabolism
+n. trao đổi chất
+
+microchip
+n. vi mạch
+
+phase
+n. pha, giai đoạn
+
+pinch
+v. véo
+
+prevalent
+adj. Phổ biến
+
+quantum
+adj. lượng tử
+
+ratio
+n. tỉ lệ
+
+spiral
+n. xoắn ốc
+
+viral
+adj. virus
+
+astounded
+adj. kinh ngạc
+
+attribute
+n. thuộc tính
+
+bilingual
+adj. song ngữ
+
+clone
+n. bản sao
+
+colloquial
+adj. thông tục
+
+cosmetics
+n. phấn sáp, mỹ phẩm
+
+dash
+v. lao tới, xông tới
+
+disgust
+n. chán ghét, ghê tởm
+
+fluorescent
+adj. Huỳnh quang
+
+furious
+adj. giận dữ
+
+gulf
+n. vịnh, số sâu, vực thẳm
+
+humanities
+n. nhân văn
+
+knot
+n. nút thắt
+
+linguist
+n. nhà ngôn ngôn học
+
+participant
+n. người tham gia
+
+plausible
+adj. hợp lý
+
+ritual
+n. nghi lễ
+
+sibling
+n. anh chị em
+
+skinny
+adj. gầy gò
+
+vague
+adj. mơ hồ
+
+acid
+n. Axit
+
+administration
+n. sự quản lý
+
+administrative
+adj. Quản trị
+
+biotechnology
+n. công nghệ sinh học
+
+cholesterol
+n. cholesterol
+
+coalition
+n. liên minh
+
+deceptive
+adj. Lừa đảo
+
+diabetes
+n. tiểu đường
+
+eliminate
+v. loại bỏ
+
+erosion
+n. xói mòn
+
+ethics
+n. đạo đức
+
+explicit
+adj. Rõ ràng
+
+framework
+n. khuôn khổ
+
+manufacture
+v. sản xuất
+
+mechanism
+n. máy móc, bộ phận máy
+
+minimize
+v. Giảm thiểu
+
+nectar
+n. mật hoa
+
+notion
+n. khái niệm
+
+prone
+adj. nghiêng, dễ bị
+
+straightforward
+adj. đơn giản
+
+astronomical
+adj. thiên văn
+
+atom
+n. nguyên tử
+
+breadth
+n. Chiều rộng
+
+circumference
+n. chu vi
+
+comet
+n. sao chổi
+
+crater
+n. miệng núi lửa
+
+crescent
+n. lưỡi liềm
+
+debris
+n. mảnh vỡ
+
+despair
+n. Thất vọng
+
+embed
+v. nhúng
+
+fragment
+n. mảnh, mảnh vỡ
+
+galaxy
+n. thiên hà
+
+gigantic
+adj. khổng lồ
+
+gloom
+n. u ám
+
+radiate
+v. bức xạ, tỏa ra
+
+roam
+v.đi lang thang
+
+solitary
+adj. đơn độc
+
+spectrum
+n. quang phổ
+
+sphere
+n. hình cầu
+
+status
+n. địa vị, vị trí
+
+bankrupt
+adj. phá sản
+
+conform
+v. tuân theo
+
+employ
+v. tuyển dụng
+
+expel
+v. trục xuất
+
+extension
+n. phần mở rộng
+
+forthcoming
+adj. sắp tới
+
+furnish
+v. trang bị
+
+hygiene
+n. vệ sinh
+
+hygienic
+adj. hợp vệ sinh
+
+landlord
+n. chủ nhà
+
+lease
+v. cho thuê
+
+mandatory
+adj. bắt buộc
+
+mend
+v. sửa chữa, cài thiện
+
+mortgage
+n. thế chấp
+
+personnel
+n. Nhân viên
+
+plumbing
+n. hệ thống ông nước
+
+tenant
+n. người thuê
+
+trendy
+adj. hợp thời trang, mốt
+
+utility
+n. điện nước, công ty điện nước
+
+whereby
+conj. theo đó
+
+aesthetic
+adj. thẩm mỹ
+
+arrogant
+adj. kiêu căng
+
+bias
+n. thành kiến
+
+canyon
+n. hẻm núi
+
+creek
+n. con lạch
+
+drill
+n. máy khoan
+
+executive
+n. giám đốc điều hành
+
+fatigue
+n. Mệt mỏi
+
+incline
+n. ngả nghiêng
+
+nasty
+adj. khó chịu
+
+perceive
+v. nhận thức
+
+primate
+n. linh trưởng
+
+primitive
+adj. nguyên thủy
+
+stereotype
+n. định kiến
+
+sticky
+adj. dính
+
+termite
+n. mối, mọt
+
+thereby
+adv. Do đó
+
+trail
+n. đường mòn
+
+twig
+n. cành
+
+welfare
+n. phúc lợi
+
+behalf
+n. thay mặt
+
+flap
+v. vạt, vỗ
+
+glacier
+n. sông băng
+
+globe
+n. địa cầu
+
+horizontal
+adj. nằm ngang
+
+hum
+v. vo ve, ngâm nga
+
+inventory
+n. hàng tồn kho
+
+inward
+adj. hướng nội
+
+loaf
+n. ổ
+
+oracle
+n. tiên tri, nhà tiên tri
+
+orbit
+v. quỹ đạo
+
+overview
+n. tổng quan
+
+preview
+n. xem trước
+
+previous
+adj. trước đó
+
+provide
+v. cung cấp
+
+recur
+v. tái diễn
+
+relevant
+adj. Liên quan
+
+rite
+n. nghi lễ, nghi thức
+
+stall
+v. ngăn cản, trì hõa
+
+supernatural
+adj. siêu nhiên
+
+adapt
+v. thích nghi
+
+biological
+adj. sinh học
+
+cellular
+adj. tế bào
+
+dynamic
+adj. năng động
+
+fantasy
+n. Tưởng tượng
+
+heredity
+n. di truyền
+
+internal
+adj. nộ bộ
+
+minimal
+adj. Tối thiểu
+
+pioneer
+n. người tình nguyện
+
+prescribe
+v. kê đơn
+
+respective
+adj. Tương ứng
+
+revive
+v. Khôi phục, hồi sinh
+
+rigid
+adj. cứng nhắc
+
+sequence
+n. Chuỗi, dãy
+
+substitute
+v. thay thế
+
+surgeon
+n. bác sĩ phẫu thuật
+
+therapy
+n. liệu pháp
+
+transfer
+v. chuyển
+
+transition
+n. sự chuyển tiếp
+
+transplant
+n. cấy nghép
+
+aquarium
+n. thủy cung
+
+arbitrary
+adj. tùy ý
+
+autobiography
+n. tự truyện
+
+convention
+n. quy ước
+
+gracious
+adj. tử tế, tốt bụng, ân cần
+
+improve
+v. cải thiện
+
+insulate
+v. cách nhiệt
+
+intrigue
+v. mưu mô, mánh khóe
+
+longevity
+n. tuổi thọ
+
+misplace
+v. thất lạc
+
+naughty
+adj. nghịch ngợm
+
+norm
+n. chuẩn mực
+
+orangutan
+n. đười ươi
+
+overload
+v. quá tải
+
+philanthropy
+n. từ thiện
+
+probe
+v. thăm dò
+
+recipient
+n. người nhận
+
+reptile
+n. bò sát
+
+thrive
+v. phát đạt, phát triển mạnh
+
+ultimate
+adj. cuối cùng
+
+antique
+adj. cổ
+
+applicant
+n. ứng viên
+
+artifact
+n. tạo tác
+
+authentic
+adj. chân chính, đích thực
+
+chronology
+n. niên đại học
+
+diplomat
+n. nhà ngoại giao
+
+epic
+n. sử thi
+
+excerpt
+n. đoạn trích
+
+fossil
+n. hoá thạch
+
+humiliate
+v. làm nhục, làm bẽ mặt
+
+lyric
+adj. trữ tình
+
+majesty
+n. uy nghiêm
+
+monarch
+n. quốc vương, vua
+
+precede
+v. đi trước
+
+punctual
+adj. đúng giờ
+
+recruit
+v. tuyển dụng
+
+refund
+n. trả lại
+
+register
+n. Đăng ký
+
+renown
+n. nổi tiếng
+
+tusk
+n. ngà
+
+burden
+n. gánh nặng
+
+compromise
+v. sự thoả hiệp
+
+craft
+v. làm thủ công
+
+crook
+n. kẻ lừa đảo
+
+currency
+n. tiền tệ
+
+enigma
+n. bí ẩn
+
+fragile
+adj. mong manh, dễ vỡ
+
+hybrid
+n. lai tạo
+
+innocence
+n. ngây thơ
+
+merge
+v. hợp nhất
+
+moderate
+adj. ôn hoà, vừa phải
+
+overwhelm
+v. áp đảo, choáng ngợp
+
+perception
+n. nhận thức
+
+reunion
+n. đoàn tụ
+
+rig
+v. gian lần
+
+shiver
+n. run
+
+sociable
+adj. hòa đồng
+
+talkative
+adj. nói nhiều
+
+tow
+v. kéo
+
+tramp
+v. lang thang

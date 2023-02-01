@@ -1,0 +1,82 @@
+[
+{"english":"affair",
+"vietnamese":"n. vấn đề, công việc xảy ra"},
+
+
+{"english":"assembly",
+"vietnamese":"n. hội, tổ hợp, sợ hội họp"},
+
+
+{"english":"bless",
+"vietnamese":"v. ban phước"},
+
+
+{"english":"cereal",
+"vietnamese":"n. ngũ cốc"},
+
+
+{"english":"cheerful",
+"vietnamese":"adj. vui lòng"},
+
+
+{"english":"diameter",
+"vietnamese":"n. đường kính"},
+
+
+{"english":"exploit",
+"vietnamese":"v. khai thác"},
+
+
+{"english":"famine",
+"vietnamese":"n. nạn đói"},
+
+
+{"english":"harvest",
+"vietnamese":"n. mùa gặt"},
+
+
+{"english":"merry",
+"vietnamese":"adj. vui vẻ, hạnh phúc"},
+
+
+{"english":"nut",
+"vietnamese":"n. hạt"},
+
+
+{"english":"pardon",
+"vietnamese":"v. xin lỗi trước khi nói một ai đó lặp lại những gì đã nói"},
+
+
+{"english":"pharaoh",
+"vietnamese":"n. vua ai cập"},
+
+
+{"english":"ripe",
+"vietnamese":"adj. chín, trái cây chín muồi"},
+
+
+{"english":"roast",
+"vietnamese":"v. nướng thịt"},
+
+
+{"english":"routine",
+"vietnamese":"n. thói quen"},
+
+
+{"english":"scheme",
+"vietnamese":"n. kế hoạch"},
+
+
+{"english":"slim",
+"vietnamese":"adj. mạnh khảnh"},
+
+
+{"english":"stove",
+"vietnamese":"n. bếp"},
+
+
+{"english":"theft",
+"vietnamese":"n. trộm cắp"}
+
+
+]

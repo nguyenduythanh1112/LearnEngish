@@ -1,0 +1,82 @@
+[
+{"english":"admit",
+"vietnamese":"v. thừa nhận"},
+
+
+{"english":"bin",
+"vietnamese":"n. rác"},
+
+
+{"english":"bowl",
+"vietnamese":"n. bát"},
+
+
+{"english":"cabin",
+"vietnamese":"n. chòi, nhà gỗ nhỏ"},
+
+
+{"english":"cash",
+"vietnamese":"n. tiền mặt"},
+
+
+{"english":"criminal",
+"vietnamese":"n. tội phạm"},
+
+
+{"english":"dozen",
+"vietnamese":"n. một tá, 12 cái"},
+
+
+{"english":"elder",
+"vietnamese":"adj. đàn anh"},
+
+
+{"english":"facial",
+"vietnamese":"adj. ở mặt, thuộc về mặt"},
+
+
+{"english":"fence",
+"vietnamese":"n. hàng rào"},
+
+
+{"english":"inspire",
+"vietnamese":"v. truyền cảm hứng"},
+
+
+{"english":"mere",
+"vietnamese":"adj. chỉ là"},
+
+
+{"english":"neat",
+"vietnamese":"adj. phòng có ngăn nắp"},
+
+
+{"english":"occasion",
+"vietnamese":"n. dịp"},
+
+
+{"english":"penalty",
+"vietnamese":"n. hình phạt, sự phạt"},
+
+
+{"english":"rude",
+"vietnamese":"adj. thô lỗ"},
+
+
+{"english":"settle",
+"vietnamese":"v. dàn xếp"},
+
+
+{"english":"vehicle",
+"vietnamese":"n. phương tiện"},
+
+
+{"english":"wallet",
+"vietnamese":"n. ví"},
+
+
+{"english":"yell",
+"vietnamese":"v. la lên"}
+
+
+]

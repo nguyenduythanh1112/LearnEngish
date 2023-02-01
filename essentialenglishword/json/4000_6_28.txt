@@ -1,0 +1,82 @@
+[
+{"english":"adjoining",
+"vietnamese":"adj. bên cạnh, liền kề"},
+
+
+{"english":"allege",
+"vietnamese":"v. cáo buộc"},
+
+
+{"english":"arch",
+"vietnamese":"n. vòm"},
+
+
+{"english":"assemble",
+"vietnamese":"v. họp lại"},
+
+
+{"english":"casualty",
+"vietnamese":"n. người thương vong"},
+
+
+{"english":"erect",
+"vietnamese":"v. xây dựng, dựng lên"},
+
+
+{"english":"foul",
+"vietnamese":"adj. hôi"},
+
+
+{"english":"hectare",
+"vietnamese":"n. hecta"},
+
+
+{"english":"heighten",
+"vietnamese":"v. nâng cao"},
+
+
+{"english":"hospitality",
+"vietnamese":"n. sự hiếu khách"},
+
+
+{"english":"mansion",
+"vietnamese":"n. dinh thự"},
+
+
+{"english":"outnumber",
+"vietnamese":"v. đông hơn"},
+
+
+{"english":"overjoyed",
+"vietnamese":"adj. vui mừng khôn xiết"},
+
+
+{"english":"pasture",
+"vietnamese":"n. đồng cỏ"},
+
+
+{"english":"petition",
+"vietnamese":"n. kiến nghị"},
+
+
+{"english":"renovate",
+"vietnamese":"v. đổi mới"},
+
+
+{"english":"revise",
+"vietnamese":"v. hiệu đính, sửa lại"},
+
+
+{"english":"slab",
+"vietnamese":"n. phiến đá"},
+
+
+{"english":"terrace",
+"vietnamese":"n. sân thượng"},
+
+
+{"english":"turf",
+"vietnamese":"n. sân cỏ"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"anxious",
+"vietnamese":"adj.lo âu, lo lắng"},
+
+
+{"english":"awful",
+"vietnamese":"adj.kinh khủng, quá tệ hại"},
+
+
+{"english":"consist",
+"vietnamese":"v.bao gồm, gồm có"},
+
+
+{"english":"desire",
+"vietnamese":"v.khao khát, mong muốn"},
+
+
+{"english":"eager",
+"vietnamese":"adj.hào hứng, hăng hái, nhiệt tình"},
+
+
+{"english":"household",
+"vietnamese":"n.hộ gia đình"},
+
+
+{"english":"intent",
+"vietnamese":"n.mục đích, ý định"},
+
+
+{"english":"landscape",
+"vietnamese":"n.phong cảnh, dấu mốc"},
+
+
+{"english":"lift",
+"vietnamese":"v.nâng lên"},
+
+
+{"english":"load",
+"vietnamese":"v.tải, chất, chồng"},
+
+
+{"english":"lung",
+"vietnamese":"n.phổi"},
+
+
+{"english":"motion",
+"vietnamese":"n. chuyển động"},
+
+
+{"english":"pace",
+"vietnamese":"n.nhịp độ, tốc độ"},
+
+
+{"english":"polite",
+"vietnamese":"adj.lễ phép, tao nhã, lịch sự, có học thức"},
+
+
+{"english":"possess",
+"vietnamese":"v.sở hữu, có được"},
+
+
+{"english":"rapidly",
+"vietnamese":"adv.nhanh chóng"},
+
+
+{"english":"remark",
+"vietnamese":"v.căn dặn, nhận xét"},
+
+
+{"english":"seek",
+"vietnamese":"v.tìm kiếm"},
+
+
+{"english":"shine",
+"vietnamese":"v.tỏa sáng"},
+
+
+{"english":"spill",
+"vietnamese":"v.tràn, chảy"}
+
+
+]

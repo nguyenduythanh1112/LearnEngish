@@ -1,0 +1,82 @@
+[
+{"english":"anticipate",
+"vietnamese":"v. dự đoán trước"},
+
+
+{"english":"barrel",
+"vietnamese":"n. thùng"},
+
+
+{"english":"beam",
+"vietnamese":"n. cây đa"},
+
+
+{"english":"casual",
+"vietnamese":"adj. giản dị"},
+
+
+{"english":"caution",
+"vietnamese":"n. thận trọng"},
+
+
+{"english":"contrary",
+"vietnamese":"adj. điều trái ngược"},
+
+
+{"english":"deliberate",
+"vietnamese":"adj. có tính toán, cố ý, chủ tâm"},
+
+
+{"english":"dissolve",
+"vietnamese":"v. hòa tan"},
+
+
+{"english":"explode",
+"vietnamese":"v. phát nổ"},
+
+
+{"english":"fasten",
+"vietnamese":"v. đóng lại, buộc"},
+
+
+{"english":"germ",
+"vietnamese":"n. vi trùng"},
+
+
+{"english":"kit",
+"vietnamese":"n. bộ dụng cụ"},
+
+
+{"english":"puff",
+"vietnamese":"n. hơi thuốc lá, luồng hơi phụt ra"},
+
+
+{"english":"rag",
+"vietnamese":"n. giẻ"},
+
+
+{"english":"scatter",
+"vietnamese":"v. chạy tứ tán"},
+
+
+{"english":"scent",
+"vietnamese":"n. hương thơm"},
+
+
+{"english":"steel",
+"vietnamese":"n. thép"},
+
+
+{"english":"swift",
+"vietnamese":"adj. nhanh"},
+
+
+{"english":"toss",
+"vietnamese":"v. quăng"},
+
+
+{"english":"triumph",
+"vietnamese":"n. chiến thắng"}
+
+
+]

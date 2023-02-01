@@ -1,0 +1,82 @@
+[
+{"english":"brick",
+"vietnamese":"n. gạch"},
+
+
+{"english":"crumble",
+"vietnamese":"v. vỡ vụn"},
+
+
+{"english":"dough",
+"vietnamese":"n. bột nhào"},
+
+
+{"english":"express",
+"vietnamese":"v. bày tỏ"},
+
+
+{"english":"fist",
+"vietnamese":"n. nắm tay"},
+
+
+{"english":"flexible",
+"vietnamese":"adj. linh hoạt, mềm dẻo"},
+
+
+{"english":"flush",
+"vietnamese":"v. đỏ bừng"},
+
+
+{"english":"injure",
+"vietnamese":"v. làm bị thương"},
+
+
+{"english":"lump",
+"vietnamese":"n. cục"},
+
+
+{"english":"mixture",
+"vietnamese":"n. hỗn hợp"},
+
+
+{"english":"reconcile",
+"vietnamese":"v. giảng hoà"},
+
+
+{"english":"ruin",
+"vietnamese":"v. làm hỏng, tàn phá"},
+
+
+{"english":"shatter",
+"vietnamese":"v. vỡ"},
+
+
+{"english":"shutter",
+"vietnamese":"n. cửa chớp"},
+
+
+{"english":"sift",
+"vietnamese":"v. sàng lọc"},
+
+
+{"english":"slight",
+"vietnamese":"adj. nhẹ"},
+
+
+{"english":"sparkle",
+"vietnamese":"v. lấp lánh"},
+
+
+{"english":"sprinkle",
+"vietnamese":"v. tưới, rắc"},
+
+
+{"english":"stale",
+"vietnamese":"adj. cũ kỹ, ôi thiu"},
+
+
+{"english":"utter",
+"vietnamese":"v. thốt ra"}
+
+
+]

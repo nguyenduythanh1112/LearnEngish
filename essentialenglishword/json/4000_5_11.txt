@@ -1,0 +1,82 @@
+[
+{"english":"acute",
+"vietnamese":"adj. cấp tính"},
+
+
+{"english":"aggression",
+"vietnamese":"n. gây hấn"},
+
+
+{"english":"banquet",
+"vietnamese":"n. bữa tiệc"},
+
+
+{"english":"biography",
+"vietnamese":"n. tiểu sử"},
+
+
+{"english":"boost",
+"vietnamese":"v. thúc đẩy, phát triển, làm tăng"},
+
+
+{"english":"clap",
+"vietnamese":"v. vỗ tay"},
+
+
+{"english":"compel",
+"vietnamese":"v. buộc"},
+
+
+{"english":"dominance",
+"vietnamese":"n. sự thống trị"},
+
+
+{"english":"gorgeous",
+"vietnamese":"adj. lộng lẫy"},
+
+
+{"english":"inevitable",
+"vietnamese":"adj. không thể tránh khỏi"},
+
+
+{"english":"legacy",
+"vietnamese":"n. kiệt tác"},
+
+
+{"english":"masterpiece",
+"vietnamese":"n. kiệt tác"},
+
+
+{"english":"multiple",
+"vietnamese":"adj. nhiều"},
+
+
+{"english":"narrate",
+"vietnamese":"v. kể lại"},
+
+
+{"english":"notorious",
+"vietnamese":"adj. khét tiếng"},
+
+
+{"english":"outdated",
+"vietnamese":"adj. lỗi thời"},
+
+
+{"english":"overall",
+"vietnamese":"adv. tổng thể"},
+
+
+{"english":"partiality",
+"vietnamese":"n. một phần, thiên về"},
+
+
+{"english":"spontaneous",
+"vietnamese":"adj. tự động, tự phát"},
+
+
+{"english":"virtue",
+"vietnamese":"n. đức hạnh, đức tính tốt"}
+
+
+]

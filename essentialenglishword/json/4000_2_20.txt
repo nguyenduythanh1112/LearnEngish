@@ -1,0 +1,82 @@
+[
+{"english":"accomplish",
+"vietnamese":"v. hoàn thành"},
+
+
+{"english":"approve",
+"vietnamese":"v. phê duyệt, xác nhận"},
+
+
+{"english":"approximate",
+"vietnamese":"adj. gần đúng"},
+
+
+{"english":"barrier",
+"vietnamese":"n. rào chắn"},
+
+
+{"english":"detect",
+"vietnamese":"v. phát hiện"},
+
+
+{"english":"duty",
+"vietnamese":"n. nhiệm vụ"},
+
+
+{"english":"elementary",
+"vietnamese":"adj. tiểu học"},
+
+
+{"english":"failure",
+"vietnamese":"n. thất bại"},
+
+
+{"english":"gradual",
+"vietnamese":"adj. dần dần, lần lần"},
+
+
+{"english":"immigrant",
+"vietnamese":"n. di trú, cư trú"},
+
+
+{"english":"insert",
+"vietnamese":"v. chèn"},
+
+
+{"english":"instant",
+"vietnamese":"n. ngay lập tức"},
+
+
+{"english":"poverty",
+"vietnamese":"n. nghèo nàn"},
+
+
+{"english":"pretend",
+"vietnamese":"v. giả vờ"},
+
+
+{"english":"rank",
+"vietnamese":"n. cấp bậc"},
+
+
+{"english":"recognition",
+"vietnamese":"n. sự công nhận"},
+
+
+{"english":"refrigerate",
+"vietnamese":"v. làm lạnh"},
+
+
+{"english":"rent",
+"vietnamese":"n. thuê"},
+
+
+{"english":"retire",
+"vietnamese":"v. về hưu"},
+
+
+{"english":"statistic",
+"vietnamese":"n. thống kê"}
+
+
+]

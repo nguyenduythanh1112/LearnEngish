@@ -1,0 +1,82 @@
+[
+{"english":"constrain",
+"vietnamese":"v. hạn chế, ép"},
+
+
+{"english":"depot",
+"vietnamese":"n. bãi xe, bến, kho chứa"},
+
+
+{"english":"emulate",
+"vietnamese":"v. thi đua"},
+
+
+{"english":"forefinger",
+"vietnamese":"n. ngón tay trỏ"},
+
+
+{"english":"guts",
+"vietnamese":"n. ruột"},
+
+
+{"english":"inherent",
+"vietnamese":"adj. vốn có"},
+
+
+{"english":"intimidate",
+"vietnamese":"v. dọa nạt"},
+
+
+{"english":"janitor",
+"vietnamese":"n. người gác cổng"},
+
+
+{"english":"moist",
+"vietnamese":"adj. ẩm"},
+
+
+{"english":"nope",
+"vietnamese":"adv. không"},
+
+
+{"english":"prod",
+"vietnamese":"v. chọc, đâm, thúc"},
+
+
+{"english":"ransom",
+"vietnamese":"n. tiền chuộc"},
+
+
+{"english":"restrain",
+"vietnamese":"v. kiềm chế"},
+
+
+{"english":"saliva",
+"vietnamese":"n. nước bọt"},
+
+
+{"english":"spit",
+"vietnamese":"v. khạc nhổ"},
+
+
+{"english":"sprint",
+"vietnamese":"v. chạy nước rút"},
+
+
+{"english":"stunt",
+"vietnamese":"n. diễn viên đóng thế"},
+
+
+{"english":"tolerant",
+"vietnamese":"adj. khoan dung"},
+
+
+{"english":"vampire",
+"vietnamese":"n. ma cà rồng"},
+
+
+{"english":"yawn",
+"vietnamese":"v. ngáp"}
+
+
+]

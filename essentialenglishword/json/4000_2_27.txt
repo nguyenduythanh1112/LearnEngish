@@ -1,0 +1,82 @@
+[
+{"english":"apology",
+"vietnamese":"n. lời xin lỗi"},
+
+
+{"english":"bold",
+"vietnamese":"adj. dũng cảm"},
+
+
+{"english":"capture",
+"vietnamese":"v. chụp, bắt giữ, bắt"},
+
+
+{"english":"cardinal",
+"vietnamese":"adj. chủ yếu"},
+
+
+{"english":"duke",
+"vietnamese":"n. công tước"},
+
+
+{"english":"expose",
+"vietnamese":"v. lộ ra"},
+
+
+{"english":"guilty",
+"vietnamese":"adj. tội lỗi"},
+
+
+{"english":"hire",
+"vietnamese":"v. thuê mướn"},
+
+
+{"english":"innocent",
+"vietnamese":"adj. vô tội"},
+
+
+{"english":"jail",
+"vietnamese":"n. nhà giam"},
+
+
+{"english":"minister",
+"vietnamese":"n. bộ trưởng"},
+
+
+{"english":"ordinary",
+"vietnamese":"adj. bình thường"},
+
+
+{"english":"permanent",
+"vietnamese":"adj. dài hạn"},
+
+
+{"english":"preserve",
+"vietnamese":"v. bảo tồn"},
+
+
+{"english":"pronounce",
+"vietnamese":"v. phát âm"},
+
+
+{"english":"resemble",
+"vietnamese":"v. giống nhau"},
+
+
+{"english":"symptom",
+"vietnamese":"n. triệu chứng"},
+
+
+{"english":"tobacco",
+"vietnamese":"n. thuốc lá"},
+
+
+{"english":"twin",
+"vietnamese":"n. sinh đôi"},
+
+
+{"english":"witch",
+"vietnamese":"n. phù thủy"}
+
+
+]

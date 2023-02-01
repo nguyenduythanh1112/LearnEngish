@@ -1,0 +1,1200 @@
+allot
+v. phân bổ, dành cho ( _ _ l _ _ )
+appall
+v. làm ghê sợ ( a _ _ _ _ _ )
+cache
+n. bộ nhớ đệm ( _ _ _ h _ )
+convenience
+n. sự tiện lợi ( c _ _ _ _ _ i _ _ _ _ )
+dearth
+n. sự khan hiếm, thiếu ( _ e _ _ _ _ )
+deliberate
+adj. cố ý ( _ _ _ _ b _ _ _ t _ )
+dire
+adj. thảm khốc ( _ _ r _ )
+elapse
+v. trôi qua ( _ _ _ _ s _ )
+empathy
+n. sự đồng cảm ( _ _ _ _ t _ _ )
+fanciful
+adj. huyền ảo ( _ _ _ _ _ _ u l )
+gripe
+v. kêu ca, càu nhàu ( _ r _ _ _ )
+grueling
+adj. khắc nghiệt, khó khăn ( g _ _ e _ _ _ _ )
+mundane
+adj. tầm thường, trần tục ( _ _ _ _ a _ _ )
+opt
+v. lựa chọn ( _ _ _ )
+outrage
+n. sự phẫn nộ ( _ _ _ _ a _ _ )
+paltry
+adj. ít ỏi ( p _ _ _ _ _ )
+rectify
+v. sửa chữa, khắc phục ( _ e _ _ _ _ _ )
+resourceful
+adj. tháo vát ( r _ _ _ _ r _ _ _ _ _ )
+sustenance
+n. dưỡng chất ( _ _ _ _ e _ _ _ c _ )
+tedious
+adj. tẻ nhạt ( _ _ _ i _ _ _ )
+abbey
+n. tu viện ( _ _ _ e _ )
+abundant
+adj. phong phú ( a _ u _ _ _ _ _ )
+adjoin
+v. liền kề, gắn liền ( _ _ _ o _ _ )
+ample
+adj. dư dả, nhiều ( _ _ _ l _ )
+arid
+adj. khô, khô cằn ( a _ _ _ )
+cathedral
+n. nhà thờ ( _ a _ _ e _ _ _ _ )
+deprive
+v. tước đoạt ( _ _ _ _ i _ _ )
+drought
+n. hạn hán ( _ _ _ _ _ _ t )
+eligible
+adj. đủ điều kiện ( e _ i _ _ _ _ _ )
+fast
+v. nhịn ăn ( _ a _ _ )
+grumble
+v. càu nhàu ( _ _ _ _ _ _ e )
+inland
+adv. nội địa, đất liền ( i _ _ _ _ _ )
+moisture
+n. độ ẩm ( _ _ _ s _ u _ _ )
+nonetheless
+adv. tuy nhiên ( _ o _ _ _ _ _ l _ _ _ )
+oath
+n. lời thề ( _ _ t _ )
+prairie
+n. thảo nguyên ( _ _ _ i _ _ _ )
+ragged
+adj. rách rưới ( _ _ _ _ _ d )
+rugged
+adj. gồ ghề ( _ u _ _ _ _ )
+scarce
+adj. khan hiếm ( _ _ _ _ _ e )
+speculate
+v. suy đoán ( _ _ e _ _ _ a _ _ )
+analytic
+adj. phân tích ( _ n _ _ _ _ _ c )
+assert
+v. khẳng định ( _ _ _ _ r _ )
+bachelor
+n. cử nhân ( _ a _ _ _ l _ _ )
+calculus
+n. giải tích ( _ a _ _ _ _ u _ )
+celestial
+adj. thiên thể ( _ _ _ e _ _ _ _ l )
+cognitive
+adj. nhận thức ( c _ _ _ _ _ _ _ e )
+collision
+n. sự va chạm ( _ _ _ _ i _ _ o _ )
+competent
+adj. có thẩm quyền ( _ _ _ _ e t _ _ _ )
+diploma
+n. văn bằng ( _ _ _ _ o _ _ )
+excel
+v. xuất sắc ( _ _ c _ _ )
+geology
+n. địa chất học ( _ _ _ _ _ g _ )
+harness
+v. khai thác ( _ _ _ n _ _ _ )
+intellect
+n. trí tuệ ( _ n _ e _ _ _ _ _ )
+keen
+adj. giỏi, xuất sắc, thông minh ( _ e _ _ )
+mythology
+n. thần thoại ( _ _ _ _ _ _ _ g y )
+physiology
+n. sinh lý học ( _ _ _ _ _ _ _ o _ y )
+radioactive
+adj. phóng xạ ( _ _ _ _ o _ _ _ _ _ e )
+relativity
+n. thuyết tương đối ( r _ _ _ _ _ v _ _ _ )
+sociology
+n. xã hội học ( _ _ _ _ _ l _ _ y )
+theoretical
+adj. lý thuyết ( _ h _ _ r _ _ _ _ _ _ )
+administrator
+n. quản trị viên ( a _ _ i n _ _ _ _ _ _ _ _ )
+affluent
+adj. giàu ( _ _ _ _ u e _ _ )
+audit
+v. kiểm tra ( _ u _ _ _ )
+automate
+v. tự động hoá ( _ u _ o _ _ _ _ )
+bribe
+v. hối lộ ( _ _ _ b _ )
+corrupt
+adj. tham nhũng ( _ _ _ _ _ _ t )
+dispose
+v. vứt bỏ ( _ _ s _ _ _ _ )
+headquarters
+n. trụ sở ( _ _ _ _ _ _ a _ t e _ _ )
+incentive
+n. khuyến khích ( _ _ _ _ n _ _ _ e )
+infrastructure
+n. cơ sở hạ tầng ( _ _ f _ a _ _ _ _ _ t _ _ _ )
+legislate
+v. lập pháp ( _ _ _ _ s l _ _ _ )
+legitimate
+adj. chính đáng, hợp pháp ( _ _ _ _ t _ _ _ t _ )
+manipulate
+v. thao tác ( m _ _ _ _ _ _ _ _ e )
+merchandise
+n. hàng hoá ( m e _ _ _ _ _ _ _ _ _ )
+retail
+n. bán lẻ ( _ _ _ _ i _ )
+revenue
+n. doanh thu ( _ _ _ e _ _ _ )
+rubbish
+n. rác rưởi ( _ _ b _ _ _ _ )
+subsidy
+n. trợ cấp ( _ u _ _ _ _ _ )
+transaction
+n. giao dịch ( _ _ _ n _ a _ _ _ _ _ )
+violate
+v. vi phạm ( _ _ _ _ _ t _ )
+assess
+v. đánh giá ( _ _ s _ _ _ )
+astonish
+v. ngạc nhiên ( a _ _ _ _ _ s _ )
+commence
+v. bắt đầu ( _ o m _ _ _ _ _ )
+essence
+n. bản chất ( _ _ _ _ _ c _ )
+extract
+v. giải nén ( e _ _ _ _ _ _ )
+fabulous
+adj. tuyệt vời ( _ _ _ _ _ _ u s )
+haste
+n. vội vàng ( h _ _ _ _ )
+impulse
+n. thôi thúc, vội vàng ( _ _ _ u _ _ _ )
+latter
+adj. sau ( _ _ _ t _ _ )
+molecule
+n. phân tử ( _ _ _ _ c u _ _ )
+ongoing
+adj. liên tục, đang diễn ra ( o _ _ _ _ _ _ )
+pharmaceutical
+adj. dược phẩm ( _ _ _ _ m _ _ e u _ _ _ _ _ )
+precise
+adj. tỉ mỉ, chính xác ( _ _ _ c _ _ _ )
+proximity
+n. gần gũi ( p _ _ _ _ _ _ t _ )
+publicity
+n. công khai ( _ u _ _ _ _ _ _ y )
+remedy
+n. sự sửa chữa, khắc phục ( _ _ _ _ d _ )
+significance
+n. ý nghĩa ( _ i _ n _ _ i _ _ _ _ _ )
+subsequent
+adj. tiếp theo ( _ u _ _ _ q _ _ _ _ )
+synthetic
+adj. tổng hợp ( _ _ _ _ _ _ _ i c )
+terminal
+adj. giai đoạn cuối ( _ _ r _ _ _ _ l )
+altitude
+n. độ cao ( a _ t _ _ _ _ _ )
+coastline
+n. đường bờ biển ( c _ a _ _ _ _ _ _ )
+deter
+v. ngăn chặn ( _ _ _ e _ )
+devise
+v. nghĩ ra ( _ _ v _ _ _ )
+expertise
+n. chuyên môn ( _ _ _ _ _ t _ s _ )
+fracture
+n. gãy ( _ _ a _ _ _ r _ )
+impair
+v. làm suy yếu ( _ m _ _ _ _ )
+implement
+v. thực hiện ( i _ _ _ _ m _ _ _ )
+indigenous
+adj. bản xứ, bản địa ( _ _ _ _ _ e _ _ _ s )
+insight
+n. cái nhìn sâu sắc ( _ _ _ _ _ h _ )
+limb
+n. chi ( _ _ m _ )
+migraine
+n. đau nửa đầu ( _ i _ r _ _ _ _ )
+optimism
+n. lạc quan ( _ _ t _ _ _ s _ )
+peculiar
+adj. đặc biệt ( _ e _ u _ _ _ _ )
+proficient
+adj. thành thạo ( _ _ _ _ _ _ i _ n _ )
+quest
+n. nhiệm vụ, thám hiện, cuộc điều tra ( _ _ _ _ t )
+ridge
+n. sườn núi ( _ i _ _ _ )
+spouse
+n. vợ chồng ( _ _ _ _ s _ )
+thrust
+v. đẩy ( _ _ r _ _ _ )
+tolerate
+v. chịu đựng ( t _ _ _ _ _ t _ )
+aquatic
+adj. thủy sinh ( _ _ _ _ t _ _ )
+biosphere
+adj. sinh quyển ( _ _ o _ _ _ e _ _ )
+bizarre
+adj. kỳ quái ( _ _ _ a _ _ _ )
+celsius
+n. độ c ( _ _ l _ _ _ _ )
+coarse
+adj. thô ( _ _ _ r _ _ )
+companion
+n. bạn đồng hành ( c _ _ p _ _ _ _ _ )
+digest
+v. tiêu hoá ( d _ _ _ _ _ )
+duration
+n. khoảng thời gian ( d _ r _ _ _ _ _ )
+ecology
+n. sinh thái học ( _ _ _ _ o _ _ )
+feat
+n. kỳ tích ( _ _ a _ )
+infinite
+adj. vô hạn ( _ _ f _ _ _ _ e )
+nucleus
+n. hạt nhân ( n _ _ _ _ _ _ )
+parasite
+n. vật ký sinh ( _ _ _ a _ i _ _ )
+prominent
+adj. nổi bật ( _ _ o _ _ _ _ n _ )
+repetitive
+adj. lặp đi lặp lại ( r _ p _ _ _ _ _ _ _ )
+reproductive
+adj. sinh sản ( _ _ _ _ o _ _ c _ _ _ e )
+temperate
+adj. ôn hoà, ôn đới ( _ _ _ _ _ r _ _ e )
+tolerance
+n. khoan dung ( _ _ _ e r _ _ _ _ )
+undergo
+v. trải qua ( _ _ _ _ _ _ o )
+vulnerable
+adj. dễ bị tổn thương ( _ _ _ n e _ _ _ _ _ )
+adept
+adj. thành thạo ( a _ _ _ _ )
+barren
+adj. cằn cỗi ( b _ _ _ _ _ )
+ceramic
+adj. gốm ( _ _ _ _ _ i _ )
+culinary
+adj. ẩm thực ( c _ _ i _ _ _ _ )
+dense
+adj. dày đăch, rậm rạp ( _ _ _ s _ )
+dignity
+n. nghêm túc, vẻ trang nghiêm ( _ _ _ _ i _ _ )
+dominate
+v. thống trị ( d _ _ _ _ a _ _ )
+edible
+adj. ăn được ( e _ _ _ _ _ )
+hostile
+adj. thù địch, không than thiện ( h _ _ _ _ _ _ )
+intake
+n. lượng ăn uống ( _ _ _ _ k _ )
+likewise
+adv. tương tự ( _ _ k e _ _ _ _ )
+malnutrition
+n. suy dinh dưỡng ( _ _ l _ _ t _ _ _ _ o _ )
+medication
+n. thuốc ( _ e _ _ _ _ _ _ _ n )
+misconception
+n. quan niệm sai lầm ( _ _ _ c _ _ _ e _ _ _ _ n )
+obscure
+adj. mờ mịt, ít người biết đến ( o _ _ _ _ _ _ )
+oppress
+v. đàn áp ( _ p _ _ _ _ _ )
+peel
+v. bóc, gọt vỏ ( _ e _ _ )
+prescription
+n. toa thuốc, đơn thuốc ( _ _ _ _ _ r _ _ t _ o _ )
+respirator
+n. mặt nạ phòng độc ( r _ _ _ _ _ _ t _ _ )
+strive
+v. cố gắng, phấn đấu ( s _ _ _ _ _ )
+archaic
+adj. cổ xưa ( _ r _ _ _ _ _ )
+benevolent
+adj. rộng lượng, nhân từ ( b _ n _ _ _ _ _ _ _ )
+brass
+n. đồng thau ( _ _ a _ _ )
+capitalism
+n. chủ nghĩa tư bản ( _ _ _ _ _ a l _ _ _ )
+component
+n. thành phần ( _ _ _ _ o n _ _ _ )
+dependence
+n. phụ thuộc ( _ _ p _ _ _ _ _ c _ )
+diminish
+v. giảm bớt ( _ _ _ _ _ i _ h )
+drawback
+n. nhược điểm, hạn chế ( _ _ a _ _ _ _ k )
+fad
+n. mốt ( _ _ _ )
+impose
+v. áp đặt ( _ _ _ o _ _ )
+managerial
+adj. quản lý ( m a _ _ _ _ _ _ _ _ )
+medieval
+adj. thời trung cổ ( _ _ _ _ e _ a _ )
+obsolete
+adj. lỗi thời ( _ _ _ o l _ _ _ )
+peninsula
+n. bán đảo ( _ e _ _ _ _ u _ _ )
+prestige
+n. uy tín ( _ _ _ _ t _ _ e )
+proportion
+n. tỷ lệ ( _ r _ p _ _ _ _ _ _ )
+radical
+adj. căn bản, căn nguyên ( _ _ _ _ _ _ l )
+refute
+v. bác bỏ ( _ _ _ u _ _ )
+spectacular
+adj. ngoạn mục ( _ _ _ c _ _ _ u _ _ _ )
+weave
+v. dệt ( w _ _ _ _ )
+accountant
+n. kế toán ( _ _ _ o _ n _ _ _ _ )
+capitalist
+n. tư bản ( _ a p _ _ _ _ _ _ _ )
+contempt
+n. sự khinh thường ( _ _ _ _ _ m p _ )
+dedicate
+v. hiến dâng ( _ _ _ i _ _ t _ )
+ditch
+n. mương ( _ _ _ _ h )
+enterprise
+n. xí nghiệp, doanh nghiệp ( e _ _ _ _ _ r _ _ _ )
+exquisite
+adj. tinh tế ( _ x _ _ _ _ _ t _ )
+finance
+v. tài chính ( _ i _ _ _ _ _ )
+indifferent
+adj. thờ ơ ( _ _ _ _ _ _ _ r _ _ t )
+irrigate
+v. tưới nước ( _ _ r _ _ _ _ e )
+maximize
+v. tối đa hóa ( _ _ x _ _ i _ _ )
+monetary
+adj. tiền tệ ( _ _ _ e _ _ r _ )
+precaution
+n. phòng ngừa ( _ _ _ _ a _ _ i _ _ )
+preliminary
+adj. sơ bộ ( _ r _ _ _ m _ _ _ _ _ )
+saturate
+v. bão hòa ( _ _ t _ _ _ t _ )
+simplicity
+n. tính đơn giản ( _ _ _ p _ _ _ _ _ y )
+sow
+v. gieo ( _ _ _ )
+soy
+n. đậu nành ( _ _ _ )
+spade
+n. xẻng ( s _ _ _ _ )
+upcoming
+adj. sắp tới ( _ _ _ _ m _ _ g )
+acute
+adj. cấp tính ( _ c _ _ _ )
+aggression
+n. gây hấn ( _ _ _ _ _ s _ _ _ n )
+banquet
+n. bữa tiệc ( _ a _ _ _ _ _ )
+biography
+n. tiểu sử ( _ _ o _ _ _ _ _ y )
+boost
+v. thúc đẩy, phát triển, làm tăng ( _ _ o _ _ )
+clap
+v. vỗ tay ( _ _ _ p )
+compel
+v. buộc ( _ _ _ p _ _ )
+dominance
+n. sự thống trị ( d o _ _ _ _ _ _ _ )
+gorgeous
+adj. lộng lẫy ( _ o _ _ _ _ _ s )
+inevitable
+adj. không thể tránh khỏi ( _ _ e _ _ _ _ _ _ e )
+legacy
+n. kiệt tác ( _ _ _ a _ _ )
+masterpiece
+n. kiệt tác ( _ _ _ _ _ _ _ i _ _ e )
+multiple
+adj. nhiều ( m u _ _ _ _ _ _ )
+narrate
+v. kể lại ( n _ _ _ _ _ _ )
+notorious
+adj. khét tiếng ( _ _ _ o _ _ _ u _ )
+outdated
+adj. lỗi thời ( _ _ _ _ a t _ _ )
+overall
+adv. tổng thể ( _ v _ _ _ _ _ )
+partiality
+n. một phần, thiên về ( _ _ _ _ _ _ _ i t _ )
+spontaneous
+adj. tự động, tự phát ( _ _ _ _ _ _ n _ o _ _ )
+virtue
+n. đức hạnh, đức tính tốt ( _ _ r _ _ _ )
+anthropology
+n. nhân loại học ( _ _ _ _ _ o _ o l _ _ _ )
+applaud
+v. vỗ tay ( _ _ _ l _ _ _ )
+appoint
+v. bổ nhiệm ( _ p _ _ _ _ _ )
+compatible
+adj. tương thích ( _ _ _ _ _ t _ b _ _ )
+competence
+n. năng lực ( _ _ m _ _ _ e _ _ _ )
+confer
+v. hội ý ( _ _ _ _ _ r )
+consecutive
+adj. liên tiếp ( _ _ _ _ e _ _ _ _ v _ )
+crude
+adj. thô sơ ( _ _ u _ _ )
+cube
+n. hình lập phương ( _ _ _ e )
+feedback
+n. phản hồi ( _ e _ _ _ _ c _ )
+ignorance
+n. sự thiếu hiểu biết ( _ _ _ _ r _ _ _ e )
+masculine
+adj. nam tính ( _ _ _ c _ l _ _ _ )
+monument
+n. tượng đài ( m _ _ _ _ _ n _ )
+muscular
+adj. cơ bắp ( m _ _ _ _ l _ _ )
+posture
+n. tư thế ( _ _ _ t _ _ _ )
+situate
+v. vị trí, đặt, nằm ( _ _ _ u _ _ _ )
+supervise
+v. giám sát ( _ u _ _ _ v _ _ _ )
+symmetry
+n. sự đối xứng ( _ _ m _ _ _ r _ )
+tattoo
+n. hình xăm ( _ _ _ t _ _ )
+undergraduate
+n. đại học ( _ _ _ e _ _ _ _ _ _ _ t e )
+brook
+n. suối ( _ r _ _ _ )
+cater
+v. phục vụ ( _ _ _ e _ )
+considerate
+adj. chu đáo ( _ _ _ _ i _ _ r _ _ _ )
+consumption
+n. sự tiêu thụ ( _ _ _ s _ _ p _ _ _ _ )
+criteria
+n. tiêu chuẩn, tiêu chí ( c r _ _ _ _ _ _ )
+crust
+n. vỏ ( c _ _ _ _ )
+degrade
+v. làm suy giảm ( _ _ _ _ _ _ e )
+entitle
+v. quyền ( _ _ _ _ t _ _ )
+escort
+v. hộ tống ( _ _ c _ _ _ )
+external
+adj. bên ngoài ( _ x t _ _ _ _ _ )
+facility
+n. cơ sở ( _ a _ i _ _ _ _ )
+faculty
+n. khả năng ( f _ _ _ _ _ _ )
+heap
+n. đống ( _ e _ _ )
+hemisphere
+n. bán cầu ( _ _ _ i s _ _ _ _ _ )
+hound
+n. chó săn ( h _ _ _ _ )
+impersonal
+adj. không có tính người ( _ m _ _ _ _ _ _ _ l )
+ornament
+n. đồ trang trí ( _ _ _ a _ e _ _ )
+pedestrian
+n. người đi bộ ( _ _ d _ _ _ _ _ a _ )
+sanctuary
+n. khu bảo tồn, tị nạn ( s _ _ _ _ _ _ r _ )
+spectator
+n. khán giả ( _ _ _ _ _ a _ o _ )
+asset
+n. phẩm chất, tài năng có giá trị ( _ _ s _ _ )
+aspect
+n. khía cạnh ( _ s _ _ _ _ )
+braille
+n. chữ nổi ( _ r _ _ _ _ _ )
+bud
+n. chồi, nụ ( _ _ _ )
+coordinate
+v. phối hợp, điều phối ( _ o _ _ _ _ _ a _ _ )
+disprove
+v. bác bỏ ( _ i s _ _ _ _ _ )
+humanitarian
+adj. nhân đạo ( _ _ _ _ _ _ t _ _ _ a n )
+hypothesis
+n. giả thuyết ( _ _ _ _ _ h e _ _ _ )
+imprint
+n. dấu ấn ( _ _ _ _ _ _ t )
+informative
+adj. thông tin ( _ _ _ _ _ _ _ _ i v _ )
+optic
+adj. thị giác ( _ _ t _ _ )
+premise
+n. tiền đề, giả thuyết ( p _ _ _ _ _ _ )
+rack
+n. giá đỡ ( _ _ c _ )
+renaissance
+n. phục hưng ( _ _ _ a _ s _ _ _ _ _ )
+revere
+v. tôn kính ( _ _ v _ _ _ )
+simultaneous
+adj. đồng thời ( s _ _ _ _ t a _ _ _ _ _ )
+skeptic
+n. người hoài nghi ( _ _ _ p _ _ _ )
+spatial
+adj. không gian ( _ _ _ _ _ _ l )
+specify
+v. xác định, chỉ định ( _ _ _ _ i _ _ )
+wax
+n. sáp ( _ _ _ )
+accessory
+n. phụ kiện ( _ _ c _ _ s _ _ _ )
+acquisition
+n. mua lại ( _ c _ _ _ _ _ _ i _ _ )
+adequate
+adj. đầy đủ ( a d _ _ _ _ _ _ )
+cardboard
+n. các tông ( _ _ _ _ _ o a _ _ )
+dilemma
+n. sự khó xử ( _ _ _ _ m _ _ )
+elaborate
+adj. trau chuốt ( _ _ _ _ o _ a _ _ )
+facilitate
+v. tạo điều kiện thuận lợi ( _ a _ _ l _ _ _ _ _ )
+fleet
+n. hạm đội ( _ _ _ e _ )
+grid
+n. lưới ( _ r _ _ )
+import
+v. nhập khẩu ( _ _ _ _ r _ )
+infer
+v. suy diễn ( _ _ _ _ r )
+inflate
+v. bơm hơi, thổi phồng ( _ _ f _ _ _ _ )
+innate
+adj. bẩm sinh ( _ _ _ _ _ e )
+marble
+n. đá cẩm thạch ( _ _ _ _ l _ )
+mast
+n. cột buồm ( m _ _ _ )
+nausea
+n. buồn nôn ( _ a _ _ _ _ )
+naval
+adj. hải quân ( _ a _ _ _ )
+pouch
+n. túi ( _ _ u _ _ )
+saturated
+adj. bão hòa ( _ a t _ _ _ _ _ _ )
+update
+n. cập nhật ( _ p _ _ _ _ )
+addict
+n. người nghiện ( a _ _ _ _ _ )
+archeological
+adj. khảo cổ ( _ _ _ _ _ _ _ _ g _ c _ l )
+archeology
+n. khảo cổ học ( _ _ c _ e _ _ _ _ _ )
+brainstorm
+v. động não ( _ _ _ _ n _ t _ _ _ )
+budget
+n. ngân sách ( _ u _ _ _ _ )
+chaotic
+adj. hỗn loạn ( _ _ _ _ _ i _ )
+cite
+v. trích dẫn, nêu ra ( c _ _ _ )
+correspond
+v. tương ứng ( _ _ r _ e _ _ _ _ _ )
+courtyard
+n. sân ( _ _ u r _ _ _ _ _ )
+estate
+n. sản nghiệp, bất động sản ( _ _ t _ _ _ )
+fraud
+n. sự gian lận ( _ r _ _ _ )
+hydrogen
+n. hydrogen ( h _ _ _ _ _ _ n )
+integrity
+n. sự toàn vẹn ( _ _ t _ _ _ i _ _ )
+knit
+v. đan ( k _ _ _ )
+outlook
+n. quan điểm ( _ _ t _ _ _ _ )
+parachute
+n. cái dù ( _ a _ a _ _ _ _ _ )
+prehistoric
+adj. thời tiền xử ( _ _ _ _ _ _ _ o r _ _ )
+proponent
+n. người đề xuất ( p _ _ _ o _ _ _ _ )
+refine
+v. tinh chỉnh ( _ _ _ _ _ e )
+restrict
+v. hạn chế ( _ _ _ _ r i _ _ )
+attorney
+n. luật sư ( _ _ _ o r _ _ _ )
+chronic
+adj. mãn tính ( _ _ r _ _ _ _ )
+discipline
+n. kỷ luật ( d i _ _ _ _ _ _ _ _ )
+donor
+n. tài trợ ( _ o _ _ _ )
+fellow
+n. đồng bọn, đồng nghiệp ( _ _ _ l _ _ )
+gossip
+n. chuyện phiếm ( _ _ _ _ _ p )
+graduate
+v. tốt nghiệp ( _ _ _ _ u a _ _ )
+graffiti
+n. vẽ tranh lên tường ( g _ _ _ f _ _ _ )
+guardian
+n. người giám hộ ( _ u _ r _ _ _ _ )
+implicate
+v. liên quan, liên quan ( _ _ _ _ _ _ a t _ )
+kin
+n. họ hàng ( _ _ _ )
+referee
+n. trọng tài ( _ _ _ _ _ e _ )
+sever
+v. cắt đứt ( _ e _ _ _ )
+shaft
+n. trục ( _ h _ _ _ )
+stab
+v. đâm ( _ _ a _ )
+stimulus
+n. kích thích ( _ _ _ m u _ _ _ )
+suspicion
+n. sự nghi ngờ ( _ u _ _ _ _ _ _ n )
+terminate
+v. chấm dứt ( t _ r _ _ _ _ _ _ )
+theme
+n. đề tài, chủ đề ( t _ _ _ _ )
+tuition
+n. học phí ( _ u _ _ _ _ _ )
+aggressive
+adj. hung hăng ( _ _ _ r e _ _ _ _ _ )
+amnesty
+n. sự ân xá ( _ _ _ e _ _ _ )
+arena
+n. vũ đài, đấu trường ( _ _ _ n _ )
+auditorium
+n. giảng đường, khán phòng ( _ _ d _ t _ _ _ _ _ )
+captive
+n. giam cầm, tù nhân ( _ _ _ _ _ v _ )
+combat
+n. chiến đấu ( _ _ _ _ _ t )
+commonplace
+adj. phổ biến ( _ _ _ m _ _ _ _ _ c _ )
+compound
+n. hợp chất ( _ _ m _ _ _ _ d )
+corps
+n. quân đoàn ( c _ _ _ _ )
+distract
+v. đánh lạc hướng ( d _ _ _ _ _ c _ )
+dumb
+adj. câm ( _ _ m _ )
+foe
+n. kẻ thù ( _ _ _ )
+hack
+v. chặt ( _ _ _ k )
+meditate
+v. thiền ( _ _ d _ t _ _ _ )
+nick
+v. chọc, khía ( _ _ c _ )
+provoke
+v. khiêu khích ( _ r _ _ _ _ _ )
+realm
+n. lĩnh vực ( r _ _ _ _ )
+reign
+n. triều đại ( _ _ _ _ n )
+rust
+n. ghỉ ( r _ _ _ )
+sacred
+adj. thiêng liêng ( _ _ _ _ _ d )
+accordingly
+adv. phù hợp ( _ _ _ o _ _ _ n _ _ _ )
+anchor
+n. neo ( _ n _ _ _ _ )
+buoy
+n. phao ( b _ _ _ )
+catastrophe
+n. thảm họa ( _ _ t _ _ _ r _ _ _ _ )
+context
+n. ngữ cảnh, bối cảnh ( c _ _ _ _ _ _ )
+designate
+v. chỉ định ( _ _ s _ _ _ _ _ e )
+distort
+v. xuyên tạc ( _ _ _ _ o _ _ )
+dock
+n. bến tầu ( d _ _ _ )
+fore
+n. trước ( _ _ _ e )
+frequent
+adj. thường xuyên ( _ _ _ _ u e _ _ )
+genuine
+adj. chính hãng ( _ e _ _ _ _ _ )
+grease
+n. dầu mỡ ( _ _ _ _ s _ )
+intricate
+adj. phức tạp ( i _ _ _ i _ _ _ _ )
+offset
+v. bù đắp ( _ _ _ _ _ t )
+overlap
+v. chồng chéo ( o _ _ _ _ _ _ )
+precipitate
+v. kết tủa ( _ _ _ _ _ _ _ _ a _ e )
+secondhand
+adj. qua sử dụng ( _ _ _ _ _ d h _ _ _ )
+slot
+n. khe ( s _ _ _ )
+submerge
+v. ngập nước, nhấn chìm ( _ _ _ m _ _ g _ )
+tactic
+n. chiến thuật ( t _ _ _ _ _ )
+aggregate
+adj. tổng ( _ g _ _ _ _ _ _ e )
+antibiotic
+n. kháng sinh ( _ _ t _ _ _ _ _ _ c )
+circuit
+n. mạch điện ( c _ _ _ _ _ _ )
+complement
+v. bổ sung ( _ _ _ _ _ _ _ e _ t )
+compress
+v. nén ( _ o _ _ _ _ _ s )
+database
+n. cơ sở dữ liệu ( d _ _ _ _ _ s _ )
+equivalent
+n. tương đương ( e _ _ _ _ a _ _ _ _ )
+immune
+adj. miễn dịch ( _ _ m _ _ _ )
+input
+n. đầu vào ( i _ _ _ _ )
+intimate
+adj. thân mật ( _ _ t i _ _ _ _ )
+magnet
+n. nam châm ( _ _ g _ _ _ )
+metabolism
+n. trao đổi chất ( _ _ _ a b _ _ _ _ _ )
+microchip
+n. vi mạch ( _ _ _ _ o _ _ i _ )
+phase
+n. pha, giai đoạn ( _ h _ _ _ )
+pinch
+v. véo ( p _ _ _ _ )
+prevalent
+adj. phổ biến ( _ _ _ _ _ l _ _ t )
+quantum
+adj. lượng tử ( _ _ a _ _ _ _ )
+ratio
+n. tỉ lệ ( r _ _ _ _ )
+spiral
+n. xoắn ốc ( _ _ _ _ _ l )
+viral
+adj. virus ( v _ _ _ _ )
+astounded
+adj. kinh ngạc ( _ _ _ _ u _ _ _ d )
+attribute
+n. thuộc tính ( _ _ _ _ i _ u _ _ )
+bilingual
+adj. song ngữ ( _ i _ _ _ _ u _ _ )
+clone
+n. bản sao ( _ _ _ _ e )
+colloquial
+adj. thông tục ( _ _ _ _ _ _ _ i _ l )
+cosmetics
+n. phấn sáp, mỹ phẩm ( _ o _ _ _ _ i _ _ )
+dash
+v. lao tới, xông tới ( _ _ _ h )
+disgust
+n. chán ghét, ghê tởm ( _ _ _ _ _ _ t )
+fluorescent
+adj. huỳnh quang ( _ l _ _ _ _ _ c _ _ _ )
+furious
+adj. giận dữ ( _ _ _ i _ _ _ )
+gulf
+n. vịnh, số sâu, vực thẳm ( g _ _ _ )
+humanities
+n. nhân văn ( _ _ _ _ n _ _ _ _ s )
+knot
+n. nút thắt ( _ n _ _ )
+linguist
+n. nhà ngôn ngôn học ( _ i _ _ _ _ _ t )
+participant
+n. người tham gia ( p _ _ _ _ _ _ _ a _ _ )
+plausible
+adj. hợp lý ( _ _ _ _ s _ _ l _ )
+ritual
+n. nghi lễ ( _ _ _ _ _ l )
+sibling
+n. anh chị em ( _ _ _ _ _ _ g )
+skinny
+adj. gầy gò ( _ k _ _ _ _ )
+vague
+adj. mơ hồ ( _ _ _ _ e )
+acid
+n. axit ( _ _ _ d )
+administration
+n. sự quản lý ( a d _ _ _ i _ _ _ _ _ _ _ _ )
+administrative
+adj. quản trị ( _ _ _ _ n i _ _ _ _ _ i _ _ )
+biotechnology
+n. công nghệ sinh học ( _ i _ _ _ c _ _ _ _ _ g _ )
+cholesterol
+n. cholesterol ( _ h _ l _ _ _ _ _ _ _ )
+coalition
+n. liên minh ( _ _ _ _ _ t i _ _ )
+deceptive
+adj. lừa đảo ( d _ _ _ p _ _ _ _ )
+diabetes
+n. tiểu đường ( d _ _ b _ _ _ _ )
+eliminate
+v. loại bỏ ( _ _ _ _ i _ _ _ e )
+erosion
+n. xói mòn ( _ _ o _ _ _ _ )
+ethics
+n. đạo đức ( _ _ _ i _ _ )
+explicit
+adj. rõ ràng ( _ _ p _ _ c _ _ )
+framework
+n. khuôn khổ ( f _ _ _ e _ _ _ _ )
+manufacture
+v. sản xuất ( _ _ _ u _ _ _ _ _ _ e )
+mechanism
+n. máy móc, bộ phận máy ( m _ _ _ _ _ _ s _ )
+minimize
+v. giảm thiểu ( m _ n _ _ _ _ _ )
+nectar
+n. mật hoa ( _ e _ _ _ _ )
+notion
+n. khái niệm ( _ _ _ i _ _ )
+prone
+adj. nghiêng, dễ bị ( _ _ o _ _ )
+straightforward
+adj. đơn giản ( _ t _ _ i _ _ _ _ _ _ _ _ _ d )
+astronomical
+adj. thiên văn ( _ _ _ _ _ _ o _ i _ _ l )
+atom
+n. nguyên tử ( _ t _ _ )
+breadth
+n. chiều rộng ( _ _ e _ _ _ _ )
+circumference
+n. chu vi ( _ _ _ _ u _ f _ _ _ _ _ e )
+comet
+n. sao chổi ( _ _ _ e _ )
+crater
+n. miệng núi lửa ( _ _ _ _ e _ )
+crescent
+n. lưỡi liềm ( _ r _ s _ _ _ _ )
+debris
+n. mảnh vỡ ( _ _ _ r _ _ )
+despair
+n. thất vọng ( _ _ _ p _ _ _ )
+embed
+v. nhúng ( _ m _ _ _ )
+fragment
+n. mảnh, mảnh vỡ ( _ _ _ g m _ _ _ )
+galaxy
+n. thiên hà ( _ _ l _ _ _ )
+gigantic
+adj. khổng lồ ( _ _ _ _ _ t _ c )
+gloom
+n. u ám ( _ _ _ _ m )
+radiate
+v. bức xạ, tỏa ra ( _ _ _ _ a _ _ )
+roam
+v.đi lang thang ( _ _ _ m )
+solitary
+adj. đơn độc ( _ _ l _ _ a _ _ )
+spectrum
+n. quang phổ ( _ p _ c _ _ _ _ )
+sphere
+n. hình cầu ( _ _ _ _ _ e )
+status
+n. địa vị, vị trí ( _ _ a _ _ _ )
+bankrupt
+adj. phá sản ( b _ _ _ _ _ _ t )
+conform
+v. tuân theo ( _ _ _ _ _ _ m )
+employ
+v. tuyển dụng ( _ _ _ _ o _ )
+expel
+v. trục xuất ( e _ _ _ _ )
+extension
+n. phần mở rộng ( _ _ t _ _ _ i _ _ )
+forthcoming
+adj. sắp tới ( f _ _ _ _ _ _ _ _ _ g )
+furnish
+v. trang bị ( _ _ _ _ i _ _ )
+hygiene
+n. vệ sinh ( _ _ _ i _ _ _ )
+hygienic
+adj. hợp vệ sinh ( _ _ g _ e _ _ _ )
+landlord
+n. chủ nhà ( _ _ n _ _ _ _ d )
+lease
+v. cho thuê ( l _ _ _ _ )
+mandatory
+adj. bắt buộc ( _ a _ d _ _ _ _ _ )
+mend
+v. sửa chữa, cài thiện ( _ _ n _ )
+mortgage
+n. thế chấp ( _ _ r _ _ _ g _ )
+personnel
+n. nhân viên ( p _ _ _ _ _ n _ _ )
+plumbing
+n. hệ thống ông nước ( _ _ _ _ b _ n _ )
+tenant
+n. người thuê ( _ _ n _ _ _ )
+trendy
+adj. hợp thời trang, mốt ( t _ _ _ _ _ )
+utility
+n. điện nước, công ty điện nước ( _ _ _ l _ _ _ )
+whereby
+conj. theo đó ( _ _ _ _ e _ _ )
+aesthetic
+adj. thẩm mỹ ( _ e _ _ _ _ _ _ c )
+arrogant
+adj. kiêu căng ( a _ r _ _ _ _ _ )
+bias
+n. thành kiến ( b _ _ _ )
+canyon
+n. hẻm núi ( c _ _ _ _ _ )
+creek
+n. con lạch ( _ r _ _ _ )
+drill
+n. máy khoan ( _ r _ _ _ )
+executive
+n. giám đốc điều hành ( _ _ _ c _ _ i _ _ )
+fatigue
+n. mệt mỏi ( _ _ _ _ _ u _ )
+incline
+n. ngả nghiêng ( _ _ _ l _ _ _ )
+nasty
+adj. khó chịu ( _ _ _ _ y )
+perceive
+v. nhận thức ( _ _ _ c _ i _ _ )
+primate
+n. linh trưởng ( _ _ _ _ _ t _ )
+primitive
+adj. nguyên thủy ( _ _ _ _ i _ i _ _ )
+stereotype
+n. định kiến ( _ t _ _ _ _ _ y _ _ )
+sticky
+adj. dính ( _ t _ _ _ _ )
+termite
+n. mối, mọt ( _ _ _ _ _ t _ )
+thereby
+adv. do đó ( t _ _ _ _ _ _ )
+trail
+n. đường mòn ( _ _ _ i _ )
+twig
+n. cành ( _ _ _ g )
+welfare
+n. phúc lợi ( _ _ _ _ _ _ e )
+behalf
+n. thay mặt ( _ _ _ _ l _ )
+flap
+v. vạt, vỗ ( _ l _ _ )
+glacier
+n. sông băng ( _ _ _ _ i _ _ )
+globe
+n. địa cầu ( _ l _ _ _ )
+horizontal
+adj. nằm ngang ( h _ _ i _ _ _ _ _ _ )
+hum
+v. vo ve, ngâm nga ( _ _ _ )
+inventory
+n. hàng tồn kho ( i _ _ _ n _ _ _ _ )
+inward
+adj. hướng nội ( _ _ w _ _ _ )
+loaf
+n. ổ ( _ _ a _ )
+oracle
+n. tiên tri, nhà tiên tri ( _ _ a _ _ _ )
+orbit
+v. quỹ đạo ( _ _ b _ _ )
+overview
+n. tổng quan ( o v _ _ _ _ _ _ )
+preview
+n. xem trước ( _ _ _ _ _ _ w )
+previous
+adj. trước đó ( _ _ _ v _ _ u _ )
+provide
+v. cung cấp ( p _ _ _ _ _ _ )
+recur
+v. tái diễn ( _ _ _ _ r )
+relevant
+adj. liên quan ( _ e _ _ _ _ n _ )
+rite
+n. nghi lễ, nghi thức ( _ i _ _ )
+stall
+v. ngăn cản, trì hõa ( _ _ _ _ l )
+supernatural
+adj. siêu nhiên ( _ u _ _ _ _ _ t _ _ _ l )
+adapt
+v. thích nghi ( a _ _ _ _ )
+biological
+adj. sinh học ( _ _ _ l _ _ _ c _ _ )
+cellular
+adj. tế bào ( _ e _ _ _ l _ _ )
+dynamic
+adj. năng động ( d _ _ _ _ _ _ )
+fantasy
+n. tưởng tượng ( _ _ _ _ _ s _ )
+heredity
+n. di truyền ( h _ _ e _ _ _ _ )
+internal
+adj. nộ bộ ( i _ _ _ _ n _ _ )
+minimal
+adj. tối thiểu ( _ _ _ i _ _ _ )
+pioneer
+n. người tình nguyện ( _ _ _ _ e _ _ )
+prescribe
+v. kê đơn ( p _ e _ _ _ _ _ _ )
+respective
+adj. tương ứng ( _ _ _ _ _ c _ _ v _ )
+revive
+v. khôi phục, hồi sinh ( r _ _ _ _ _ )
+rigid
+adj. cứng nhắc ( _ _ _ _ d )
+sequence
+n. chuỗi, dãy ( _ _ _ _ e n _ _ )
+substitute
+v. thay thế ( _ u _ _ _ _ _ _ _ e )
+surgeon
+n. bác sĩ phẫu thuật ( _ _ _ _ _ o _ )
+therapy
+n. liệu pháp ( _ _ _ _ a _ _ )
+transfer
+v. chuyển ( _ _ _ n _ f _ _ )
+transition
+n. sự chuyển tiếp ( _ r _ _ _ _ _ _ _ n )
+transplant
+n. cấy nghép ( _ _ _ _ _ p _ _ n _ )
+aquarium
+n. thủy cung ( _ _ _ _ _ i u _ )
+arbitrary
+adj. tùy ý ( _ _ _ _ _ r _ r _ )
+autobiography
+n. tự truyện ( _ _ _ _ b _ _ _ _ _ p h _ )
+convention
+n. quy ước ( _ o _ _ e _ _ _ _ _ )
+gracious
+adj. tử tế, tốt bụng, ân cần ( _ r a _ _ _ _ _ )
+improve
+v. cải thiện ( _ _ _ _ _ _ e )
+insulate
+v. cách nhiệt ( _ _ _ u _ _ t _ )
+intrigue
+v. mưu mô, mánh khóe ( _ _ _ _ _ g _ e )
+longevity
+n. tuổi thọ ( l _ _ _ _ _ _ t _ )
+misplace
+v. thất lạc ( _ _ _ p _ a _ _ )
+naughty
+adj. nghịch ngợm ( _ _ _ _ h _ _ )
+norm
+n. chuẩn mực ( _ o _ _ )
+orangutan
+n. đười ươi ( o _ _ _ _ _ _ _ n )
+overload
+v. quá tải ( _ _ _ _ l _ _ d )
+philanthropy
+n. từ thiện ( _ _ i _ _ n _ _ _ o _ _ )
+probe
+v. thăm dò ( _ _ o _ _ )
+recipient
+n. người nhận ( _ e _ _ _ _ _ _ t )
+reptile
+n. bò sát ( _ _ _ _ i _ _ )
+thrive
+v. phát đạt, phát triển mạnh ( _ h _ _ _ _ )
+ultimate
+adj. cuối cùng ( _ _ t i _ _ _ _ )
+antique
+adj. cổ ( _ _ t _ _ _ _ )
+applicant
+n. ứng viên ( a _ p _ _ _ _ _ _ )
+artifact
+n. tạo tác ( a _ _ _ f _ _ _ )
+authentic
+adj. chân chính, đích thực ( a _ _ _ _ _ _ _ c )
+chronology
+n. niên đại học ( _ _ _ _ n _ l _ _ _ )
+diplomat
+n. nhà ngoại giao ( _ i _ _ _ _ a _ )
+epic
+n. sử thi ( _ _ _ c )
+excerpt
+n. đoạn trích ( _ _ _ _ _ _ t )
+fossil
+n. hoá thạch ( f _ _ _ _ _ )
+humiliate
+v. làm nhục, làm bẽ mặt ( _ _ _ i l _ _ _ _ )
+lyric
+adj. trữ tình ( _ _ _ _ c )
+majesty
+n. uy nghiêm ( _ a _ _ _ _ _ )
+monarch
+n. quốc vương, vua ( _ o _ _ _ _ _ )
+precede
+v. đi trước ( _ r _ _ _ _ _ )
+punctual
+adj. đúng giờ ( _ u _ _ _ _ _ l )
+recruit
+v. tuyển dụng ( r _ _ _ _ _ _ )
+refund
+n. trả lại ( _ _ _ _ _ d )
+register
+n. đăng ký ( r _ _ i _ _ _ _ )
+renown
+n. nổi tiếng ( _ e _ _ _ _ )
+tusk
+n. ngà ( t _ _ _ )
+burden
+n. gánh nặng ( _ _ _ _ e _ )
+compromise
+v. sự thoả hiệp ( _ _ _ _ _ _ m _ _ e )
+craft
+v. làm thủ công ( c _ _ _ _ )
+crook
+n. kẻ lừa đảo ( _ _ _ o _ )
+currency
+n. tiền tệ ( _ u _ _ _ n _ _ )
+enigma
+n. bí ẩn ( _ n _ _ _ _ )
+fragile
+adj. mong manh, dễ vỡ ( f _ _ _ _ _ _ )
+hybrid
+n. lai tạo ( _ _ b _ _ _ )
+innocence
+n. ngây thơ ( _ _ n _ _ _ n _ _ )
+merge
+v. hợp nhất ( _ _ _ _ e )
+moderate
+adj. ôn hoà, vừa phải ( _ _ _ _ r _ _ e )
+overwhelm
+v. áp đảo, choáng ngợp ( _ _ _ _ _ _ e _ m )
+perception
+n. nhận thức ( _ _ _ _ e _ _ i _ _ )
+reunion
+n. đoàn tụ ( r _ _ _ _ _ _ )
+rig
+v. gian lần ( _ _ _ )
+shiver
+n. run ( _ _ i _ _ _ )
+sociable
+adj. hòa đồng ( _ _ _ _ _ b _ e )
+talkative
+adj. nói nhiều ( _ _ _ _ a _ i _ _ )
+tow
+v. kéo ( _ _ _ )
+tramp
+v. lang thang ( _ _ _ _ p )

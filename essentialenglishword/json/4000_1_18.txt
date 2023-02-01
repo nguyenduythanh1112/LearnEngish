@@ -1,0 +1,82 @@
+[
+{"english":"argue",
+"vietnamese":"(động từ): tranh luận"},
+
+
+{"english":"communicate",
+"vietnamese":"(động từ): giao tiếp, liên lạc"},
+
+
+{"english":"crowd",
+"vietnamese":"(danh từ): đám đông"},
+
+
+{"english":"depend",
+"vietnamese":"(động từ): phụ thuộc"},
+
+
+{"english":"dish",
+"vietnamese":"(danh từ): cái đĩa"},
+
+
+{"english":"empty",
+"vietnamese":"(tính từ): trống rỗng, hết"},
+
+
+{"english":"exact",
+"vietnamese":"(tính từ): chính xác"},
+
+
+{"english":"fresh",
+"vietnamese":"(tính từ): tươi mới"},
+
+
+{"english":"gather",
+"vietnamese":"(động từ): thu lượm"},
+
+
+{"english":"indicate",
+"vietnamese":"(động từ): chỉ dẫn"},
+
+
+{"english":"item",
+"vietnamese":"(danh từ): vật phẩm"},
+
+
+{"english":"offer",
+"vietnamese":"(động từ): đề xuất"},
+
+
+{"english":"price",
+"vietnamese":"(danh từ): giá"},
+
+
+{"english":"product",
+"vietnamese":"(danh từ): sản phẩm"},
+
+
+{"english":"property",
+"vietnamese":"(danh từ): vùng đất, tài sản"},
+
+
+{"english":"purchase",
+"vietnamese":"(động từ): mua"},
+
+
+{"english":"recommend",
+"vietnamese":"(động từ): gợi ý"},
+
+
+{"english":"select",
+"vietnamese":"(động từ): lựa chọn"},
+
+
+{"english":"tool",
+"vietnamese":"(danh từ): dụng cụ"},
+
+
+{"english":"treat",
+"vietnamese":"(động từ): đối xử"}
+
+
+]

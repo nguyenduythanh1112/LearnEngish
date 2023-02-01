@@ -1,0 +1,82 @@
+[
+{"english":"bomb",
+"vietnamese":"n. bom"},
+
+
+{"english":"certificate",
+"vietnamese":"n. giấy chứng nhận"},
+
+
+{"english":"circumstance",
+"vietnamese":"n. hoàn cảnh"},
+
+
+{"english":"coffin",
+"vietnamese":"n. quan tài"},
+
+
+{"english":"cope",
+"vietnamese":"v. đương đầu"},
+
+
+{"english":"criticism",
+"vietnamese":"n. sự chỉ trích"},
+
+
+{"english":"devastate",
+"vietnamese":"v. tàn phá"},
+
+
+{"english":"frown",
+"vietnamese":"v. nhăn mặt"},
+
+
+{"english":"gaze",
+"vietnamese":"v. cái nhìn"},
+
+
+{"english":"glance",
+"vietnamese":"v. nhìn lướt qua"},
+
+
+{"english":"grief",
+"vietnamese":"n. nỗi buồn"},
+
+
+{"english":"groom",
+"vietnamese":"n. chú rể"},
+
+
+{"english":"license",
+"vietnamese":"n. giấy phép"},
+
+
+{"english":"microscope",
+"vietnamese":"n. kính hiển vi"},
+
+
+{"english":"nuclear",
+"vietnamese":"adj. hạt nhân"},
+
+
+{"english":"portray",
+"vietnamese":"v. vẽ chân dung"},
+
+
+{"english":"rotate",
+"vietnamese":"v. quay"},
+
+
+{"english":"souvenir",
+"vietnamese":"n. quà lưu niệm"},
+
+
+{"english":"submarine",
+"vietnamese":"n. tàu ngầm"},
+
+
+{"english":"trace",
+"vietnamese":"v. tìm ra vết tích, theo dõi"}
+
+
+]

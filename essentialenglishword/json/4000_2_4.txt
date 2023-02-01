@@ -1,0 +1,82 @@
+[
+{"english":"chest",
+"vietnamese":"n.ngực"},
+
+
+{"english":"confidence",
+"vietnamese":"n.sự tự tin"},
+
+
+{"english":"consequence",
+"vietnamese":"n.kết quả"},
+
+
+{"english":"disaster",
+"vietnamese":"n.thảm họa"},
+
+
+{"english":"disturb",
+"vietnamese":"v.làm phiền"},
+
+
+{"english":"estimate",
+"vietnamese":"v.ước tính"},
+
+
+{"english":"honor",
+"vietnamese":"v.tôn trọng"},
+
+
+{"english":"impress",
+"vietnamese":"v.gây ấn tượng"},
+
+
+{"english":"marathon",
+"vietnamese":"n.cuộc chạy đia đường dài"},
+
+
+{"english":"narrow",
+"vietnamese":"adj.hẹp"},
+
+
+{"english":"pale",
+"vietnamese":"adj.nhợt nhạt"},
+
+
+{"english":"rough",
+"vietnamese":"adj.thô"},
+
+
+{"english":"satisfy",
+"vietnamese":"v.làm thỏa mãn"},
+
+
+{"english":"scream",
+"vietnamese":"v.hét lên"},
+
+
+{"english":"sensitive",
+"vietnamese":"adj.nhạy cảm"},
+
+
+{"english":"shade",
+"vietnamese":"n.bóng râm"},
+
+
+{"english":"supplement",
+"vietnamese":"v.bổ sung"},
+
+
+{"english":"terror",
+"vietnamese":"n.sự khủng khiếp, khủng bố"},
+
+
+{"english":"threat",
+"vietnamese":"n.mối đe dọa"},
+
+
+{"english":"victim",
+"vietnamese":"n.nạn nhân"}
+
+
+]

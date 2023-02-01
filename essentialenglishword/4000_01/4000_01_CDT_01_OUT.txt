@@ -1,0 +1,171 @@
+(ĐỘNG TỪ): ĐỒNG Ý
+_ _ R _ _
+   
+(PV): ĐỒNG Ý SAU KHI THẢO LUẬN, CÓ CÙNG Ý KIẾN VỚI AI
+_ _ R _ _ _ _ N _ U _ _ _   _ _
+   
+(PV): CHẤP NHẬN ĐIỀU GÌ ĐÓ
+_ _ _ _ _ _ _ O _ S _
+   
+(PV): TÁN THÀNH CÁI GÌ (XÉT VỀ GÓC ĐỘ ĐẠO ĐỨC)
+_ G _ _ _ _ _ _ T _ _ S _
+   
+(PV): CÓ LỢI CHO SỨC KHỎE CỦA AI
+_ G _ _ _   _ _ _ H _ _ _
+   
+(PV): ĐỒNG Ý VỚI AI VỀ VẤN ĐỀ GÌ
+_ G _ _ _ _ W _ T _ _ _ _   _ _ _ _ _ _ _ N _ S _
+   
+(PV): ĐỒNG Ý LÀM GÌ
+_ _ _ _ _ _ _ _ _ D _   S _
+   
+(ĐỘNG TỪ) : ĐẶT LÊN
+_ _ _
+   
+(PV): TẤN CÔNG BẰNG CÁCH ĐÁNH
+_ _ _   _ _ _ U _
+   
+(PV): ĐỂ DÀNH, TIẾT KIỆM
+L _ _ _ _ _
+   
+(PV): TẠM DỪNG LÀM GÌ
+_ _ _ _ _ Y
+   
+(PV): TỪ BỎ, GẠT BỎ
+_ _ _   _ _
+   
+(PV): THUYẾT TRÌNH, THỂ HIỆN
+_ _ Y   _ _ _ _ _ _
+   
+(PV): THIẾT LẬP QUY TẮC, LUẬT LỆ
+L A _ _ _ _ _ _
+   
+(PV): DỰ TRỮ
+_ _ Y _ _ _
+   
+(PV): ĐÁNH, TẤN CÔNG (THỂ CHẤT)
+_ _ Y _ _ _ T _
+   
+(PV): CHỈ TRÍCH (THẬM TỆ)
+_ _ _   _ N _ _
+   
+(PV): CHO AI NGHỈ VIỆC, ĐUỔI VIỆC
+_ _ _ _ _ F _
+   
+(PV): CUNG CẤP
+_ _ _   _ _
+   
+(PV): KỂ, NÓI RA, CHỈ RA
+_ _ _   _ _
+   
+(PV): TRUYỀN BÁ, SẮP XẾP
+_ _ _ _ _ _ T
+   
+(PV): THIẾT KẾ
+_ _ _   _ _ _
+   
+(PV): GIẢI THÍCH KĨ LƯỠNG
+_ _ _ _ O _ _
+   
+(PV): TIÊU (TIỀN)
+_ _ _ _ _ U _
+   
+(PV): ÉP AI NGHỈ/NẰM TRÊN GIƯỜNG (VÌ BỊ ỐM)
+_ _ _ _ _ P
+   
+(ĐỘNG TỪ): TREO MÌNH
+_ _ N _
+   
+(PV): ĐI LA CÀ, ĐI LOANH QUANH
+_ _ _ _   A _ _ _ _ _ _ _ _ _ N D _ _ O _ _ _
+   
+(PV): DO DỰ, KHÔNG SẴN LÒNG LÀM GÌ
+_ _ _ G _ _ _ _ K
+   
+(PV): CHỜ CHÚT, CHỜ MỘT TÝ
+_ _ _ _ _ _ N
+   
+(PV): KIÊN NHẪN
+_ _ _ _ _ _ N
+   
+(PV): GIỮ CHẶT, TIẾP TỤC GIỮ
+_ A _ _ _ _ _
+   
+(PV): GÌN GIỮ
+_ _ N _ _ _ _ T _
+   
+(PV): DÀNH THỜI GIAN RA NGOÀI
+H A _ _ _ _ _ _
+   
+(PV): PHƠI QUẦN ÁO
+H A _ _ _ _ _ _
+   
+(PV): GIÚP ĐỠ LẪN NHAU, ĐỒNG HÀNH CÙNG
+_ A _ _ _ _ _ G _ _ _ E _
+   
+(PV): CÚP MÁY, TẮT MÁY, DẬP MÁY
+_ _ _ _ _ U _
+   
+(V): NÉM
+_ H _ _ _
+   
+(PV): TIÊU TIỀN MỘT CÁCH PHUNG PHÍ, NÉM TIỀN QUA CỬA SỔ
+T H _ _ _ _ _ _ O _ _ / _ _ _ _ _ _
+   
+(PV): VỨT CÁI GÌ KHÔNG CẦN NỮA
+_ H _ _ _ _ _ _ _ Y
+   
+(PV): LÃNG PHÍ MỘT KỸ NĂNG HAY CƠ HỘI
+_ _ _ _ W _ A _ _ _
+   
+(PV): NHẮT AI ĐÓ VỀ VIỆC NGƯỜI ĐÓ ĐÃ NÓI, LÀM TRONG QUÁ KHỨ
+_ H _ O _ _ _ _ _ K _ _ _
+   
+(PV): THÁCH ĐẤU
+T _ _ _ _ _ _ O _ _
+   
+(PV): THAM GIA, ĐỒNG HÀNH VỚI
+_ _ _ _ W _ I _
+   
+(PV): THÊM CÁI GÌ VÀO MÀ KHÔNG TĂNG GIÁ
+T _ _ _ _   _ _
+   
+(PV): THÁO PHỤ KIỆN, CỞI QUẦN ÁO
+_ _ _ _ W _ _ F _
+   
+(PV): LOẠI BỎ, THOÁT KHỎI
+_ H _ _ _ _ _ F _
+   
+(PV): MẶC QUẦN ÁO NHANH CHÓNG
+_ H _ _ W _ _ _
+   
+(PV): KẾT THÚC MỘT MỐI QUAN HỆ VỚI AI ĐÓ
+_ H _ _ _   _ _ _ _
+   
+(PV): TỪ CHỐI
+_ _ _ _ W _ _ U _
+   
+(PV): LOẠI BỎ, VỨT BỎ
+_ _ R _ _ _ O _ _
+   
+(PV): TRỤC XUẤT
+_ _ _ _ W _ _ U _
+   
+(PV): ĐƯA RA NHIỀU SÁNG KIẾN, CÂU HỎI
+_ _ _ _ W _ O _ _
+   
+(PV): LÀM CHO TÌNH CỜ GẶP NHAU
+_ H _ O _ _ _ _ _ _ _ _ _ R
+   
+(PV): SẮP XẾP CHUẨN BỊ NHANH CHÓNG
+_ _ _ _ W _ _ _ G _ T _ _ _
+   
+(PV): NÔN ÓI
+_ _ R _ _ _ U _
+   
+(PV): ĐỀ XUẤT VẤN ĐỀ, Ý TƯỞNG
+_ _ R _ _ _ U _
+   
+(PV): RỜI BỎ CÔNG VIỆC ĐỘT NGỘT
+_ _ _ _ _   U _
+   

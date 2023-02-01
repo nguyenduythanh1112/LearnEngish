@@ -1,0 +1,82 @@
+[
+{"english":"aggregate",
+"vietnamese":"adj. tổng"},
+
+
+{"english":"antibiotic",
+"vietnamese":"n. kháng sinh"},
+
+
+{"english":"circuit",
+"vietnamese":"n. mạch điện"},
+
+
+{"english":"complement",
+"vietnamese":"v. bổ sung"},
+
+
+{"english":"compress",
+"vietnamese":"v. nén"},
+
+
+{"english":"database",
+"vietnamese":"n. cơ sở dữ liệu"},
+
+
+{"english":"equivalent",
+"vietnamese":"n. tương đương"},
+
+
+{"english":"immune",
+"vietnamese":"adj. miễn dịch"},
+
+
+{"english":"input",
+"vietnamese":"n. đầu vào"},
+
+
+{"english":"intimate",
+"vietnamese":"adj. thân mật"},
+
+
+{"english":"magnet",
+"vietnamese":"n. nam châm"},
+
+
+{"english":"metabolism",
+"vietnamese":"n. trao đổi chất"},
+
+
+{"english":"microchip",
+"vietnamese":"n. vi mạch"},
+
+
+{"english":"phase",
+"vietnamese":"n. pha, giai đoạn"},
+
+
+{"english":"pinch",
+"vietnamese":"v. véo"},
+
+
+{"english":"prevalent",
+"vietnamese":"adj. phổ biến"},
+
+
+{"english":"quantum",
+"vietnamese":"adj. lượng tử"},
+
+
+{"english":"ratio",
+"vietnamese":"n. tỉ lệ"},
+
+
+{"english":"spiral",
+"vietnamese":"n. xoắn ốc"},
+
+
+{"english":"viral",
+"vietnamese":"adj. virus"}
+
+
+]

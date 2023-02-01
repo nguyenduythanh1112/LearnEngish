@@ -1,0 +1,82 @@
+[
+{"english":"airway",
+"vietnamese":"n. đường hàng không"},
+
+
+{"english":"almighty",
+"vietnamese":"n. đấng toàn năng"},
+
+
+{"english":"advent",
+"vietnamese":"n. sự ra đời"},
+
+
+{"english":"constellation",
+"vietnamese":"n. constellation"},
+
+
+{"english":"definitive",
+"vietnamese":"adj. dứt khoát"},
+
+
+{"english":"equate",
+"vietnamese":"v. coi ngang nhau, đánh đồng"},
+
+
+{"english":"inhale",
+"vietnamese":"v. hít vào"},
+
+
+{"english":"invoke",
+"vietnamese":"v. gọi"},
+
+
+{"english":"lunar",
+"vietnamese":"adj. mặt trăng, nguyệt thực, âm lịch"},
+
+
+{"english":"novelty",
+"vietnamese":"n. điều mới lạ"},
+
+
+{"english":"outmoded",
+"vietnamese":"adj. lỗi thời"},
+
+
+{"english":"personalize",
+"vietnamese":"v. cá nhân hóa"},
+
+
+{"english":"pertain",
+"vietnamese":"v. liên quan"},
+
+
+{"english":"primal",
+"vietnamese":"adj. nguyên sơ"},
+
+
+{"english":"psychiatric",
+"vietnamese":"adj. tâm thần"},
+
+
+{"english":"psychiatry",
+"vietnamese":"n. tâm thần học"},
+
+
+{"english":"reflex",
+"vietnamese":"n. phản xạ"},
+
+
+{"english":"seizure",
+"vietnamese":"n. phản xạ"},
+
+
+{"english":"session",
+"vietnamese":"n. phiên"},
+
+
+{"english":"utensil",
+"vietnamese":"n. đồ dùng"}
+
+
+]

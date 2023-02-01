@@ -1,0 +1,82 @@
+[
+{"english":"astronomical",
+"vietnamese":"adj. thiên văn"},
+
+
+{"english":"atom",
+"vietnamese":"n. nguyên tử"},
+
+
+{"english":"breadth",
+"vietnamese":"n. chiều rộng"},
+
+
+{"english":"circumference",
+"vietnamese":"n. chu vi"},
+
+
+{"english":"comet",
+"vietnamese":"n. sao chổi"},
+
+
+{"english":"crater",
+"vietnamese":"n. miệng núi lửa"},
+
+
+{"english":"crescent",
+"vietnamese":"n. lưỡi liềm"},
+
+
+{"english":"debris",
+"vietnamese":"n. mảnh vỡ"},
+
+
+{"english":"despair",
+"vietnamese":"n. thất vọng"},
+
+
+{"english":"embed",
+"vietnamese":"v. nhúng"},
+
+
+{"english":"fragment",
+"vietnamese":"n. mảnh, mảnh vỡ"},
+
+
+{"english":"galaxy",
+"vietnamese":"n. thiên hà"},
+
+
+{"english":"gigantic",
+"vietnamese":"adj. khổng lồ"},
+
+
+{"english":"gloom",
+"vietnamese":"n. u ám"},
+
+
+{"english":"radiate",
+"vietnamese":"v. bức xạ, tỏa ra"},
+
+
+{"english":"roam",
+"vietnamese":"v.đi lang thang"},
+
+
+{"english":"solitary",
+"vietnamese":"adj. đơn độc"},
+
+
+{"english":"spectrum",
+"vietnamese":"n. quang phổ"},
+
+
+{"english":"sphere",
+"vietnamese":"n. hình cầu"},
+
+
+{"english":"status",
+"vietnamese":"n. địa vị, vị trí"}
+
+
+]

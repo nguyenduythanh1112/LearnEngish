@@ -1,0 +1,82 @@
+[
+{"english":"alone",
+"vietnamese":"(trạng từ): một mình"},
+
+
+{"english":"apartment",
+"vietnamese":"(danh từ): căn hộ"},
+
+
+{"english":"article",
+"vietnamese":"(danh từ): bài viết, chủ đề"},
+
+
+{"english":"artist",
+"vietnamese":"(danh từ): họa sĩ"},
+
+
+{"english":"attitude",
+"vietnamese":"(danh từ): thái độ"},
+
+
+{"english":"compare",
+"vietnamese":"(động từ): so sánh"},
+
+
+{"english":"judge",
+"vietnamese":"(động từ): nhận xét, phán xét"},
+
+
+{"english":"magazine",
+"vietnamese":"(danh từ): tạp chí"},
+
+
+{"english":"material",
+"vietnamese":"(danh từ): chất liệu"},
+
+
+{"english":"meal",
+"vietnamese":"(danh từ): bữa ăn"},
+
+
+{"english":"method",
+"vietnamese":"(danh từ): phương pháp, cách thức"},
+
+
+{"english":"neighbor",
+"vietnamese":"(danh từ): hàng xóm"},
+
+
+{"english":"professional",
+"vietnamese":"(tính từ): chuyên nghiệp"},
+
+
+{"english":"profit",
+"vietnamese":"(danh từ): lợi nhuận"},
+
+
+{"english":"quality",
+"vietnamese":"(danh từ): chất lượng"},
+
+
+{"english":"shape",
+"vietnamese":"(danh từ): hình thù, hình dáng"},
+
+
+{"english":"space",
+"vietnamese":"(danh từ): không gian"},
+
+
+{"english":"stair",
+"vietnamese":"(danh từ): cầu thang"},
+
+
+{"english":"symbol",
+"vietnamese":"(danh từ): biểu tượng"},
+
+
+{"english":"thin",
+"vietnamese":"(tính từ): gầy gò"}
+
+
+]

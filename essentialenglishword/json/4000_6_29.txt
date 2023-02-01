@@ -1,0 +1,82 @@
+[
+{"english":"analogous",
+"vietnamese":"adj. tương tự"},
+
+
+{"english":"binoculars",
+"vietnamese":"n. ống nhòm"},
+
+
+{"english":"bulk",
+"vietnamese":"n. số lượng lớn"},
+
+
+{"english":"comprise",
+"vietnamese":"v. bao gồm"},
+
+
+{"english":"depict",
+"vietnamese":"v. miêu tả"},
+
+
+{"english":"dual",
+"vietnamese":"adj. kép"},
+
+
+{"english":"fahrenheit",
+"vietnamese":"n. độ f"},
+
+
+{"english":"fulfill",
+"vietnamese":"v. hoàn thành"},
+
+
+{"english":"grove",
+"vietnamese":"n. chòm, lùm cây"},
+
+
+{"english":"ore",
+"vietnamese":"n. quặng"},
+
+
+{"english":"outback",
+"vietnamese":"n. hẻo lánh"},
+
+
+{"english":"outweigh",
+"vietnamese":"v. lớn hơn"},
+
+
+{"english":"paradox",
+"vietnamese":"n. nghịch lý"},
+
+
+{"english":"pier",
+"vietnamese":"n. bến tàu"},
+
+
+{"english":"shortcut",
+"vietnamese":"n. lối tắt"},
+
+
+{"english":"tariff",
+"vietnamese":"n. thuế quan, mức thuế"},
+
+
+{"english":"thermometer",
+"vietnamese":"n. nhiệt kế"},
+
+
+{"english":"tilt",
+"vietnamese":"v. nghiêng"},
+
+
+{"english":"vice versa",
+"vietnamese":"adv. ngược lại"},
+
+
+{"english":"whereabouts",
+"vietnamese":"n. nơi ở, tung tích"}
+
+
+]

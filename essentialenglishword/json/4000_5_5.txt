@@ -1,0 +1,82 @@
+[
+{"english":"assess",
+"vietnamese":"v. đánh giá"},
+
+
+{"english":"astonish",
+"vietnamese":"v. ngạc nhiên"},
+
+
+{"english":"commence",
+"vietnamese":"v. bắt đầu"},
+
+
+{"english":"essence",
+"vietnamese":"n. bản chất"},
+
+
+{"english":"extract",
+"vietnamese":"v. giải nén"},
+
+
+{"english":"fabulous",
+"vietnamese":"adj. tuyệt vời"},
+
+
+{"english":"haste",
+"vietnamese":"n. vội vàng"},
+
+
+{"english":"impulse",
+"vietnamese":"n. thôi thúc, vội vàng"},
+
+
+{"english":"latter",
+"vietnamese":"adj. sau"},
+
+
+{"english":"molecule",
+"vietnamese":"n. phân tử"},
+
+
+{"english":"ongoing",
+"vietnamese":"adj. liên tục, đang diễn ra"},
+
+
+{"english":"pharmaceutical",
+"vietnamese":"adj. dược phẩm"},
+
+
+{"english":"precise",
+"vietnamese":"adj. tỉ mỉ, chính xác"},
+
+
+{"english":"proximity",
+"vietnamese":"n. gần gũi"},
+
+
+{"english":"publicity",
+"vietnamese":"n. công khai"},
+
+
+{"english":"remedy",
+"vietnamese":"n. sự sửa chữa, khắc phục"},
+
+
+{"english":"significance",
+"vietnamese":"n. ý nghĩa"},
+
+
+{"english":"subsequent",
+"vietnamese":"adj. tiếp theo"},
+
+
+{"english":"synthetic",
+"vietnamese":"adj. tổng hợp"},
+
+
+{"english":"terminal",
+"vietnamese":"adj. giai đoạn cuối"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"anniversary",
+"vietnamese":"n. ngày kỷ niệm"},
+
+
+{"english":"arithmetic",
+"vietnamese":"n. số học"},
+
+
+{"english":"ashamed",
+"vietnamese":"adj. xấu hổ"},
+
+
+{"english":"burst",
+"vietnamese":"v. nổ"},
+
+
+{"english":"carpenter",
+"vietnamese":"n. thợ mộc"},
+
+
+{"english":"coal",
+"vietnamese":"n. than"},
+
+
+{"english":"couch",
+"vietnamese":"n. ghế dài"},
+
+
+{"english":"drip",
+"vietnamese":"v. chảy nhỏ giọt"},
+
+
+{"english":"elegant",
+"vietnamese":"adj. sang trọng, thanh lịch"},
+
+
+{"english":"fabric",
+"vietnamese":"n. vải"},
+
+
+{"english":"highlands",
+"vietnamese":"n. cao nguyên"},
+
+
+{"english":"ivory",
+"vietnamese":"n. ngà voi"},
+
+
+{"english":"mill",
+"vietnamese":"n. cối xay bột"},
+
+
+{"english":"needle",
+"vietnamese":"n. cây kim"},
+
+
+{"english":"polish",
+"vietnamese":"v. đánh bóng"},
+
+
+{"english":"sew",
+"vietnamese":"v. may"},
+
+
+{"english":"shed",
+"vietnamese":"n. lán, nhà kho"},
+
+
+{"english":"thread",
+"vietnamese":"n. sợi chỉ"},
+
+
+{"english":"trim",
+"vietnamese":"v. cắt, tỉa"},
+
+
+{"english":"upwards",
+"vietnamese":"adv. lên trên"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"adorn",
+"vietnamese":"v. tô điểm"},
+
+
+{"english":"bliss",
+"vietnamese":"n. hạnh phúc"},
+
+
+{"english":"butler",
+"vietnamese":"n. quản gia"},
+
+
+{"english":"cramp",
+"vietnamese":"n. chuột rút"},
+
+
+{"english":"dilapidated",
+"vietnamese":"adj. đổ nát"},
+
+
+{"english":"evoke",
+"vietnamese":"v. gợi lên"},
+
+
+{"english":"farewell",
+"vietnamese":"n. từ biệt"},
+
+
+{"english":"faucet",
+"vietnamese":"n. vòi"},
+
+
+{"english":"filth",
+"vietnamese":"n. rác rưởi"},
+
+
+{"english":"flaw",
+"vietnamese":"n. lỗ hổng"},
+
+
+{"english":"grin",
+"vietnamese":"v. cười toe toét"},
+
+
+{"english":"housekeeping",
+"vietnamese":"n. công việc nội trợ"},
+
+
+{"english":"mound",
+"vietnamese":"n. đống"},
+
+
+{"english":"numb",
+"vietnamese":"adj. tê liệt, tê dại"},
+
+
+{"english":"reckless",
+"vietnamese":"adj. liều lĩnh"},
+
+
+{"english":"slate",
+"vietnamese":"n. đá phiến"},
+
+
+{"english":"stool",
+"vietnamese":"n. ghê đẩu"},
+
+
+{"english":"testament",
+"vietnamese":"n. minh chứng"},
+
+
+{"english":"timber",
+"vietnamese":"n. gỗ"},
+
+
+{"english":"valve",
+"vietnamese":"n. van"}
+
+
+]

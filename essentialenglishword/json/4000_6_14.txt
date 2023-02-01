@@ -1,0 +1,82 @@
+[
+{"english":"camouflage",
+"vietnamese":"n. ngụy trang"},
+
+
+{"english":"contemplate",
+"vietnamese":"v. nghĩ, suy ngẫm"},
+
+
+{"english":"contend",
+"vietnamese":"v. đấu tranh"},
+
+
+{"english":"cot",
+"vietnamese":"n. giường di động"},
+
+
+{"english":"enlist",
+"vietnamese":"v. nhập ngũ"},
+
+
+{"english":"frontier",
+"vietnamese":"n. biên giới"},
+
+
+{"english":"handbook",
+"vietnamese":"n. cẩm nang, sổ tay"},
+
+
+{"english":"hesitant",
+"vietnamese":"adj. do dự"},
+
+
+{"english":"lush",
+"vietnamese":"adj. tươi tốt"},
+
+
+{"english":"marrow",
+"vietnamese":"n. tuỷ"},
+
+
+{"english":"outfit",
+"vietnamese":"n. trang phục"},
+
+
+{"english":"paw",
+"vietnamese":"n. bàn chân"},
+
+
+{"english":"quiver",
+"vietnamese":"v. run"},
+
+
+{"english":"splendid",
+"vietnamese":"adj. lộng lẫy"},
+
+
+{"english":"stray",
+"vietnamese":"v. lạc"},
+
+
+{"english":"substantial",
+"vietnamese":"adj. đáng kế"},
+
+
+{"english":"torch",
+"vietnamese":"n. ngọn đuốc"},
+
+
+{"english":"tract",
+"vietnamese":"n. đường, dãy"},
+
+
+{"english":"vigil",
+"vietnamese":"n. sự thức khuya (để canh gác hoặc để cầu kinh)"},
+
+
+{"english":"weary",
+"vietnamese":"adj. mệt"}
+
+
+]

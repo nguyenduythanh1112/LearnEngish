@@ -1,0 +1,82 @@
+[
+{"english":"alarm",
+"vietnamese":"n. báo động"},
+
+
+{"english":"apart",
+"vietnamese":"adv. cách nhau"},
+
+
+{"english":"arrest",
+"vietnamese":"v. bắt giữ"},
+
+
+{"english":"award",
+"vietnamese":"n. giải thưởng"},
+
+
+{"english":"breed",
+"vietnamese":"n. giống"},
+
+
+{"english":"bucket",
+"vietnamese":"n. xô"},
+
+
+{"english":"contest",
+"vietnamese":"n. cuộc thi"},
+
+
+{"english":"convict",
+"vietnamese":"v. kết án"},
+
+
+{"english":"garage",
+"vietnamese":"n. nhà để xe"},
+
+
+{"english":"journalist",
+"vietnamese":"n. nhà báo"},
+
+
+{"english":"pup",
+"vietnamese":"n. chó con"},
+
+
+{"english":"qualify",
+"vietnamese":"v. hội đủ điều kiện"},
+
+
+{"english":"repair",
+"vietnamese":"v. sửa"},
+
+
+{"english":"resume",
+"vietnamese":"v. hồi phục"},
+
+
+{"english":"rob",
+"vietnamese":"v. cướp"},
+
+
+{"english":"slip",
+"vietnamese":"v. trượt"},
+
+
+{"english":"somewhat",
+"vietnamese":"adv. phần nào, một vài cái gì"},
+
+
+{"english":"stable",
+"vietnamese":"adj. ổn định"},
+
+
+{"english":"tissue",
+"vietnamese":"n. khăn giấy"},
+
+
+{"english":"yard",
+"vietnamese":"n. sân"}
+
+
+]

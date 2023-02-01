@@ -1,0 +1,82 @@
+[
+{"english":"behalf",
+"vietnamese":"n. thay mặt"},
+
+
+{"english":"flap",
+"vietnamese":"v. vạt, vỗ"},
+
+
+{"english":"glacier",
+"vietnamese":"n. sông băng"},
+
+
+{"english":"globe",
+"vietnamese":"n. địa cầu"},
+
+
+{"english":"horizontal",
+"vietnamese":"adj. nằm ngang"},
+
+
+{"english":"hum",
+"vietnamese":"v. vo ve, ngâm nga"},
+
+
+{"english":"inventory",
+"vietnamese":"n. hàng tồn kho"},
+
+
+{"english":"inward",
+"vietnamese":"adj. hướng nội"},
+
+
+{"english":"loaf",
+"vietnamese":"n. ổ"},
+
+
+{"english":"oracle",
+"vietnamese":"n. tiên tri, nhà tiên tri"},
+
+
+{"english":"orbit",
+"vietnamese":"v. quỹ đạo"},
+
+
+{"english":"overview",
+"vietnamese":"n. tổng quan"},
+
+
+{"english":"preview",
+"vietnamese":"n. xem trước"},
+
+
+{"english":"previous",
+"vietnamese":"adj. trước đó"},
+
+
+{"english":"provide",
+"vietnamese":"v. cung cấp"},
+
+
+{"english":"recur",
+"vietnamese":"v. tái diễn"},
+
+
+{"english":"relevant",
+"vietnamese":"adj. liên quan"},
+
+
+{"english":"rite",
+"vietnamese":"n. nghi lễ, nghi thức"},
+
+
+{"english":"stall",
+"vietnamese":"v. ngăn cản, trì hõa"},
+
+
+{"english":"supernatural",
+"vietnamese":"adj. siêu nhiên"}
+
+
+]

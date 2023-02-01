@@ -1,0 +1,82 @@
+[
+{"english":"advance",
+"vietnamese":"(động từ): tiến về"},
+
+
+{"english":"arrange",
+"vietnamese":"(động từ): điều chỉnh, sắp xếp"},
+
+
+{"english":"athlete",
+"vietnamese":"(danh từ): vận động viên"},
+
+
+{"english":"behavior",
+"vietnamese":"(danh từ): hành vi"},
+
+
+{"english":"behind",
+"vietnamese":"(giới từ): đằng sau"},
+
+
+{"english":"course",
+"vietnamese":"(danh từ): khóa học"},
+
+
+{"english":"lower",
+"vietnamese":"(động từ): hạ xuống"},
+
+
+{"english":"match",
+"vietnamese":"(động từ): có sự phù hợp"},
+
+
+{"english":"member",
+"vietnamese":"(danh từ): thành viên"},
+
+
+{"english":"mental",
+"vietnamese":"(tính từ): tinh thần"},
+
+
+{"english":"passenger",
+"vietnamese":"(danh từ): hành khách"},
+
+
+{"english":"personality",
+"vietnamese":"(danh từ): tính cách"},
+
+
+{"english":"poem",
+"vietnamese":"(danh từ): bài thơ"},
+
+
+{"english":"pole",
+"vietnamese":"(danh từ): điểm cực, cột"},
+
+
+{"english":"remove",
+"vietnamese":"(động từ): bỏ đi, gỡ bỏ"},
+
+
+{"english":"safety",
+"vietnamese":"(danh từ): sự an toàn"},
+
+
+{"english":"shot",
+"vietnamese":"(động từ): bắn"},
+
+
+{"english":"sound",
+"vietnamese":"(động từ): nghe có vẻ, kêu"},
+
+
+{"english":"swim",
+"vietnamese":"(động từ): bơi"},
+
+
+{"english":"web",
+"vietnamese":"(danh từ): mạng"}
+
+
+]

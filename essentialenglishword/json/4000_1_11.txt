@@ -1,0 +1,82 @@
+[
+{"english":"anymore",
+"vietnamese":"(phó từ): thêm nữa"},
+
+
+{"english":"asleep",
+"vietnamese":"(tính từ): buồn ngủ"},
+
+
+{"english":"berry",
+"vietnamese":"(danh từ) quả mọng"},
+
+
+{"english":"collect",
+"vietnamese":"(động từ): hái lượm, thu thập"},
+
+
+{"english":"compete",
+"vietnamese":"(động từ) : tranh đấu, cạnh tranh"},
+
+
+{"english":"conversation",
+"vietnamese":"(danh từ) : đối thoại, trò chuyện"},
+
+
+{"english":"creature",
+"vietnamese":"(danh từ): sinh vật"},
+
+
+{"english":"decision",
+"vietnamese":"(danh từ): quyết định"},
+
+
+{"english":"either",
+"vietnamese":"(phó từ): hoặc"},
+
+
+{"english":"forest",
+"vietnamese":"(danh từ): rừng"},
+
+
+{"english":"ground",
+"vietnamese":"(danh từ) : mặt đất"},
+
+
+{"english":"introduce",
+"vietnamese":"(động từ): giới thiệu"},
+
+
+{"english":"marry",
+"vietnamese":"(động từ): cưới"},
+
+
+{"english":"prepare",
+"vietnamese":"(động từ): chuẩn bị"},
+
+
+{"english":"sail",
+"vietnamese":"(động từ): nhổ neo"},
+
+
+{"english":"serious",
+"vietnamese":"(tính từ): nghiêm túc"},
+
+
+{"english":"spend",
+"vietnamese":"(động từ): dành (thời gian)"},
+
+
+{"english":"strange",
+"vietnamese":"(tính từ): kì lạ"},
+
+
+{"english":"truth",
+"vietnamese":"(danh từ) : sự thật"},
+
+
+{"english":"wake",
+"vietnamese":"(động từ): thức dậy"}
+
+
+]

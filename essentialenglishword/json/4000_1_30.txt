@@ -1,0 +1,86 @@
+[
+{"english":"above",
+"vietnamese":"(giới từ): bên trên"},
+
+
+{"english":"ahead",
+"vietnamese":"(giới từ): phía trước"},
+
+
+{"english":"amount",
+"vietnamese":"(danh từ): lượng"},
+
+
+{"english":"belief",
+"vietnamese":"(danh từ): niềm tin"},
+
+
+{"english":"center",
+"vietnamese":"(danh từ): trung tâm"},
+
+
+{"english":"common",
+"vietnamese":"(tính từ): phổ biến"},
+
+
+{"english":"cost",
+"vietnamese":"(động từ): tiêu tốn"},
+
+
+{"english":"demonstrate",
+"vietnamese":"(động từ): minh họa"},
+
+
+{"english":"different",
+"vietnamese":"(tính từ): khác biệt"},
+
+
+{"english":"evidence",
+"vietnamese":"(danh từ): bằng chứng"},
+
+
+{"english":"honesty",
+"vietnamese":"(danh từ): sự thật thà"},
+
+
+{"english":"idiom",
+"vietnamese":"(danh từ): thành ngữ"},
+
+
+{"english":"inside",
+"vietnamese":"(giới từ): bên trong"},
+
+
+{"english":"master",
+"vietnamese":"(danh từ): bậc thầy"},
+
+
+{"english":"memory",
+"vietnamese":"(danh từ): ký ức"},
+
+
+{"english":"independent",
+"vietnamese":"(tính từ): độc lập"},
+
+
+{"english":"proper",
+"vietnamese":"(tính từ): thích hợp"},
+
+
+{"english":"scan",
+"vietnamese":"(động từ): quét"},
+
+
+{"english":"section",
+"vietnamese":"(danh từ): tầng lớp nhân dân"},
+
+
+{"english":"somehow",
+"vietnamese":"(phó từ): vì lý do này lý do khác"},
+
+
+{"english":"surface",
+"vietnamese":"(danh từ): bề mặt"}
+
+
+]

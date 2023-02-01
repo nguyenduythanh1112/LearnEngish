@@ -1,0 +1,82 @@
+[
+{"english":"access",
+"vietnamese":"n. quyền truy cập"},
+
+
+{"english":"conduct",
+"vietnamese":"n. tiến hành, ứng xử"},
+
+
+{"english":"constant",
+"vietnamese":"adj. hằng số, không đổi"},
+
+
+{"english":"crack",
+"vietnamese":"n. vết rạn nứt"},
+
+
+{"english":"device",
+"vietnamese":"n. thiết bị"},
+
+
+{"english":"enclose",
+"vietnamese":"v. bao bọc"},
+
+
+{"english":"grip",
+"vietnamese":"v. nắm chặt"},
+
+
+{"english":"halt",
+"vietnamese":"v. dừng lại"},
+
+
+{"english":"impending",
+"vietnamese":"adj. sắp xảy ra"},
+
+
+{"english":"influence",
+"vietnamese":"v. ảnh hưởng"},
+
+
+{"english":"law",
+"vietnamese":"n. pháp luật"},
+
+
+{"english":"mode",
+"vietnamese":"n. chế độ"},
+
+
+{"english":"perspire",
+"vietnamese":"v. đổ mồ hôi"},
+
+
+{"english":"replace",
+"vietnamese":"v. thay thế"},
+
+
+{"english":"snap",
+"vietnamese":"v. phá vỡ đột ngột"},
+
+
+{"english":"sly",
+"vietnamese":"adj. ranh mãnh"},
+
+
+{"english":"tend",
+"vietnamese":"v. xu hướng"},
+
+
+{"english":"valid",
+"vietnamese":"adj. hợp lệ"},
+
+
+{"english":"version",
+"vietnamese":"n. phiên bản"},
+
+
+{"english":"whatsoever",
+"vietnamese":"adj. bất kỳ cái gì"}
+
+
+]

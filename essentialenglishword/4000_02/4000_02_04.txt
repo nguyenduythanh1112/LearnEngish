@@ -1,0 +1,59 @@
+chest  
+n.ngực
+
+confidence  
+n.sự tự tin
+
+consequence  
+n.kết quả
+
+disaster
+n.thảm họa
+
+disturb  
+v.làm phiền
+
+estimate  
+v.ước tính
+
+honor  
+v.tôn trọng
+
+impress  
+v.gây ấn tượng
+
+marathon  
+n.cuộc chạy đia đường dài
+
+narrow  
+adj.hẹp
+
+pale  
+adj.nhợt nhạt
+
+rough  
+adj.thô
+
+satisfy  
+v.làm thỏa mãn
+
+scream  
+v.hét lên
+
+sensitive  
+adj.nhạy cảm
+
+shade  
+n.bóng râm
+
+supplement  
+v.bổ sung
+
+terror  
+n.sự khủng khiếp, khủng bố
+
+threat  
+n.mối đe dọa
+
+victim  
+n.nạn nhân

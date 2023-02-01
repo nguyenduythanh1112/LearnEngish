@@ -1,0 +1,82 @@
+[
+{"english":"abandon",
+"vietnamese":"v. ruồng bỏ"},
+
+
+{"english":"ambitious",
+"vietnamese":"adj. đầy tham vọng"},
+
+
+{"english":"bark",
+"vietnamese":"v. sủa"},
+
+
+{"english":"bay",
+"vietnamese":"n. vịnh"},
+
+
+{"english":"brilliant",
+"vietnamese":"adj. rực rỡ, xuất sắc"},
+
+
+{"english":"chin",
+"vietnamese":"n. cái cằm"},
+
+
+{"english":"complaint",
+"vietnamese":"n. lời than phiền"},
+
+
+{"english":"deaf",
+"vietnamese":"adj. điếc"},
+
+
+{"english":"enthusiastic",
+"vietnamese":"adj. hăng hái, nhiệt huyết"},
+
+
+{"english":"expedition",
+"vietnamese":"n. cuộc thám hiểm"},
+
+
+{"english":"horizon",
+"vietnamese":"n. chân trời"},
+
+
+{"english":"loyal",
+"vietnamese":"adj. trung thành"},
+
+
+{"english":"mayor",
+"vietnamese":"n. thị trưởng"},
+
+
+{"english":"mutual",
+"vietnamese":"adj. chung"},
+
+
+{"english":"overweight",
+"vietnamese":"adj. thừa cân"},
+
+
+{"english":"refuge",
+"vietnamese":"n. nơi trú ẩn"},
+
+
+{"english":"restore",
+"vietnamese":"v. khôi phục"},
+
+
+{"english":"rub",
+"vietnamese":"v. chà sát"},
+
+
+{"english":"senses",
+"vietnamese":"n. giác quan"},
+
+
+{"english":"veterinarian",
+"vietnamese":"n. bác sĩ thú y"}
+
+
+]

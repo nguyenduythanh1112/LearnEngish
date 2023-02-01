@@ -1,0 +1,82 @@
+[
+{"english":"abolish",
+"vietnamese":"v. bãi bỏ"},
+
+
+{"english":"amend",
+"vietnamese":"v. sửa đổi"},
+
+
+{"english":"aspire",
+"vietnamese":"v. khao khát"},
+
+
+{"english":"censor",
+"vietnamese":"v. kiểm duyệt"},
+
+
+{"english":"charter",
+"vietnamese":"n. hiến chương"},
+
+
+{"english":"constitution",
+"vietnamese":"n. hiến pháp"},
+
+
+{"english":"cosmopolitan",
+"vietnamese":"adj. mang tính quốc tế"},
+
+
+{"english":"disseminate",
+"vietnamese":"v. phổ biến"},
+
+
+{"english":"flatter",
+"vietnamese":"v. nịnh, tang bốc"},
+
+
+{"english":"infamous",
+"vietnamese":"adj. khét tiếng"},
+
+
+{"english":"lame",
+"vietnamese":"adj. què"},
+
+
+{"english":"limp",
+"vietnamese":"v. khập khiễng"},
+
+
+{"english":"outburst",
+"vietnamese":"n. bùng nổ cảm xúc"},
+
+
+{"english":"pathological",
+"vietnamese":"adj. bệnh lý"},
+
+
+{"english":"phenomenal",
+"vietnamese":"adj. hiện tượng"},
+
+
+{"english":"poll",
+"vietnamese":"n. thăm dò ý kiến"},
+
+
+{"english":"remorse",
+"vietnamese":"n. hối hận"},
+
+
+{"english":"secrecy",
+"vietnamese":"n. bí mật"},
+
+
+{"english":"tackle",
+"vietnamese":"v. giải quyết"},
+
+
+{"english":"trance",
+"vietnamese":"n. sự nhập định, sự xuất thần"}
+
+
+]

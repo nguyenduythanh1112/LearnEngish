@@ -1,0 +1,1200 @@
+afraid
+(tính từ): sợ hãi ( a _ _ _ _ _ )
+agree
+(động từ): đồng ý ( _ _ _ e _ )
+angry
+(tính từ): bực tức, tức giận ( a _ _ _ _ )
+arrive
+(động từ): đến nơi ( _ r _ _ _ _ )
+attack
+(động từ): tấn công ( a _ _ _ _ _ )
+bottom
+(giới từ): dưới đáy ( _ _ _ t _ _ )
+clever
+(tính từ): thông minh ( _ _ _ _ _ r )
+cruel
+(tính từ): hung bạo ( _ _ _ _ l )
+finally
+(phó từ): cuối cùng ( _ i _ _ _ _ _ )
+hide
+(động từ): trốn ( h _ _ _ )
+hunt
+(động từ): săn bắt ( _ _ n _ )
+lot
+(phó từ): nhiều ( _ _ _ )
+middle
+(giới từ): giữa ( _ _ _ _ l _ )
+moment
+(danh từ): khoảnh khắc ( _ _ m _ _ _ )
+pleased
+(tính từ): vui lòng ( _ l _ _ _ _ _ )
+promise
+(động từ): hứa ( _ _ o _ _ _ _ )
+reply
+(động từ): trả lời ( _ e _ _ _ )
+safe
+(tính từ): an toàn ( _ _ f _ )
+trick
+(danh từ): mẹo ( _ _ _ c _ )
+well
+(trạng từ): ổn, tốt ( w _ _ _ )
+adventure
+(danh từ): chuyến phiêu lưu ( _ _ v e _ _ _ _ _ )
+approach
+(động từ): đến gần ( _ _ p _ _ _ _ h )
+carefully
+(trạng từ): một cách cẩn thận ( c _ _ _ _ _ l _ _ )
+chemical
+(danh từ): chất hóa học ( _ _ _ m _ c _ _ )
+create
+(động từ): tạo ra ( _ _ _ _ _ e )
+evil
+(tính từ): ma quái ( _ _ i _ )
+experiment
+(danh từ): thí nghiệm ( _ x _ _ r _ _ _ _ _ )
+kill
+(động từ): giết ( _ i _ _ )
+laboratory
+(danh từ): phòng thí nghiệm ( l _ b _ _ _ _ _ _ _ )
+laugh
+(danh từ): tiếng cười ( _ _ _ g _ )
+loud
+(tính từ): ồn ( _ _ u _ )
+nervous
+(tính từ): lo lắng ( _ _ _ v _ _ _ )
+noise
+(danh từ): tiếng ồn ( _ _ _ s _ )
+project
+(danh từ): dự án ( _ _ _ _ _ c _ )
+scare
+(động từ): làm hoảng sợ ( _ _ _ r _ )
+secret
+(danh từ): bí mật ( s _ _ _ _ _ )
+shout
+(động từ): kêu gào ( _ h _ _ _ )
+smell
+(động từ): ngửi thấy ( _ _ _ l _ )
+terrible
+(tính từ): tệ hại ( _ e _ _ i _ _ _ )
+worse
+(tính từ so sánh): tệ hơn ( _ o _ _ _ )
+alien
+(danh từ): người ngoài hành tinh ( _ _ i _ _ )
+among
+(trạng từ): ở giữa ( _ m _ _ _ )
+chart
+(danh từ): biểu đồ ( _ _ a _ _ )
+cloud
+(danh từ): mây ( c _ _ _ _ )
+comprehend
+(động từ): hiểu ( _ _ _ p _ e _ _ _ _ )
+describe
+(động từ): mô tả ( d _ s _ _ _ _ _ )
+ever
+(phó từ): từ trước đến nay ( e _ _ _ )
+fail
+(động từ): thất bại ( _ _ i _ )
+friendly
+(tính từ): thân thiện ( _ _ _ e n _ _ _ )
+grade
+(danh từ): thứ hạng ( _ _ a _ _ )
+instead
+(phó từ): thay vì ( _ _ _ _ _ a _ )
+library
+(danh từ): thư viện ( _ i _ _ _ _ _ )
+planet
+(danh từ): hành tinh ( _ _ _ n _ _ )
+report
+(danh từ): báo cáo ( _ _ _ o _ _ )
+several
+(tính từ): một vài ( s _ _ _ _ _ _ )
+solve
+(động từ): giải quyết ( _ _ l _ _ )
+suddenly
+(trạng từ): đột nhiên ( s _ _ _ _ _ _ y )
+suppose
+(động từ): nghĩ rằng ( _ _ _ _ _ s _ )
+universe
+(danh từ): vũ trụ ( _ n _ _ _ _ _ e )
+view
+(động từ): xem, chiêm ngưỡng ( v _ _ _ )
+appropriate
+(tính từ): phù hợp ( _ p p _ _ _ _ _ _ _ _ )
+avoid
+(động từ) : lảng tránh ( _ _ o _ _ )
+behave
+(động từ): hành xử ( _ _ _ _ _ e )
+calm
+(tính từ): bình tỉnh ( c _ _ _ )
+concern
+(danh từ): mối lo ngại ( c _ _ _ _ _ _ )
+content
+(tính từ): vui lòng ( _ _ _ t _ _ _ )
+expect
+(động từ): kỳ vọng ( _ _ p _ _ _ )
+frequently
+(trạng từ): thường xuyên ( _ _ e q _ _ _ _ _ _ )
+habit
+(danh từ): thói quen ( _ a _ _ _ )
+instruct
+(động từ): hướng dẫn ( _ _ _ t _ _ _ t )
+issue
+(danh từ): vấn đề ( _ _ _ _ e )
+none
+(danh từ): không ai ( _ _ n _ )
+patient
+(tính từ): kiên nhẫn ( _ _ t _ _ _ _ )
+positive
+(tính từ): tích cực ( _ _ _ _ t _ v _ )
+punish
+(động từ): phạt ( _ u _ _ _ _ )
+represent
+(động từ) : đại diện ( r _ _ _ _ _ _ _ t )
+shake
+(động từ) : vẫy, lắc ( _ _ _ k _ )
+spread
+(động từ): lan rộng ( _ p _ _ _ _ )
+stroll
+(động từ) : đi dạo ( _ _ r _ _ _ )
+village
+(danh từ): làng ( v _ _ _ _ _ _ )
+aware
+(tính từ): nhận thức ( _ _ _ r _ )
+badly
+(động từ): một cách tệ hại ( _ _ _ _ y )
+belong
+(động từ): thuộc về ( _ _ _ o _ _ )
+continue
+(động từ): tiếp tục ( _ o n _ _ _ _ _ )
+error
+(danh từ): lỗi ( e _ _ _ _ )
+experience
+(động từ): trải nghiệm ( _ _ _ e _ _ e _ _ _ )
+field
+(danh từ): cánh đồng ( f _ _ _ _ )
+hurt
+(động từ): làm tổn thương ( _ _ _ t )
+judgment
+(danh từ): phán đoán, phán quyết ( _ _ _ g m _ _ _ )
+likely
+(tính từ): có thể ( _ _ _ _ _ y )
+normal
+(tính từ): bình thường ( _ _ _ _ a _ )
+rare
+(tính từ): hiếm có ( _ a _ _ )
+relax
+(động từ): nghỉ ngơi ( _ _ _ a _ )
+request
+(động từ): đề xuất ( _ e _ _ _ _ _ )
+reside
+(động từ): cư trú ( _ e _ _ _ _ )
+result
+(danh từ): kết quả ( _ _ s _ _ _ )
+roll
+(động từ): lăn ( _ _ l _ )
+since
+(phó từ): từ khi ( s _ _ _ _ )
+visible
+(tính từ): dễ nhận thấy ( _ _ _ _ b _ _ )
+wild
+(tính từ): hoang dã ( w _ _ _ )
+advantage
+(danh từ): lợi thế ( _ d _ a _ _ _ _ _ )
+cause
+(động từ): khiến ( _ a _ _ _ )
+choice
+(danh từ): sự lựa chọn ( _ _ _ i _ _ )
+community
+(danh từ): cộng đồng ( c _ _ _ u _ _ _ _ )
+dead
+(tính từ): chết ( _ _ a _ )
+distance
+(danh từ): khoảng cách ( _ _ s _ a _ _ _ )
+escape
+(động từ): chạy trốn ( e _ _ _ _ _ )
+face
+(động từ): đối diện ( f _ _ _ )
+follow
+(động từ): theo đuôi ( f _ _ _ _ _ )
+fright
+(động từ): sợ ( _ r _ _ _ _ )
+ghost
+(danh từ): hồn ma ( _ _ _ _ t )
+individual
+(danh từ): cá thể ( _ _ _ i _ i _ _ _ _ )
+pet
+(danh từ): vật nuôi ( _ _ _ )
+reach
+(động từ): về tới ( _ _ _ _ h )
+return
+(động từ): quay lại ( _ e _ _ _ _ )
+survive
+(động từ): sống sót ( _ u _ _ _ _ _ )
+upset
+(tính từ): buồn bã ( _ p _ _ _ )
+voice
+(danh từ): giọng nói ( _ _ _ _ e )
+weather
+(danh từ): thời tiết ( _ _ _ _ _ _ r )
+wise
+(tính từ): thông thái ( _ i _ _ )
+allow
+(động từ): cho phép ( _ l _ _ _ )
+announce
+(động từ): tuyên bố ( _ _ _ _ u _ _ e )
+beside
+(tính từ) : bên cạnh ( b _ _ _ _ _ )
+challenge
+(danh từ): thách thức ( _ _ _ _ _ _ n g _ )
+claim
+(động từ) : tuyên bố ( _ _ a _ _ )
+condition
+(danh từ): tình trạng ( _ _ _ _ i t _ _ _ )
+contribute
+(động từ): đóng góp ( c _ _ _ _ _ _ _ t _ )
+difference
+(danh từ): sự khác biệt ( _ i f _ _ _ _ _ _ _ )
+divide
+(động từ) : chia ra ( _ _ _ _ _ e )
+expert
+(danh từ): chuyên gia ( _ _ _ e _ _ )
+famous
+(tính từ) : nổi tiếng ( _ _ m _ _ _ )
+force
+(động từ) : ép buộc ( _ _ r _ _ )
+harm
+(danh từ): sự tổn hại ( _ a _ _ )
+lay
+(động từ) : đặt lên ( _ _ _ )
+peace
+(danh từ): hòa bình ( p _ _ _ _ )
+prince
+(danh từ): hoàng tử ( _ _ _ _ _ e )
+protect
+(động từ) : bảo vệ ( _ r _ _ _ _ _ )
+sense
+(động từ) : nhận thấy ( _ _ n _ _ )
+sudden
+(tính từ) : đột ngột ( s _ _ _ _ _ )
+therefore
+(phó từ): bởi vậy ( t _ _ _ e _ _ _ _ )
+accept
+(động từ): chấp nhận, đồng ý ( _ _ _ e _ _ )
+arrange
+(động từ): sắp xếp ( _ _ r _ _ _ _ )
+attend
+(động từ): tham dự ( _ _ _ _ n _ )
+balance
+(động từ): chỉnh cho cân bằng ( _ _ _ a _ _ _ )
+contrast
+(danh từ): sự trái ngược ( _ o n _ _ _ _ _ )
+encourage
+(động từ): cổ vũ, kích thích ( _ _ _ o _ _ _ g _ )
+familiar
+(tính từ): quen thuộc ( f _ _ _ l _ _ _ )
+grab
+(động từ): túm lấy ( g _ _ _ )
+hang
+(động từ): treo mình ( h _ _ _ )
+huge
+(tính từ): to lớn ( _ u _ _ )
+necessary
+(tính từ): cần thiết ( _ e _ _ s _ _ _ _ )
+pattern
+(danh từ): kiểu, mẫu ( _ a _ _ _ _ _ )
+propose
+(động từ): đề xuất ( _ _ o _ _ _ _ )
+purpose
+(danh từ): mục đích ( _ _ _ _ o _ _ )
+release
+(động từ): thả ra ( _ _ _ _ _ s _ )
+require
+(động từ): yêu cầu phải có ( _ e _ _ _ _ _ )
+single
+(tính từ): một mình ( _ _ _ _ _ e )
+success
+(danh từ): thành công ( _ u _ _ _ _ _ )
+tear
+(động từ): xé ( _ _ a _ )
+theory
+(danh từ): giả thuyết ( _ _ _ _ r _ )
+against
+(prep): trái lại, chống lại, đối lại ( _ _ _ _ n _ _ )
+beach
+(n): bãi biển ( _ _ _ _ h )
+damage
+(v): làm hư hại, làm tổn hại ( _ _ _ _ _ e )
+discover
+(v): khám phá, tìm hiểu ( _ _ _ c _ v _ _ )
+emotion
+(n): cảm xúc ( _ _ _ _ _ _ n )
+fix
+(v): sửa chữa ( _ _ _ )
+frank
+(a): chân thành, thẳng thắn ( _ r _ _ _ )
+identify
+(v): nhận định, nhận danh ( _ _ _ _ _ i f _ )
+island
+(n): hòn đảo ( _ _ _ _ _ d )
+ocean
+(n): đại dương, biển cả ( _ _ e _ _ )
+perhaps
+(adv): có lẽ ( p _ _ _ _ _ _ )
+pleasant
+(a): dễ chịu ( _ _ _ _ s a _ _ )
+prevent
+(v): ngăn chặn, ngăn cản ( _ r _ _ _ _ _ )
+rock
+(n): hòn đá, tảng đá ( r _ _ _ )
+save
+(v): cứu, giải cứu ( _ _ v _ )
+step
+(v): bước đi ( _ _ _ p )
+still
+(adv): vẫn còn ( s _ _ _ _ )
+taste
+(n): nếm thử, mùi vị ( _ a _ _ _ )
+throw
+(v): ném ( _ _ _ _ w )
+wave
+(n): sóng biển ( _ a _ _ )
+benefit
+(danh từ) : lợi thế ( _ _ _ _ _ _ t )
+certain
+(tính từ) :chắc chắn ( c _ _ _ _ _ _ )
+chance
+(danh từ) : cơ hội ( _ _ _ _ _ e )
+effect
+(danh từ) : hiệu quả ( e _ _ _ _ _ )
+essential
+(tính từ) : thiết yếu ( _ s _ _ _ _ _ a _ )
+far
+(tính từ) : xa xôi ( _ _ _ )
+focus
+(động từ) : tập trung ( _ _ _ u _ )
+function
+(danh từ): chức năng ( _ _ n _ _ _ _ n )
+grass
+(danh từ) : cỏ ( _ _ _ s _ )
+guard
+(động từ) : canh gác ( _ _ _ r _ )
+image
+(danh từ) : hình ảnh ( i _ _ _ _ )
+immediate
+(tính từ): ngay tức khắc ( _ m m _ _ _ _ _ _ )
+primary
+(tính từ) : cơ bản, nguyên thủy ( _ _ _ _ a _ _ )
+proud
+(tính từ) : đáng tự hào ( p _ _ _ _ )
+remain
+(động từ) : còn tồn tại ( r _ _ _ _ _ )
+rest
+(động từ) : nghỉ ngơi ( _ e _ _ )
+separate
+(động từ): chia tách ( _ _ p _ _ _ _ e )
+site
+(danh từ) : vị trí ( s _ _ _ )
+tail
+(danh từ) : đuôi ( _ _ i _ )
+trouble
+(danh từ): rắc rối ( _ _ o _ _ _ _ )
+anymore
+(phó từ): thêm nữa ( _ _ _ _ _ r _ )
+asleep
+(tính từ): buồn ngủ ( _ _ _ _ e _ )
+berry
+(danh từ) quả mọng ( _ _ r _ _ )
+collect
+(động từ): hái lượm, thu thập ( _ _ _ l _ _ _ )
+compete
+(động từ) : tranh đấu, cạnh tranh ( _ _ _ _ _ t _ )
+conversation
+(danh từ) : đối thoại, trò chuyện ( _ _ _ v e _ s _ _ _ _ _ )
+creature
+(danh từ): sinh vật ( c _ _ _ t _ _ _ )
+decision
+(danh từ): quyết định ( _ _ _ _ _ i _ n )
+either
+(phó từ): hoặc ( _ _ t _ _ _ )
+forest
+(danh từ): rừng ( _ o _ _ _ _ )
+ground
+(danh từ) : mặt đất ( _ r _ _ _ _ )
+introduce
+(động từ): giới thiệu ( i n _ _ _ _ _ _ _ )
+marry
+(động từ): cưới ( m _ _ _ _ )
+prepare
+(động từ): chuẩn bị ( _ _ _ _ _ _ e )
+sail
+(động từ): nhổ neo ( _ _ i _ )
+serious
+(tính từ): nghiêm túc ( _ e _ _ _ _ _ )
+spend: dành
+(thời gian) ( _ _ e _ _ _ _ _ à _ _ )
+strange
+(tính từ): kì lạ ( s _ _ _ _ _ _ )
+truth
+(danh từ) : sự thật ( _ r _ _ _ )
+wake
+(động từ): thức dậy ( _ _ k _ )
+alone
+(trạng từ): một mình ( _ _ _ _ e )
+apartment
+(danh từ): căn hộ ( _ _ _ _ _ _ e _ t )
+article
+(danh từ): bài viết, chủ đề ( _ r _ _ _ _ _ )
+artist
+(danh từ): họa sĩ ( a _ _ _ _ _ )
+attitude
+(danh từ): thái độ ( a _ _ _ _ _ d _ )
+compare
+(động từ): so sánh ( _ _ m _ _ _ _ )
+judge
+(động từ): nhận xét, phán xét ( j _ _ _ _ )
+magazine
+(danh từ): tạp chí ( _ _ _ a _ _ _ e )
+material
+(danh từ): chất liệu ( _ _ _ _ _ i _ l )
+meal
+(danh từ): bữa ăn ( _ _ a _ )
+method
+(danh từ): phương pháp, cách thức ( m _ _ _ _ _ )
+neighbor
+(danh từ): hàng xóm ( _ e _ _ _ _ _ r )
+professional
+(tính từ): chuyên nghiệp ( _ _ o _ _ s _ _ o _ _ _ )
+profit
+(danh từ): lợi nhuận ( _ _ o _ _ _ )
+quality
+(danh từ): chất lượng ( _ _ _ _ _ _ y )
+shape
+(danh từ): hình thù, hình dáng ( s _ _ _ _ )
+space
+(danh từ): không gian ( _ _ _ _ e )
+stair
+(danh từ): cầu thang ( _ _ _ _ r )
+symbol
+(danh từ): biểu tượng ( _ y _ _ _ _ )
+thin
+(tính từ): gầy gò ( _ _ i _ )
+blood
+(danh từ): máu ( _ _ _ _ d )
+burn
+(động từ): cháy ( _ u _ _ )
+cell
+(danh từ):lồng, cũi ( _ _ _ l )
+contain
+(động từ): chứa đựng ( c _ _ _ _ _ _ )
+correct
+(tính từ): chính xác, đúng ( _ _ _ r _ _ _ )
+crop
+(danh từ): vụ mùa ( c _ _ _ )
+demand
+(động từ): đòi hỏi, yêu cầu ( _ _ _ _ n _ )
+equal
+(tính từ): ngang bằng ( e _ _ _ _ )
+feed
+(động từ): cho ăn ( _ _ _ d )
+hole
+(danh từ): hố ( _ _ l _ )
+increase
+(động từ):tăng ( _ _ _ r _ _ s _ )
+lord
+(danh từ): chủ ( l _ _ _ )
+owe
+(động từ): nợ ( _ _ _ )
+position
+(danh từ): vị trí ( p _ _ _ t _ _ _ )
+raise
+(động từ): nuôi lớn, nâng cao ( _ _ _ _ e )
+responsible
+(tính từ): có trách nhiệm ( _ _ _ _ _ _ s _ b _ _ )
+sight
+(danh từ): cảnh tượng ( _ _ _ _ t )
+spot
+(danh từ) nơi, điểm ( _ p _ _ )
+structure
+(danh từ) : công trình xây dựng ( s t _ _ _ _ _ _ _ )
+whole
+(tính từ): tất cả ( w _ _ _ _ )
+coach
+(danh từ): huấn luyện viên ( c _ _ _ _ )
+control
+(động từ): điều khiển ( _ _ _ _ _ _ l )
+description
+(danh từ): đoạn miêu tả ( _ _ _ _ _ _ p _ _ o _ )
+direct
+(tính từ): trực tiếp ( _ _ _ e _ _ )
+exam
+(danh từ): bài kiểm tra ( _ _ _ m )
+example
+(danh từ): ví dụ minh họa ( _ _ _ m _ _ _ )
+limit
+(danh từ): giới hạn ( _ _ _ i _ )
+local
+(tính từ): tại địa phương ( l _ _ _ _ )
+magical
+(tính từ): nhiệm màu ( m _ _ _ _ _ _ )
+mail
+(danh từ): thư ( _ _ i _ )
+novel
+(danh từ): tiểu thuyết ( _ _ _ _ l )
+outline
+(danh từ): cốt truyện ( o _ _ _ _ _ _ )
+poet
+(danh từ): nhà thơ ( _ o _ _ )
+print
+(động từ): in ( _ r _ _ _ )
+scene
+(danh từ): khung cảnh ( _ _ _ n _ )
+sheet
+(danh từ): trang giấy ( s _ _ _ _ )
+silly
+(tính từ): ngớ ngẩn ( _ _ _ l _ )
+store
+(danh từ): cửa hàng ( s _ _ _ _ )
+suffer
+(động từ): chịu đựng ( _ _ _ _ _ r )
+technology
+(danh từ): công nghệ ( t _ c _ _ _ _ _ _ _ )
+across
+(giới từ): ở phía bên kia ( _ _ r _ _ _ )
+breathe
+(động từ): thở ( _ r _ _ _ _ _ )
+characteristic
+(danh từ): đặc điểm ( c _ _ _ _ _ _ _ r i _ _ _ _ )
+consume
+(động từ): tiêu thụ ( _ o _ _ _ _ _ )
+excite
+(động từ): kích động ( e _ _ _ _ _ )
+extreme
+(tính từ): khắc nghiệt ( e _ _ _ _ _ _ )
+fear
+(tính từ): sợ hãi ( _ _ _ r )
+fortunate
+(tính từ): may mắn ( _ _ r _ _ _ _ t _ )
+happen
+(động từ): xảy ra ( _ _ _ _ e _ )
+length
+(danh từ): chiều dài ( l _ _ _ _ _ )
+mistake
+(danh từ): lỗi sai ( _ _ s _ _ _ _ )
+observe
+(động từ): quan sát ( _ b _ _ _ _ _ )
+opportunity
+(danh từ): cơ hội ( _ _ p _ _ _ _ _ _ t _ )
+prize
+(danh từ): giải thưởng ( p _ _ _ _ )
+race
+(danh từ): cuộc đua ( _ a _ _ )
+realize
+(động từ): nhận ra ( _ _ _ _ _ _ e )
+respond
+(động từ): phản hồi, phản ứng ( r _ _ _ _ _ _ )
+risk
+(danh từ): sự rủi ro ( _ i _ _ )
+wonder
+(động từ): tự hỏi ( _ _ _ _ _ r )
+yet
+(phó từ): còn nữa ( _ _ _ )
+academy
+(n) trường đào tạo đặc biệt; học viện ( _ _ _ _ _ m _ )
+ancient
+(n) xưa, cổ xưa ( _ _ _ _ _ n _ )
+board
+(n) tấm ván; bảng ( _ _ _ _ d )
+century
+(n) thế kỷ ( _ _ _ _ _ _ y )
+clue
+(n) đầu mối; manh mối ( _ _ _ e )
+concert
+(n) buổi hoà nhạc ( c _ _ _ _ _ _ )
+county
+(n) quận, khu hành chính ( _ o _ _ _ _ )
+dictionary
+(n) từ điển ( _ _ _ _ _ _ n _ r _ )
+exist
+(v)tồn tại ( e _ _ _ _ )
+flat
+(a)mặt phẳng ( _ _ _ t )
+gentleman
+(n) quý ông ( _ _ _ _ _ e m _ _ )
+hidden
+(a) trốn, ẩn nấp, náu ( _ _ d _ _ _ )
+maybe
+(adv)có thể, có lẽ ( m _ _ _ _ )
+officer
+(n) sĩ quan ( _ _ _ i _ _ _ )
+original
+(a)tính nguyên bản, bản gốc ( _ r _ _ i _ _ _ )
+pound
+(v)dập, đóng ( _ _ _ n _ )
+process
+(n) quá trình,quy trình, sự xử lý ( _ _ o _ _ _ _ )
+publish
+(v) công bố, ban bố, xuất bản ( _ _ _ _ _ s _ )
+theater
+(n) rạp hát, nhà hát ( _ _ _ _ _ _ r )
+wealth
+(n) sự giàu có; sự giàu sang ( _ _ _ l _ _ )
+appreciate
+(động từ): đánh giá cao ( _ p _ _ _ c _ _ _ _ )
+available
+(tính từ): còn trống ( _ _ _ _ l a _ _ _ )
+beat
+(động từ): đánh bại ( _ e _ _ )
+bright
+(tính từ): sáng chói ( _ _ _ _ h _ )
+celebrate
+(động từ): làm lễ kỷ niệm ( c _ _ _ b _ _ _ _ )
+determine
+(động từ): quyết tâm ( _ e _ e _ _ _ _ _ )
+disappear
+(động từ): biến mất ( d _ _ _ _ _ e _ _ )
+else
+(phó từ): khác nữa ( _ _ s _ )
+fair
+(tính từ): công bằng ( _ a _ _ )
+flow
+(động từ): chảy ( _ _ _ w )
+forward
+(giới từ): về phía trước ( _ _ r _ _ _ _ )
+hill
+(danh từ): đồi ( _ _ l _ )
+level
+(danh từ): mức ( _ _ _ e _ )
+lone
+(tính từ): đơn độc ( _ _ _ e )
+puddle
+(danh từ): vũng nước mưa ( _ u _ _ _ _ )
+response
+(danh từ): phản hồi ( _ e s _ _ _ _ _ )
+season
+(danh từ): mùa ( _ e _ _ _ _ )
+solution
+(danh từ): giải pháp ( _ _ _ u _ _ _ n )
+waste
+(động từ): phung phí ( _ _ _ _ e )
+whether
+(liên từ): có hay không ( _ _ e _ _ _ _ )
+argue
+(động từ): tranh luận ( _ _ _ _ e )
+communicate
+(động từ): giao tiếp, liên lạc ( _ _ m _ _ _ _ _ _ _ e )
+crowd
+(danh từ): đám đông ( c _ _ _ _ )
+depend
+(động từ): phụ thuộc ( _ _ p _ _ _ )
+dish
+(danh từ): cái đĩa ( _ i _ _ )
+empty
+(tính từ): trống rỗng, hết ( e _ _ _ _ )
+exact
+(tính từ): chính xác ( _ _ a _ _ )
+fresh
+(tính từ): tươi mới ( _ _ _ s _ )
+gather
+(động từ): thu lượm ( _ _ _ h _ _ )
+indicate
+(động từ): chỉ dẫn ( _ n _ _ c _ _ _ )
+item
+(danh từ): vật phẩm ( i _ _ _ )
+offer
+(động từ): đề xuất ( _ _ _ e _ )
+price
+(danh từ): giá ( _ _ i _ _ )
+product
+(danh từ): sản phẩm ( _ r _ _ _ _ _ )
+property
+(danh từ): vùng đất, tài sản ( _ _ o _ _ _ t _ )
+purchase
+(động từ): mua ( _ _ _ _ _ a _ e )
+recommend
+(động từ): gợi ý ( _ e c _ _ _ _ _ _ )
+select
+(động từ): lựa chọn ( _ _ _ _ c _ )
+tool
+(danh từ): dụng cụ ( _ _ o _ )
+treat
+(động từ): đối xử ( t _ _ _ _ )
+alive
+(tính từ): sống sót ( _ _ _ v _ )
+bone
+(danh từ): xương ( _ o _ _ )
+bother
+(động từ): phiền lòng ( _ _ _ _ e _ )
+captain
+(danh từ): thuyền trưởng ( _ _ _ _ _ i _ )
+conclusion
+(danh từ): kết luận ( _ _ _ c _ u _ _ _ _ )
+doubt
+(danh từ): sự nghi ngờ ( _ _ _ _ t )
+explore
+(động từ): thám hiểm ( _ x _ _ _ _ _ )
+foreign
+(tính từ): nước ngoài ( _ o _ _ _ _ _ )
+glad
+(tính từ): vui mừng ( g _ _ _ )
+however
+(liên từ): tuy thế ( _ o _ _ _ _ _ )
+injustice
+(danh từ): sự bất công ( _ _ _ u s _ _ _ _ )
+international
+(tính từ): mang tính quốc tế ( _ _ t _ r _ _ _ _ o _ _ _ )
+lawyer
+(danh từ): luật sư ( _ _ _ y _ _ )
+mention
+(động từ): đề cập ( _ _ _ _ _ o _ )
+policy
+(danh từ): chính sách ( _ _ _ _ c _ )
+social
+(tính từ): xã hội ( _ o _ _ _ _ )
+speech
+(danh từ): bài nói chuyện ( _ _ e _ _ _ )
+staff
+(danh từ): nhân viên, đội ngũ ( _ t _ _ _ )
+toward
+(giới từ): về phía ( _ o _ _ _ _ )
+wood
+(danh từ): gỗ ( _ _ _ d )
+achieve
+(động từ): đạt được ( _ _ _ _ _ _ e )
+advise
+(động từ): khuyên bảo ( _ _ _ i _ _ )
+already
+(phó từ): đã, đã rồi ( _ _ _ e _ _ _ )
+basic
+(tính từ): cơ bản ( _ _ _ _ c )
+bit
+(danh từ): một chút ( _ _ _ )
+consider
+(động từ): cân nhắc ( _ _ _ s _ _ e _ )
+destroy
+(động từ): phá hủy ( _ _ _ _ _ _ y )
+entertain
+(động từ): làm trò, giải trí ( e _ _ e _ _ _ _ _ )
+extra
+(tính từ): thêm, được bổ sung them ( _ x _ _ _ )
+goal
+(danh từ): mục tiêu ( _ _ _ l )
+lie
+(động từ): nói dối ( _ _ _ )
+meal
+(danh từ): bữa ăn ( _ _ _ l )
+opinion
+(danh từ): quan điểm ( o _ _ _ _ _ _ )
+real
+(tính từ): có thật ( _ _ a _ )
+reflect
+(động từ): phản chiếu ( _ _ _ l _ _ _ )
+regard
+(động từ): coi (cái gì) là ( _ e _ _ _ _ )
+serve
+(động từ): phục vụ ( _ _ _ v _ )
+vegetable
+(danh từ): rau củ ( _ _ _ _ _ _ b _ e )
+war
+(danh từ): chiến tranh ( _ _ _ )
+worth
+(tính từ): đáng giá ( _ _ r _ _ )
+appear
+(động từ): xuất hiện ( _ _ _ _ a _ )
+base
+(danh từ): nền, cơ sở ( b _ _ _ )
+brain
+(danh tù): não ( _ _ _ _ n )
+career
+(danh từ): sự nghiệp ( _ _ _ _ _ r )
+clerk
+(danh từ): người thư ký ( c _ _ _ _ )
+effort
+(danh từ): sự nỗ lực ( _ f _ _ _ _ )
+enter
+(động từ): vào ( e _ _ _ _ )
+excellent
+(tính từ):: xuất sắc ( e _ _ e _ _ _ _ _ )
+hero
+(danh từ): anh hung ( _ _ _ o )
+hurry
+(động từ): vội vã ( _ u _ _ _ )
+inform
+(động từ): thông báo ( _ n _ _ _ _ )
+later
+(phó từ): sau này ( l _ _ _ _ )
+leave
+(động từ): rời đi ( _ _ a _ _ )
+locate
+(động từ): định vị ( _ _ _ a _ _ )
+nurse
+(danh từ): y tá ( _ _ _ s _ )
+operation
+(danh từ): ca mổ ( o _ _ _ _ _ _ o _ )
+pain
+(danh từ): sự đau đớn ( _ _ _ n )
+refuse
+(động từ): từ chối ( _ _ _ _ _ e )
+though
+(liên từ): dù ( _ _ _ _ g _ )
+various
+(tính từ): đa dạng ( v _ _ _ _ _ _ )
+actual
+(tính từ): thực sự ( a _ _ _ _ _ )
+amaze
+(động từ): làm kinh ngạc ( _ m _ _ _ )
+charge
+(danh từ): khoản phí ( _ h _ _ _ _ )
+comfort
+(động từ): làm hài lòng, thoải mái ( _ _ _ f _ _ _ )
+contact
+(động từ): liên lạc ( _ _ _ _ a _ _ )
+customer
+(danh từ): khách hàng ( c _ s _ _ _ _ _ )
+deliver
+(động từ): chuyển tới ( _ _ l _ _ _ _ )
+earn
+(động từ): kiếm được ( e _ _ _ )
+gate
+(danh từ): cổng, cửa ( _ _ t _ )
+include
+(động từ): bao gồm ( _ _ _ _ _ d _ )
+manage
+(động từ): quản lý ( _ _ _ _ _ e )
+mystery
+(danh từ): bí ẩn ( m _ _ _ _ _ _ )
+occur
+(động từ): xảy ra ( _ _ _ u _ )
+opposite
+(giới từ): đối lập ( o _ _ _ _ i _ _ )
+plate
+(danh từ): đĩa ( _ _ _ t _ )
+receive
+(động từ): nhận ( _ _ _ _ i _ _ )
+reward
+(danh từ): phần thưởng ( _ _ _ _ r _ )
+set
+(động từ): để lại ( _ _ _ )
+steal
+(động từ): ăn cắp ( _ _ _ _ l )
+thief
+(danh từ): kẻ trộm ( _ h _ _ _ )
+advance
+(động từ): tiến về ( _ _ _ _ n _ _ )
+arrange
+(động từ): điều chỉnh, sắp xếp ( _ _ _ _ n _ _ )
+athlete
+(danh từ): vận động viên ( _ _ h _ _ _ _ )
+behavior
+(danh từ): hành vi ( _ _ _ a _ i _ _ )
+behind
+(giới từ): đằng sau ( _ _ _ _ n _ )
+course
+(danh từ): khóa học ( _ o _ _ _ _ )
+lower
+(động từ): hạ xuống ( _ _ w _ _ )
+match
+(động từ): có sự phù hợp ( _ _ t _ _ )
+member
+(danh từ): thành viên ( _ _ _ b _ _ )
+mental
+(tính từ): tinh thần ( m _ _ _ _ _ )
+passenger
+(danh từ): hành khách ( p _ _ _ e _ _ _ _ )
+personality
+(danh từ): tính cách ( _ _ _ s _ _ a _ _ _ _ )
+poem
+(danh từ): bài thơ ( _ o _ _ )
+pole
+(danh từ): điểm cực, cột ( p _ _ _ )
+remove
+(động từ): bỏ đi, gỡ bỏ ( r _ _ _ _ _ )
+safety
+(danh từ): sự an toàn ( s _ _ _ _ _ )
+shot
+(động từ): bắn ( _ _ o _ )
+sound
+(động từ): nghe có vẻ, kêu ( s _ _ _ _ )
+swim
+(động từ): bơi ( _ w _ _ )
+web
+(danh từ): mạng ( _ _ _ )
+block
+(danh từ): khối ( _ _ _ _ k )
+cheer
+(động từ): uống mừng ( _ _ _ e _ )
+complex
+(tính từ): phức tạp ( _ _ m _ _ _ _ )
+critic
+(danh từ): nhà phê bình ( _ r _ _ _ _ )
+event
+(danh từ): sự kiện ( _ _ _ _ t )
+exercise
+(danh từ): bài tập thể dục ( e x _ _ _ _ _ _ )
+fit
+(động từ): vừa vặn ( _ _ _ )
+friendship
+(danh từ): tình bạn ( f _ _ _ _ _ _ _ _ p )
+guide
+(danh từ): người hướng dẫn ( _ _ _ _ e )
+lack
+(động từ): thiếu đi ( l _ _ _ )
+passage
+(danh từ): lối đi, đường hầm, đường vượt ( _ a _ _ _ _ _ )
+perform
+(động từ): trình diễn ( _ _ _ f _ _ _ )
+pressure
+(danh từ): áp lực ( _ _ _ _ s _ _ e )
+probable
+(tính từ): có thể ( _ r _ b _ _ _ _ )
+public
+(tính từ): công cộng ( p _ _ _ _ _ )
+strike
+(động từ): đâm vào, đánh vào ( _ t _ _ _ _ )
+support
+(động từ): giúp đỡ ( s _ _ _ _ _ _ )
+task
+(danh từ): nhiệm vụ ( t _ _ _ )
+term
+(danh từ): thuật ngữ ( _ _ _ m )
+unite
+(động từ): đoàn kết lại ( u _ _ _ _ )
+associate
+(động từ): liên kết ( _ _ s _ c _ _ _ _ )
+environment
+(danh từ): môi trường ( e _ _ _ _ _ n _ _ _ _ )
+factory
+(danh từ): nhà máy ( _ _ c _ _ _ _ )
+feature
+(danh từ): đặc tính, tính năng ( _ _ _ t _ _ _ )
+instance
+(danh từ): ví dụ, trường hợp ( _ n _ _ a _ _ _ )
+involve
+(động từ): tham gia vào, liên quan đến ( i _ _ _ _ _ _ )
+medicine
+(danh từ): thuốc ( m e _ _ _ _ _ _ )
+mix
+(danh từ): hỗn hợp ( _ _ _ )
+organize
+(động từ): tổ chức ( _ _ _ _ _ _ z e )
+period
+(danh từ): giai đoạn ( p _ _ _ _ _ )
+populate
+(động từ): sinh sống ( _ o _ _ _ a _ _ )
+produce
+(động từ): tạo ra, sản xuất ( _ _ o _ _ _ _ )
+range
+(danh từ): một loạt ( r _ _ _ _ )
+recognize
+(động từ): nhận ra ( r _ c _ _ _ _ _ _ )
+regular
+(phó từ): thường xuyên ( _ _ _ _ l _ _ )
+sign
+(danh từ): dấu hiệu ( _ _ _ n )
+tip
+(danh từ): đầu nhọn ( _ _ _ )
+tradition
+(danh từ): truyền thống ( _ r _ d _ _ _ _ _ )
+trash
+(danh từ): rác ( t _ _ _ _ )
+wide
+(tính từ): rộng ( _ i _ _ )
+advice
+(danh từ): lời khuyên ( _ _ _ _ _ e )
+along
+(giới từ): dọc theo ( a _ _ _ _ )
+attention
+(danh từ): sự chú ý ( _ _ _ _ _ _ _ o n )
+attract
+(động từ): thu hút ( _ _ _ _ _ _ t )
+climb
+(động từ): trèo ( _ _ i _ _ )
+drop
+(động từ): ngã khỏi ( d _ _ _ )
+final
+(tính từ): cuối cùng ( _ _ _ _ l )
+further
+(tính từ so sánh): xa hơn ( _ _ _ t _ _ _ )
+imply
+(động từ): ám chỉ ( _ _ p _ _ )
+maintain
+(động từ): giữ, duy trì ( _ a _ _ _ _ i _ )
+neither
+(phó từ): không gì cả ( n _ _ _ _ _ _ )
+physical
+(tính từ): thể chất ( _ _ _ s _ _ a _ )
+prove
+(động từ): chứng minh ( _ _ _ _ e )
+react
+(động từ): phản ứng ( r _ _ _ _ )
+ride
+(động từ): cưỡi ( _ _ _ e )
+situate
+(động từ): đặt ở chỗ ( _ _ _ _ _ _ e )
+society
+(danh từ): xã hội ( _ _ _ _ _ t _ )
+standard
+(danh từ): tiêu chuẩn, mức chuẩn ( _ _ _ _ d a _ _ )
+suggest
+(động từ): gợi ý ( _ _ g _ _ _ _ )
+actually
+(trạng từ): thực sự ( _ _ _ _ _ l _ y )
+bite
+(động từ): cắn ( _ i _ _ )
+coast
+(danh từ): bờ biển ( _ _ a _ _ )
+deal
+(danh từ): giao dịch ( _ _ _ l )
+desert
+(danh từ): sa mạc ( _ _ _ _ _ t )
+earthquake
+(danh từ): trận động đất ( e a _ _ _ _ _ _ _ _ )
+effective
+(tính từ): hiệu quả ( _ _ _ e _ _ _ _ e )
+examine
+(động từ): kiểm tra ( _ _ _ _ _ n _ )
+false
+(tính từ): sai ( _ _ _ s _ )
+gift
+(danh từ): món quà ( _ i _ _ )
+hunger
+(danh từ): cơn đói ( _ _ _ g _ _ )
+imagine
+(động từ): tưởng tượng ( _ _ _ _ _ n _ )
+journey
+(danh từ): hành trình ( _ _ _ r _ _ _ )
+otherwise
+(liên từ): nếu không thì ( _ _ h _ r _ _ _ _ )
+puzzle
+(danh từ): câu đố ( _ _ _ z _ _ )
+quite
+(phó từ): khá là ( _ _ i _ _ )
+rather
+(phó từ): thà hơn ( _ a _ _ _ _ )
+specific
+(tính từ): chi tiết, cụ thể ( _ p _ _ i _ _ _ )
+trip
+(danh từ): chuyến đi ( _ _ _ p )
+value
+(danh từ): giá trị ( _ _ _ u _ )
+band
+(danh từ): ban nhạc ( _ a _ _ )
+barely
+(phó từ): hiếm khi ( _ _ r _ _ _ )
+boring
+(tính từ): nhàm chán ( _ _ r _ _ _ )
+cancel
+(động từ): hủy bỏ ( _ _ _ _ e _ )
+driveway
+(danh từ): đường lái xe vào nhà ( _ r _ _ e _ _ _ )
+garbage
+(danh từ): rác ( _ _ _ _ _ g _ )
+instrument
+(danh từ): đạo cụ ( _ _ s _ _ _ m _ _ _ )
+list
+(danh từ): danh sách ( _ _ s _ )
+magic
+(danh từ): phép màu ( _ _ _ _ c )
+notice
+(động từ): chú ý tới ( n _ _ _ _ _ )
+own
+(động từ): sở hữu ( _ _ _ )
+predict
+(động từ): dự đoán ( _ r _ _ _ _ _ )
+professor
+(danh từ): giáo sư ( _ r _ _ _ _ _ o _ )
+rush
+(động từ): vội vã đi gấp ( _ _ _ h )
+schedule
+(danh từ): lịch trình ( _ _ h _ d _ _ _ )
+share
+(động từ): chia sẻ ( _ h _ _ _ )
+stage
+(danh từ): sân khấu ( _ _ a _ _ )
+storm
+(danh từ): bão ( _ _ _ _ m )
+tour
+(danh từ): chuyến du lịch ( t _ _ _ )
+within
+(giới từ): ở giữa bên trong ( _ _ _ _ _ n )
+advertise
+(động từ): quảng bá ( _ _ v _ _ _ i _ _ )
+assign
+(động từ): phân công ( _ _ _ _ _ n )
+audience
+(danh từ): khán giả ( a _ d _ _ _ _ _ )
+breakfast
+(danh từ): bữa sáng ( b _ _ _ k _ _ _ _ )
+competition
+(danh từ): cuộc thi ( _ _ _ _ _ _ _ _ _ o n )
+cool
+(tính từ): mát mẻ ( c _ _ _ )
+gain
+(động từ): đạt được, thêm được ( _ a _ _ )
+importance
+(danh từ): tầm quan trọng ( i _ _ o _ _ _ _ _ _ )
+knowledge
+(danh từ): kiến thức ( k _ _ w _ _ _ _ _ )
+major
+(tính từ): chủ chốt ( _ _ j _ _ )
+mean
+(động từ): có ý định ( _ e _ _ )
+message
+(danh từ): tin nhắn ( _ _ _ _ _ g _ )
+prefer
+(động từ): thích ( _ _ _ f _ _ )
+president
+(danh từ): chủ tịch ( _ _ _ _ _ _ _ n t )
+progress
+(danh từ): tiến trình ( _ _ _ _ r _ _ s )
+respect
+(động từ): tôn trọng ( _ _ _ _ e _ _ )
+rich
+(tính từ): giàu có ( r _ _ _ )
+skill
+(danh từ): kỹ năng ( _ k _ _ _ )
+strength
+(danh từ): sức mạnh ( _ _ r _ _ g _ _ )
+vote
+(động từ): bầu chọn ( _ _ t _ )
+above
+(giới từ): bên trên ( _ _ _ _ e )
+ahead
+(giới từ): phía trước ( _ _ e _ _ )
+amount
+(danh từ): lượng ( _ _ _ u _ _ )
+belief
+(danh từ): niềm tin ( _ _ _ _ _ f )
+center
+(danh từ): trung tâm ( _ e _ _ _ _ )
+common
+(tính từ): phổ biến ( _ _ m _ _ _ )
+cost
+(động từ): tiêu tốn ( _ _ s _ )
+demonstrate
+(động từ): minh họa ( _ e _ _ _ _ _ _ _ _ e )
+different
+(tính từ): khác biệt ( _ _ _ _ _ r _ _ t )
+evidence
+(danh từ): bằng chứng ( _ v i _ _ _ _ _ )
+honesty
+(danh từ): sự thật thà ( _ _ _ e _ _ _ )
+idiom
+(danh từ): thành ngữ ( _ _ _ _ m )
+inside
+(giới từ): bên trong ( _ _ s _ _ _ )
+master
+(danh từ): bậc thầy ( _ _ s _ _ _ )
+memory
+(danh từ): ký ức ( _ _ _ o _ _ )
+independent
+(tính từ): độc lập ( _ _ _ _ _ _ _ _ _ n t )
+proper
+(tính từ): thích hợp ( p _ _ _ _ _ )
+scan
+(động từ): quét ( s _ _ _ )
+section
+(danh từ): tầng lớp nhân dân ( _ _ _ _ _ _ n )
+somehow
+(phó từ): vì lý do này lý do khác ( _ _ _ _ h _ _ )
+surface
+(danh từ): bề mặt ( _ _ _ f _ _ _ )

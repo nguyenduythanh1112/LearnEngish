@@ -1,0 +1,82 @@
+[
+{"english":"aquarium",
+"vietnamese":"n. thủy cung"},
+
+
+{"english":"arbitrary",
+"vietnamese":"adj. tùy ý"},
+
+
+{"english":"autobiography",
+"vietnamese":"n. tự truyện"},
+
+
+{"english":"convention",
+"vietnamese":"n. quy ước"},
+
+
+{"english":"gracious",
+"vietnamese":"adj. tử tế, tốt bụng, ân cần"},
+
+
+{"english":"improve",
+"vietnamese":"v. cải thiện"},
+
+
+{"english":"insulate",
+"vietnamese":"v. cách nhiệt"},
+
+
+{"english":"intrigue",
+"vietnamese":"v. mưu mô, mánh khóe"},
+
+
+{"english":"longevity",
+"vietnamese":"n. tuổi thọ"},
+
+
+{"english":"misplace",
+"vietnamese":"v. thất lạc"},
+
+
+{"english":"naughty",
+"vietnamese":"adj. nghịch ngợm"},
+
+
+{"english":"norm",
+"vietnamese":"n. chuẩn mực"},
+
+
+{"english":"orangutan",
+"vietnamese":"n. đười ươi"},
+
+
+{"english":"overload",
+"vietnamese":"v. quá tải"},
+
+
+{"english":"philanthropy",
+"vietnamese":"n. từ thiện"},
+
+
+{"english":"probe",
+"vietnamese":"v. thăm dò"},
+
+
+{"english":"recipient",
+"vietnamese":"n. người nhận"},
+
+
+{"english":"reptile",
+"vietnamese":"n. bò sát"},
+
+
+{"english":"thrive",
+"vietnamese":"v. phát đạt, phát triển mạnh"},
+
+
+{"english":"ultimate",
+"vietnamese":"adj. cuối cùng"}
+
+
+]

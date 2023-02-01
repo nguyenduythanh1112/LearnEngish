@@ -1,0 +1,82 @@
+[
+{"english":"coach",
+"vietnamese":"(danh từ): huấn luyện viên"},
+
+
+{"english":"control",
+"vietnamese":"(động từ): điều khiển"},
+
+
+{"english":"description",
+"vietnamese":"(danh từ): đoạn miêu tả"},
+
+
+{"english":"direct",
+"vietnamese":"(tính từ): trực tiếp"},
+
+
+{"english":"exam",
+"vietnamese":"(danh từ): bài kiểm tra"},
+
+
+{"english":"example",
+"vietnamese":"(danh từ): ví dụ minh họa"},
+
+
+{"english":"limit",
+"vietnamese":"(danh từ): giới hạn"},
+
+
+{"english":"local",
+"vietnamese":"(tính từ): tại địa phương"},
+
+
+{"english":"magical",
+"vietnamese":"(tính từ): nhiệm màu"},
+
+
+{"english":"mail",
+"vietnamese":"(danh từ): thư"},
+
+
+{"english":"novel",
+"vietnamese":"(danh từ): tiểu thuyết"},
+
+
+{"english":"outline",
+"vietnamese":"(danh từ): cốt truyện"},
+
+
+{"english":"poet",
+"vietnamese":"(danh từ): nhà thơ"},
+
+
+{"english":"print",
+"vietnamese":"(động từ): in"},
+
+
+{"english":"scene",
+"vietnamese":"(danh từ): khung cảnh"},
+
+
+{"english":"sheet",
+"vietnamese":"(danh từ): trang giấy"},
+
+
+{"english":"silly",
+"vietnamese":"(tính từ): ngớ ngẩn"},
+
+
+{"english":"store",
+"vietnamese":"(danh từ): cửa hàng"},
+
+
+{"english":"suffer",
+"vietnamese":"(động từ): chịu đựng"},
+
+
+{"english":"technology",
+"vietnamese":"(danh từ): công nghệ"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"civilization",
+"vietnamese":"n. nền văn minh"},
+
+
+{"english":"convenient",
+"vietnamese":"adj. thuận tiện"},
+
+
+{"english":"den",
+"vietnamese":"n. hang"},
+
+
+{"english":"dew",
+"vietnamese":"n. hạt nước sương"},
+
+
+{"english":"drastic",
+"vietnamese":"adj. mạnh mẽ, quyết liệt"},
+
+
+{"english":"exit",
+"vietnamese":"v. thoát"},
+
+
+{"english":"flock",
+"vietnamese":"n. bầy, đàn"},
+
+
+{"english":"fold",
+"vietnamese":"v. gấp"},
+
+
+{"english":"lid",
+"vietnamese":"n. nắp"},
+
+
+{"english":"loom",
+"vietnamese":"v. bao trùm"},
+
+
+{"english":"mighty",
+"vietnamese":"adj. hùng mạnh"},
+
+
+{"english":"mushroom",
+"vietnamese":"n. nấm"},
+
+
+{"english":"native",
+"vietnamese":"adj. bản địa"},
+
+
+{"english":"poison",
+"vietnamese":"n. chất độc"},
+
+
+{"english":"reed",
+"vietnamese":"n. cây lau"},
+
+
+{"english":"shield",
+"vietnamese":"v. che chắn"},
+
+
+{"english":"stormy",
+"vietnamese":"adj. bão táp, mưa bão"},
+
+
+{"english":"sway",
+"vietnamese":"v. lắc lư"},
+
+
+{"english":"urban",
+"vietnamese":"adj. đô thị"},
+
+
+{"english":"wade",
+"vietnamese":"v. lội"}
+
+
+]

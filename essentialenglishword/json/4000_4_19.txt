@@ -1,0 +1,82 @@
+[
+{"english":"afflicted",
+"vietnamese":"adj. đau khổ, đau đớn"},
+
+
+{"english":"aisle",
+"vietnamese":"n. lối đi"},
+
+
+{"english":"atmosphere",
+"vietnamese":"n. khí quyển"},
+
+
+{"english":"author",
+"vietnamese":"n. tác giả"},
+
+
+{"english":"breakdown",
+"vietnamese":"n. sự cố, hỏng hóc"},
+
+
+{"english":"cargo",
+"vietnamese":"n. chuyến hang, hang hóa"},
+
+
+{"english":"chapter",
+"vietnamese":"n. chương"},
+
+
+{"english":"connect",
+"vietnamese":"v. kết nối"},
+
+
+{"english":"etc.",
+"vietnamese":"n. v.v"},
+
+
+{"english":"flip",
+"vietnamese":"v. lật, gạt"},
+
+
+{"english":"idle",
+"vietnamese":"adj. nhàn dỗi"},
+
+
+{"english":"notify",
+"vietnamese":"v. thông báo"},
+
+
+{"english":"pea",
+"vietnamese":"n. hạt đậu"},
+
+
+{"english":"raisin",
+"vietnamese":"n. nho khô"},
+
+
+{"english":"retain",
+"vietnamese":"v. giữ lại"},
+
+
+{"english":"state",
+"vietnamese":"v. tiểu bang"},
+
+
+{"english":"tray",
+"vietnamese":"n. khay"},
+
+
+{"english":"unfortunate",
+"vietnamese":"adj. không may"},
+
+
+{"english":"vivid",
+"vietnamese":"adj. sinh động"},
+
+
+{"english":"vomit",
+"vietnamese":"v. nôn mửa"}
+
+
+]

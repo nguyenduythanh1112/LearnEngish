@@ -1,0 +1,1800 @@
+ABOVE
+(GIỚI TỪ): BÊN TRÊN
+
+ACADEMY
+(N) TRƯỜNG ĐÀO TẠO ĐẶC BIỆT; HỌC VIỆN
+
+ACCEPT
+(ĐỘNG TỪ): CHẤP NHẬN, ĐỒNG Ý
+
+ACHIEVE
+(ĐỘNG TỪ): ĐẠT ĐƯỢC
+
+ACROSS
+(GIỚI TỪ): Ở PHÍA BÊN KIA
+
+ACTUAL
+(TÍNH TỪ): THỰC SỰ
+
+ACTUALLY
+(TRẠNG TỪ): THỰC SỰ
+
+ADVANCE
+(ĐỘNG TỪ): TIẾN VỀ
+
+ADVANTAGE
+(DANH TỪ): LỢI THẾ
+
+ADVENTURE
+(DANH TỪ): CHUYẾN PHIÊU LƯU
+
+ADVERTISE
+(ĐỘNG TỪ): QUẢNG BÁ
+
+ADVICE
+(DANH TỪ): LỜI KHUYÊN
+
+ADVISE
+(ĐỘNG TỪ): KHUYÊN BẢO
+
+AFRAID
+(TÍNH TỪ): SỢ HÃI
+
+AGAINST
+(PREP): TRÁI LẠI, CHỐNG LẠI, ĐỐI LẠI
+
+AGREE
+(ĐỘNG TỪ): ĐỒNG Ý
+
+AHEAD
+(GIỚI TỪ): PHÍA TRƯỚC
+
+ALIEN
+(DANH TỪ): NGƯỜI NGOÀI HÀNH TINH
+
+ALIVE
+(TÍNH TỪ): SỐNG SÓT
+
+ALLOW
+(ĐỘNG TỪ): CHO PHÉP
+
+ALONE
+(TRẠNG TỪ): MỘT MÌNH
+
+ALONG
+(GIỚI TỪ): DỌC THEO
+
+ALREADY
+(PHÓ TỪ): ĐÃ, ĐÃ RỒI
+
+AMAZE
+(ĐỘNG TỪ): LÀM KINH NGẠC
+
+AMONG
+(TRẠNG TỪ): Ở GIỮA
+
+AMOUNT
+(DANH TỪ): LƯỢNG
+
+ANCIENT
+(N) XƯA, CỔ XƯA
+
+ANGRY
+(TÍNH TỪ): BỰC TỨC, TỨC GIẬN
+
+ANNOUNCE
+(ĐỘNG TỪ): TUYÊN BỐ
+
+ANYMORE
+(PHÓ TỪ): THÊM NỮA
+
+APARTMENT
+(DANH TỪ): CĂN HỘ
+
+APPEAR
+(ĐỘNG TỪ): XUẤT HIỆN
+
+APPRECIATE
+(ĐỘNG TỪ): ĐÁNH GIÁ CAO
+
+APPROACH
+(ĐỘNG TỪ): ĐẾN GẦN
+
+APPROPRIATE
+(TÍNH TỪ): PHÙ HỢP
+
+ARGUE
+(ĐỘNG TỪ): TRANH LUẬN
+
+ARRANGE
+(ĐỘNG TỪ): SẮP XẾP
+
+ARRANGE
+(ĐỘNG TỪ): ĐIỀU CHỈNH, SẮP XẾP
+
+ARRIVE
+(ĐỘNG TỪ): ĐẾN NƠI
+
+ARTICLE
+(DANH TỪ): BÀI VIẾT, CHỦ ĐỀ
+
+ARTIST
+(DANH TỪ): HỌA SĨ
+
+ASLEEP
+(TÍNH TỪ): BUỒN NGỦ
+
+ASSIGN
+(ĐỘNG TỪ): PHÂN CÔNG
+
+ASSOCIATE
+(ĐỘNG TỪ): LIÊN KẾT
+
+ATHLETE
+(DANH TỪ): VẬN ĐỘNG VIÊN
+
+ATTACK
+(ĐỘNG TỪ): TẤN CÔNG
+
+ATTEND
+(ĐỘNG TỪ): THAM DỰ
+
+ATTENTION
+(DANH TỪ): SỰ CHÚ Ý
+
+ATTITUDE
+(DANH TỪ): THÁI ĐỘ
+
+ATTRACT
+(ĐỘNG TỪ): THU HÚT
+
+AUDIENCE
+(DANH TỪ): KHÁN GIẢ
+
+AVAILABLE
+(TÍNH TỪ): CÒN TRỐNG
+
+AVOID
+(ĐỘNG TỪ) : LẢNG TRÁNH
+
+AWARE
+(TÍNH TỪ): NHẬN THỨC
+
+BADLY
+(ĐỘNG TỪ): MỘT CÁCH TỆ HẠI
+
+BALANCE
+(ĐỘNG TỪ): CHỈNH CHO CÂN BẰNG
+
+BAND
+(DANH TỪ): BAN NHẠC
+
+BARELY
+(PHÓ TỪ): HIẾM KHI
+
+BASE
+(DANH TỪ): NỀN, CƠ SỞ
+
+BASIC
+(TÍNH TỪ): CƠ BẢN
+
+BEACH
+(N): BÃI BIỂN
+
+BEAT
+(ĐỘNG TỪ): ĐÁNH BẠI
+
+BEHAVE
+(ĐỘNG TỪ): HÀNH XỬ
+
+BEHAVIOR
+(DANH TỪ): HÀNH VI
+
+BEHIND
+(GIỚI TỪ): ĐẰNG SAU
+
+BELIEF
+(DANH TỪ): NIỀM TIN
+
+BELONG
+(ĐỘNG TỪ): THUỘC VỀ
+
+BENEFIT
+(DANH TỪ) : LỢI THẾ
+
+BERRY
+(DANH TỪ) QUẢ MỌNG
+
+BESIDE
+(TÍNH TỪ) : BÊN CẠNH
+
+BIT
+(DANH TỪ): MỘT CHÚT
+
+BITE
+(ĐỘNG TỪ): CẮN
+
+BLOCK
+(DANH TỪ): KHỐI
+
+BLOOD
+(DANH TỪ): MÁU
+
+BOARD
+(N) TẤM VÁN; BẢNG
+
+BONE
+(DANH TỪ): XƯƠNG
+
+BORING
+(TÍNH TỪ): NHÀM CHÁN
+
+BOTHER
+(ĐỘNG TỪ): PHIỀN LÒNG
+
+BOTTOM
+(GIỚI TỪ): DƯỚI ĐÁY
+
+BRAIN
+(DANH TÙ): NÃO
+
+BREAKFAST
+(DANH TỪ): BỮA SÁNG
+
+BREATHE
+(ĐỘNG TỪ): THỞ
+
+BRIGHT
+(TÍNH TỪ): SÁNG CHÓI
+
+BURN
+(ĐỘNG TỪ): CHÁY
+
+CALM
+(TÍNH TỪ): BÌNH TỈNH
+
+CANCEL
+(ĐỘNG TỪ): HỦY BỎ
+
+CAPTAIN
+(DANH TỪ): THUYỀN TRƯỞNG
+
+CAREER
+(DANH TỪ): SỰ NGHIỆP
+
+CAREFULLY
+(TRẠNG TỪ): MỘT CÁCH CẨN THẬN
+
+CAUSE
+(ĐỘNG TỪ): KHIẾN
+
+CELEBRATE
+(ĐỘNG TỪ): LÀM LỄ KỶ NIỆM
+
+CELL
+(DANH TỪ):LỒNG, CŨI
+
+CENTER
+(DANH TỪ): TRUNG TÂM
+
+CENTURY
+(N) THẾ KỶ
+
+CERTAIN
+(TÍNH TỪ) :CHẮC CHẮN
+
+CHALLENGE
+(DANH TỪ): THÁCH THỨC
+
+CHANCE
+(DANH TỪ) : CƠ HỘI
+
+CHARACTERISTIC
+(DANH TỪ): ĐẶC ĐIỂM
+
+CHARGE
+(DANH TỪ): KHOẢN PHÍ
+
+CHART
+(DANH TỪ): BIỂU ĐỒ
+
+CHEER
+(ĐỘNG TỪ): UỐNG MỪNG
+
+CHEMICAL
+(DANH TỪ): CHẤT HÓA HỌC
+
+CHOICE
+(DANH TỪ): SỰ LỰA CHỌN
+
+CLAIM
+(ĐỘNG TỪ) : TUYÊN BỐ
+
+CLERK
+(DANH TỪ): NGƯỜI THƯ KÝ
+
+CLEVER
+(TÍNH TỪ): THÔNG MINH
+
+CLIMB
+(ĐỘNG TỪ): TRÈO
+
+CLOUD
+(DANH TỪ): MÂY
+
+CLUE
+(N) ĐẦU MỐI; MANH MỐI
+
+COACH
+(DANH TỪ): HUẤN LUYỆN VIÊN
+
+COAST
+(DANH TỪ): BỜ BIỂN
+
+COLLECT
+(ĐỘNG TỪ): HÁI LƯỢM, THU THẬP
+
+COMFORT
+(ĐỘNG TỪ): LÀM HÀI LÒNG, THOẢI MÁI
+
+COMMON
+(TÍNH TỪ): PHỔ BIẾN
+
+COMMUNICATE
+(ĐỘNG TỪ): GIAO TIẾP, LIÊN LẠC
+
+COMMUNITY
+(DANH TỪ): CỘNG ĐỒNG
+
+COMPARE
+(ĐỘNG TỪ): SO SÁNH
+
+COMPETE
+(ĐỘNG TỪ) : TRANH ĐẤU, CẠNH TRANH
+
+COMPETITION
+(DANH TỪ): CUỘC THI
+
+COMPLEX
+(TÍNH TỪ): PHỨC TẠP
+
+COMPREHEND
+(ĐỘNG TỪ): HIỂU
+
+CONCERN
+(DANH TỪ): MỐI LO NGẠI
+
+CONCERT
+(N) BUỔI HOÀ NHẠC
+
+CONCLUSION
+(DANH TỪ): KẾT LUẬN
+
+CONDITION
+(DANH TỪ): TÌNH TRẠNG
+
+CONSIDER
+(ĐỘNG TỪ): CÂN NHẮC
+
+CONSUME
+(ĐỘNG TỪ): TIÊU THỤ
+
+CONTACT
+(ĐỘNG TỪ): LIÊN LẠC
+
+CONTAIN
+(ĐỘNG TỪ): CHỨA ĐỰNG
+
+CONTENT
+(TÍNH TỪ): VUI LÒNG
+
+CONTINUE
+(ĐỘNG TỪ): TIẾP TỤC
+
+CONTRAST
+(DANH TỪ): SỰ TRÁI NGƯỢC
+
+CONTRIBUTE
+(ĐỘNG TỪ): ĐÓNG GÓP
+
+CONTROL
+(ĐỘNG TỪ): ĐIỀU KHIỂN
+
+CONVERSATION
+(DANH TỪ) : ĐỐI THOẠI, TRÒ CHUYỆN
+
+COOL
+(TÍNH TỪ): MÁT MẺ
+
+CORRECT
+(TÍNH TỪ): CHÍNH XÁC, ĐÚNG
+
+COST
+(ĐỘNG TỪ): TIÊU TỐN
+
+COUNTY
+(N) QUẬN, KHU HÀNH CHÍNH
+
+COURSE
+(DANH TỪ): KHÓA HỌC
+
+CREATE
+(ĐỘNG TỪ): TẠO RA
+
+CREATURE
+(DANH TỪ): SINH VẬT
+
+CRITIC
+(DANH TỪ): NHÀ PHÊ BÌNH
+
+CROP
+(DANH TỪ): VỤ MÙA
+
+CROWD
+(DANH TỪ): ĐÁM ĐÔNG
+
+CRUEL
+(TÍNH TỪ): HUNG BẠO
+
+CUSTOMER
+(DANH TỪ): KHÁCH HÀNG
+
+DAMAGE
+(V): LÀM HƯ HẠI, LÀM TỔN HẠI
+
+DEAD
+(TÍNH TỪ): CHẾT
+
+DEAL
+(DANH TỪ): GIAO DỊCH
+
+DECISION
+(DANH TỪ): QUYẾT ĐỊNH
+
+DELIVER
+(ĐỘNG TỪ): CHUYỂN TỚI
+
+DEMAND
+(ĐỘNG TỪ): ĐÒI HỎI, YÊU CẦU
+
+DEMONSTRATE
+(ĐỘNG TỪ): MINH HỌA
+
+DEPEND
+(ĐỘNG TỪ): PHỤ THUỘC
+
+DESCRIBE
+(ĐỘNG TỪ): MÔ TẢ
+
+DESCRIPTION
+(DANH TỪ): ĐOẠN MIÊU TẢ
+
+DESERT
+(DANH TỪ): SA MẠC
+
+DESTROY
+(ĐỘNG TỪ): PHÁ HỦY
+
+DETERMINE
+(ĐỘNG TỪ): QUYẾT TÂM
+
+DICTIONARY
+(N) TỪ ĐIỂN
+
+DIFFERENCE
+(DANH TỪ): SỰ KHÁC BIỆT
+
+DIFFERENT
+(TÍNH TỪ): KHÁC BIỆT
+
+DIRECT
+(TÍNH TỪ): TRỰC TIẾP
+
+DISAPPEAR
+(ĐỘNG TỪ): BIẾN MẤT
+
+DISCOVER
+(V): KHÁM PHÁ, TÌM HIỂU
+
+DISH
+(DANH TỪ): CÁI ĐĨA
+
+DISTANCE
+(DANH TỪ): KHOẢNG CÁCH
+
+DIVIDE
+(ĐỘNG TỪ) : CHIA RA
+
+DOUBT
+(DANH TỪ): SỰ NGHI NGỜ
+
+DRIVEWAY
+(DANH TỪ): ĐƯỜNG LÁI XE VÀO NHÀ
+
+DROP
+(ĐỘNG TỪ): NGÃ KHỎI
+
+EARN
+(ĐỘNG TỪ): KIẾM ĐƯỢC
+
+EARTHQUAKE
+(DANH TỪ): TRẬN ĐỘNG ĐẤT
+
+EFFECT
+(DANH TỪ) : HIỆU QUẢ
+
+EFFECTIVE
+(TÍNH TỪ): HIỆU QUẢ
+
+EFFORT
+(DANH TỪ): SỰ NỖ LỰC
+
+EITHER
+(PHÓ TỪ): HOẶC
+
+ELSE
+(PHÓ TỪ): KHÁC NỮA
+
+EMOTION
+(N): CẢM XÚC
+
+EMPTY
+(TÍNH TỪ): TRỐNG RỖNG, HẾT
+
+ENCOURAGE
+(ĐỘNG TỪ): CỔ VŨ, KÍCH THÍCH
+
+ENTER
+(ĐỘNG TỪ): VÀO
+
+ENTERTAIN
+(ĐỘNG TỪ): LÀM TRÒ, GIẢI TRÍ
+
+ENVIRONMENT
+(DANH TỪ): MÔI TRƯỜNG
+
+EQUAL
+(TÍNH TỪ): NGANG BẰNG
+
+ERROR
+(DANH TỪ): LỖI
+
+ESCAPE
+(ĐỘNG TỪ): CHẠY TRỐN
+
+ESSENTIAL
+(TÍNH TỪ) : THIẾT YẾU
+
+EVENT
+(DANH TỪ): SỰ KIỆN
+
+EVER
+(PHÓ TỪ): TỪ TRƯỚC ĐẾN NAY
+
+EVIDENCE
+(DANH TỪ): BẰNG CHỨNG
+
+EVIL
+(TÍNH TỪ): MA QUÁI
+
+EXACT
+(TÍNH TỪ): CHÍNH XÁC
+
+EXAM
+(DANH TỪ): BÀI KIỂM TRA
+
+EXAMINE
+(ĐỘNG TỪ): KIỂM TRA
+
+EXAMPLE
+(DANH TỪ): VÍ DỤ MINH HỌA
+
+EXCELLENT
+(TÍNH TỪ):: XUẤT SẮC
+
+EXCITE
+(ĐỘNG TỪ): KÍCH ĐỘNG
+
+EXERCISE
+(DANH TỪ): BÀI TẬP THỂ DỤC
+
+EXIST
+(V)TỒN TẠI
+
+EXPECT
+(ĐỘNG TỪ): KỲ VỌNG
+
+EXPERIENCE
+(ĐỘNG TỪ): TRẢI NGHIỆM
+
+EXPERIMENT
+(DANH TỪ): THÍ NGHIỆM
+
+EXPERT
+(DANH TỪ): CHUYÊN GIA
+
+EXPLORE
+(ĐỘNG TỪ): THÁM HIỂM
+
+EXTRA
+(TÍNH TỪ): THÊM, ĐƯỢC BỔ SUNG THEM
+
+EXTREME
+(TÍNH TỪ): KHẮC NGHIỆT
+
+FACE
+(ĐỘNG TỪ): ĐỐI DIỆN
+
+FACTORY
+(DANH TỪ): NHÀ MÁY
+
+FAIL
+(ĐỘNG TỪ): THẤT BẠI
+
+FAIR
+(TÍNH TỪ): CÔNG BẰNG
+
+FALSE
+(TÍNH TỪ): SAI
+
+FAMILIAR
+(TÍNH TỪ): QUEN THUỘC
+
+FAMOUS
+(TÍNH TỪ) : NỔI TIẾNG
+
+FAR
+(TÍNH TỪ) : XA XÔI
+
+FEAR
+(TÍNH TỪ): SỢ HÃI
+
+FEATURE
+(DANH TỪ): ĐẶC TÍNH, TÍNH NĂNG
+
+FEED
+(ĐỘNG TỪ): CHO ĂN
+
+FIELD
+(DANH TỪ): CÁNH ĐỒNG
+
+FINAL
+(TÍNH TỪ): CUỐI CÙNG
+
+FINALLY
+(PHÓ TỪ): CUỐI CÙNG
+
+FIT
+(ĐỘNG TỪ): VỪA VẶN
+
+FIX
+(V): SỬA CHỮA
+
+FLAT
+(A)MẶT PHẲNG
+
+FLOW
+(ĐỘNG TỪ): CHẢY
+
+FOCUS
+(ĐỘNG TỪ) : TẬP TRUNG
+
+FOLLOW
+(ĐỘNG TỪ): THEO ĐUÔI
+
+FORCE
+(ĐỘNG TỪ) : ÉP BUỘC
+
+FOREIGN
+(TÍNH TỪ): NƯỚC NGOÀI
+
+FOREST
+(DANH TỪ): RỪNG
+
+FORTUNATE
+(TÍNH TỪ): MAY MẮN
+
+FORWARD
+(GIỚI TỪ): VỀ PHÍA TRƯỚC
+
+FRANK
+(A): CHÂN THÀNH, THẲNG THẮN
+
+FREQUENTLY
+(TRẠNG TỪ): THƯỜNG XUYÊN
+
+FRESH
+(TÍNH TỪ): TƯƠI MỚI
+
+FRIENDLY
+(TÍNH TỪ): THÂN THIỆN
+
+FRIENDSHIP
+(DANH TỪ): TÌNH BẠN
+
+FRIGHT
+(ĐỘNG TỪ): SỢ
+
+FUNCTION
+(DANH TỪ): CHỨC NĂNG
+
+FURTHER
+(TÍNH TỪ SO SÁNH): XA HƠN
+
+GAIN
+(ĐỘNG TỪ): ĐẠT ĐƯỢC, THÊM ĐƯỢC
+
+GARBAGE
+(DANH TỪ): RÁC
+
+GATE
+(DANH TỪ): CỔNG, CỬA
+
+GATHER
+(ĐỘNG TỪ): THU LƯỢM
+
+GENTLEMAN
+(N) QUÝ ÔNG
+
+GHOST
+(DANH TỪ): HỒN MA
+
+GIFT
+(DANH TỪ): MÓN QUÀ
+
+GLAD
+(TÍNH TỪ): VUI MỪNG
+
+GOAL
+(DANH TỪ): MỤC TIÊU
+
+GRAB
+(ĐỘNG TỪ): TÚM LẤY
+
+GRADE
+(DANH TỪ): THỨ HẠNG
+
+GRASS
+(DANH TỪ) : CỎ
+
+GROUND
+(DANH TỪ) : MẶT ĐẤT
+
+GUARD
+(ĐỘNG TỪ) : CANH GÁC
+
+GUIDE
+(DANH TỪ): NGƯỜI HƯỚNG DẪN
+
+HABIT
+(DANH TỪ): THÓI QUEN
+
+HANG
+(ĐỘNG TỪ): TREO MÌNH
+
+HAPPEN
+(ĐỘNG TỪ): XẢY RA
+
+HARM
+(DANH TỪ): SỰ TỔN HẠI
+
+HERO
+(DANH TỪ): ANH HUNG
+
+HIDDEN
+(A) TRỐN, ẨN NẤP, NÁU
+
+HIDE
+(ĐỘNG TỪ): TRỐN
+
+HILL
+(DANH TỪ): ĐỒI
+
+HOLE
+(DANH TỪ): HỐ
+
+HONESTY
+(DANH TỪ): SỰ THẬT THÀ
+
+HOWEVER
+(LIÊN TỪ): TUY THẾ
+
+HUGE
+(TÍNH TỪ): TO LỚN
+
+HUNGER
+(DANH TỪ): CƠN ĐÓI
+
+HUNT
+(ĐỘNG TỪ): SĂN BẮT
+
+HURRY
+(ĐỘNG TỪ): VỘI VÃ
+
+HURT
+(ĐỘNG TỪ): LÀM TỔN THƯƠNG
+
+IDENTIFY
+(V): NHẬN ĐỊNH, NHẬN DANH
+
+IDIOM
+(DANH TỪ): THÀNH NGỮ
+
+IMAGE
+(DANH TỪ) : HÌNH ẢNH
+
+IMAGINE
+(ĐỘNG TỪ): TƯỞNG TƯỢNG
+
+IMMEDIATE
+(TÍNH TỪ): NGAY TỨC KHẮC
+
+IMPLY
+(ĐỘNG TỪ): ÁM CHỈ
+
+IMPORTANCE
+(DANH TỪ): TẦM QUAN TRỌNG
+
+INCLUDE
+(ĐỘNG TỪ): BAO GỒM
+
+INCREASE
+(ĐỘNG TỪ):TĂNG
+
+INDEPENDENT
+(TÍNH TỪ): ĐỘC LẬP
+
+INDICATE
+(ĐỘNG TỪ): CHỈ DẪN
+
+INDIVIDUAL
+(DANH TỪ): CÁ THỂ
+
+INFORM
+(ĐỘNG TỪ): THÔNG BÁO
+
+INJUSTICE
+(DANH TỪ): SỰ BẤT CÔNG
+
+INSIDE
+(GIỚI TỪ): BÊN TRONG
+
+INSTANCE
+(DANH TỪ): VÍ DỤ, TRƯỜNG HỢP
+
+INSTEAD
+(PHÓ TỪ): THAY VÌ
+
+INSTRUCT
+(ĐỘNG TỪ): HƯỚNG DẪN
+
+INSTRUMENT
+(DANH TỪ): ĐẠO CỤ
+
+INTERNATIONAL
+(TÍNH TỪ): MANG TÍNH QUỐC TẾ
+
+INTRODUCE
+(ĐỘNG TỪ): GIỚI THIỆU
+
+INVOLVE
+(ĐỘNG TỪ): THAM GIA VÀO, LIÊN QUAN ĐẾN
+
+ISLAND
+(N): HÒN ĐẢO
+
+ISSUE
+(DANH TỪ): VẤN ĐỀ
+
+ITEM
+(DANH TỪ): VẬT PHẨM
+
+JOURNEY
+(DANH TỪ): HÀNH TRÌNH
+
+JUDGE
+(ĐỘNG TỪ): NHẬN XÉT, PHÁN XÉT
+
+JUDGMENT
+(DANH TỪ): PHÁN ĐOÁN, PHÁN QUYẾT
+
+KILL
+(ĐỘNG TỪ): GIẾT
+
+KNOWLEDGE
+(DANH TỪ): KIẾN THỨC
+
+LABORATORY
+(DANH TỪ): PHÒNG THÍ NGHIỆM
+
+LACK
+(ĐỘNG TỪ): THIẾU ĐI
+
+LATER
+(PHÓ TỪ): SAU NÀY
+
+LAUGH
+(DANH TỪ): TIẾNG CƯỜI
+
+LAWYER
+(DANH TỪ): LUẬT SƯ
+
+LAY
+(ĐỘNG TỪ) : ĐẶT LÊN
+
+LEAVE
+(ĐỘNG TỪ): RỜI ĐI
+
+LENGTH
+(DANH TỪ): CHIỀU DÀI
+
+LEVEL
+(DANH TỪ): MỨC
+
+LIBRARY
+(DANH TỪ): THƯ VIỆN
+
+LIE
+(ĐỘNG TỪ): NÓI DỐI
+
+LIKELY
+(TÍNH TỪ): CÓ THỂ
+
+LIMIT
+(DANH TỪ): GIỚI HẠN
+
+LIST
+(DANH TỪ): DANH SÁCH
+
+LOCAL
+(TÍNH TỪ): TẠI ĐỊA PHƯƠNG
+
+LOCATE
+(ĐỘNG TỪ): ĐỊNH VỊ
+
+LONE
+(TÍNH TỪ): ĐƠN ĐỘC
+
+LORD
+(DANH TỪ): CHỦ
+
+LOT
+(PHÓ TỪ): NHIỀU
+
+LOUD
+(TÍNH TỪ): ỒN
+
+LOWER
+(ĐỘNG TỪ): HẠ XUỐNG
+
+MAGAZINE
+(DANH TỪ): TẠP CHÍ
+
+MAGIC
+(DANH TỪ): PHÉP MÀU
+
+MAGICAL
+(TÍNH TỪ): NHIỆM MÀU
+
+MAIL
+(DANH TỪ): THƯ
+
+MAINTAIN
+(ĐỘNG TỪ): GIỮ, DUY TRÌ
+
+MAJOR
+(TÍNH TỪ): CHỦ CHỐT
+
+MANAGE
+(ĐỘNG TỪ): QUẢN LÝ
+
+MARRY
+(ĐỘNG TỪ): CƯỚI
+
+MASTER
+(DANH TỪ): BẬC THẦY
+
+MATCH
+(ĐỘNG TỪ): CÓ SỰ PHÙ HỢP
+
+MATERIAL
+(DANH TỪ): CHẤT LIỆU
+
+MAYBE
+(ADV)CÓ THỂ, CÓ LẼ
+
+MEAL
+(DANH TỪ): BỮA ĂN
+
+MEAL
+(DANH TỪ): BỮA ĂN
+
+MEAN
+(ĐỘNG TỪ): CÓ Ý ĐỊNH
+
+MEDICINE
+(DANH TỪ): THUỐC
+
+MEMBER
+(DANH TỪ): THÀNH VIÊN
+
+MEMORY
+(DANH TỪ): KÝ ỨC
+
+MENTAL
+(TÍNH TỪ): TINH THẦN
+
+MENTION
+(ĐỘNG TỪ): ĐỀ CẬP
+
+MESSAGE
+(DANH TỪ): TIN NHẮN
+
+METHOD
+(DANH TỪ): PHƯƠNG PHÁP, CÁCH THỨC
+
+MIDDLE
+(GIỚI TỪ): GIỮA
+
+MISTAKE
+(DANH TỪ): LỖI SAI
+
+MIX
+(DANH TỪ): HỖN HỢP
+
+MOMENT
+(DANH TỪ): KHOẢNH KHẮC
+
+MYSTERY
+(DANH TỪ): BÍ ẨN
+
+NECESSARY
+(TÍNH TỪ): CẦN THIẾT
+
+NEIGHBOR
+(DANH TỪ): HÀNG XÓM
+
+NEITHER
+(PHÓ TỪ): KHÔNG GÌ CẢ
+
+NERVOUS
+(TÍNH TỪ): LO LẮNG
+
+NOISE
+(DANH TỪ): TIẾNG ỒN
+
+NONE
+(DANH TỪ): KHÔNG AI
+
+NORMAL
+(TÍNH TỪ): BÌNH THƯỜNG
+
+NOTICE
+(ĐỘNG TỪ): CHÚ Ý TỚI
+
+NOVEL
+(DANH TỪ): TIỂU THUYẾT
+
+NURSE
+(DANH TỪ): Y TÁ
+
+OBSERVE
+(ĐỘNG TỪ): QUAN SÁT
+
+OCCUR
+(ĐỘNG TỪ): XẢY RA
+
+OCEAN
+(N): ĐẠI DƯƠNG, BIỂN CẢ
+
+OFFER
+(ĐỘNG TỪ): ĐỀ XUẤT
+
+OFFICER
+(N) SĨ QUAN
+
+OPERATION
+(DANH TỪ): CA MỔ
+
+OPINION
+(DANH TỪ): QUAN ĐIỂM
+
+OPPORTUNITY
+(DANH TỪ): CƠ HỘI
+
+OPPOSITE
+(GIỚI TỪ): ĐỐI LẬP
+
+ORGANIZE
+(ĐỘNG TỪ): TỔ CHỨC
+
+ORIGINAL
+(A)TÍNH NGUYÊN BẢN, BẢN GỐC
+
+OTHERWISE
+(LIÊN TỪ): NẾU KHÔNG THÌ
+
+OUTLINE
+(DANH TỪ): CỐT TRUYỆN
+
+OWE
+(ĐỘNG TỪ): NỢ
+
+OWN
+(ĐỘNG TỪ): SỞ HỮU
+
+PAIN
+(DANH TỪ): SỰ ĐAU ĐỚN
+
+PASSAGE
+(DANH TỪ): LỐI ĐI, ĐƯỜNG HẦM, ĐƯỜNG VƯỢT
+
+PASSENGER
+(DANH TỪ): HÀNH KHÁCH
+
+PATIENT
+(TÍNH TỪ): KIÊN NHẪN
+
+PATTERN
+(DANH TỪ): KIỂU, MẪU
+
+PEACE
+(DANH TỪ): HÒA BÌNH
+
+PERFORM
+(ĐỘNG TỪ): TRÌNH DIỄN
+
+PERHAPS
+(ADV): CÓ LẼ
+
+PERIOD
+(DANH TỪ): GIAI ĐOẠN
+
+PERSONALITY
+(DANH TỪ): TÍNH CÁCH
+
+PET
+(DANH TỪ): VẬT NUÔI
+
+PHYSICAL
+(TÍNH TỪ): THỂ CHẤT
+
+PLANET
+(DANH TỪ): HÀNH TINH
+
+PLATE
+(DANH TỪ): ĐĨA
+
+PLEASANT
+(A): DỄ CHỊU
+
+PLEASED
+(TÍNH TỪ): VUI LÒNG
+
+POEM
+(DANH TỪ): BÀI THƠ
+
+POET
+(DANH TỪ): NHÀ THƠ
+
+POLE
+(DANH TỪ): ĐIỂM CỰC, CỘT
+
+POLICY
+(DANH TỪ): CHÍNH SÁCH
+
+POPULATE
+(ĐỘNG TỪ): SINH SỐNG
+
+POSITION
+(DANH TỪ): VỊ TRÍ
+
+POSITIVE
+(TÍNH TỪ): TÍCH CỰC
+
+POUND
+(V)DẬP, ĐÓNG
+
+PREDICT
+(ĐỘNG TỪ): DỰ ĐOÁN
+
+PREFER
+(ĐỘNG TỪ): THÍCH
+
+PREPARE
+(ĐỘNG TỪ): CHUẨN BỊ
+
+PRESIDENT
+(DANH TỪ): CHỦ TỊCH
+
+PRESSURE
+(DANH TỪ): ÁP LỰC
+
+PREVENT
+(V): NGĂN CHẶN, NGĂN CẢN
+
+PRICE
+(DANH TỪ): GIÁ
+
+PRIMARY
+(TÍNH TỪ) : CƠ BẢN, NGUYÊN THỦY
+
+PRINCE
+(DANH TỪ): HOÀNG TỬ
+
+PRINT
+(ĐỘNG TỪ): IN
+
+PRIZE
+(DANH TỪ): GIẢI THƯỞNG
+
+PROBABLE
+(TÍNH TỪ): CÓ THỂ
+
+PROCESS
+(N) QUÁ TRÌNH,QUY TRÌNH, SỰ XỬ LÝ
+
+PRODUCE
+(ĐỘNG TỪ): TẠO RA, SẢN XUẤT
+
+PRODUCT
+(DANH TỪ): SẢN PHẨM
+
+PROFESSIONAL
+(TÍNH TỪ): CHUYÊN NGHIỆP
+
+PROFESSOR
+(DANH TỪ): GIÁO SƯ
+
+PROFIT
+(DANH TỪ): LỢI NHUẬN
+
+PROGRESS
+(DANH TỪ): TIẾN TRÌNH
+
+PROJECT
+(DANH TỪ): DỰ ÁN
+
+PROMISE
+(ĐỘNG TỪ): HỨA
+
+PROPER
+(TÍNH TỪ): THÍCH HỢP
+
+PROPERTY
+(DANH TỪ): VÙNG ĐẤT, TÀI SẢN
+
+PROPOSE
+(ĐỘNG TỪ): ĐỀ XUẤT
+
+PROTECT
+(ĐỘNG TỪ) : BẢO VỆ
+
+PROUD
+(TÍNH TỪ) : ĐÁNG TỰ HÀO
+
+PROVE
+(ĐỘNG TỪ): CHỨNG MINH
+
+PUBLIC
+(TÍNH TỪ): CÔNG CỘNG
+
+PUBLISH
+(V) CÔNG BỐ, BAN BỐ, XUẤT BẢN
+
+PUDDLE
+(DANH TỪ): VŨNG NƯỚC MƯA
+
+PUNISH
+(ĐỘNG TỪ): PHẠT
+
+PURCHASE
+(ĐỘNG TỪ): MUA
+
+PURPOSE
+(DANH TỪ): MỤC ĐÍCH
+
+PUZZLE
+(DANH TỪ): CÂU ĐỐ
+
+QUALITY
+(DANH TỪ): CHẤT LƯỢNG
+
+QUITE
+(PHÓ TỪ): KHÁ LÀ
+
+RACE
+(DANH TỪ): CUỘC ĐUA
+
+RAISE
+(ĐỘNG TỪ): NUÔI LỚN, NÂNG CAO
+
+RANGE
+(DANH TỪ): MỘT LOẠT
+
+RARE
+(TÍNH TỪ): HIẾM CÓ
+
+RATHER
+(PHÓ TỪ): THÀ HƠN
+
+REACH
+(ĐỘNG TỪ): VỀ TỚI
+
+REACT
+(ĐỘNG TỪ): PHẢN ỨNG
+
+REAL
+(TÍNH TỪ): CÓ THẬT
+
+REALIZE
+(ĐỘNG TỪ): NHẬN RA
+
+RECEIVE
+(ĐỘNG TỪ): NHẬN
+
+RECOGNIZE
+(ĐỘNG TỪ): NHẬN RA
+
+RECOMMEND
+(ĐỘNG TỪ): GỢI Ý
+
+REFLECT
+(ĐỘNG TỪ): PHẢN CHIẾU
+
+REFUSE
+(ĐỘNG TỪ): TỪ CHỐI
+
+REGARD
+(ĐỘNG TỪ): COI (CÁI GÌ) LÀ
+
+REGULAR
+(PHÓ TỪ): THƯỜNG XUYÊN
+
+RELAX
+(ĐỘNG TỪ): NGHỈ NGƠI
+
+RELEASE
+(ĐỘNG TỪ): THẢ RA
+
+REMAIN
+(ĐỘNG TỪ) : CÒN TỒN TẠI
+
+REMOVE
+(ĐỘNG TỪ): BỎ ĐI, GỠ BỎ
+
+REPLY
+(ĐỘNG TỪ): TRẢ LỜI
+
+REPORT
+(DANH TỪ): BÁO CÁO
+
+REPRESENT
+(ĐỘNG TỪ) : ĐẠI DIỆN
+
+REQUEST
+(ĐỘNG TỪ): ĐỀ XUẤT
+
+REQUIRE
+(ĐỘNG TỪ): YÊU CẦU PHẢI CÓ
+
+RESIDE
+(ĐỘNG TỪ): CƯ TRÚ
+
+RESPECT
+(ĐỘNG TỪ): TÔN TRỌNG
+
+RESPOND
+(ĐỘNG TỪ): PHẢN HỒI, PHẢN ỨNG
+
+RESPONSE
+(DANH TỪ): PHẢN HỒI
+
+RESPONSIBLE
+(TÍNH TỪ): CÓ TRÁCH NHIỆM
+
+REST
+(ĐỘNG TỪ) : NGHỈ NGƠI
+
+RESULT
+(DANH TỪ): KẾT QUẢ
+
+RETURN
+(ĐỘNG TỪ): QUAY LẠI
+
+REWARD
+(DANH TỪ): PHẦN THƯỞNG
+
+RICH
+(TÍNH TỪ): GIÀU CÓ
+
+RIDE
+(ĐỘNG TỪ): CƯỠI
+
+RISK
+(DANH TỪ): SỰ RỦI RO
+
+ROCK
+(N): HÒN ĐÁ, TẢNG ĐÁ
+
+ROLL
+(ĐỘNG TỪ): LĂN
+
+RUSH
+(ĐỘNG TỪ): VỘI VÃ ĐI GẤP
+
+SAFE
+(TÍNH TỪ): AN TOÀN
+
+SAFETY
+(DANH TỪ): SỰ AN TOÀN
+
+SAIL
+(ĐỘNG TỪ): NHỔ NEO
+
+SAVE
+(V): CỨU, GIẢI CỨU
+
+SCAN
+(ĐỘNG TỪ): QUÉT
+
+SCARE
+(ĐỘNG TỪ): LÀM HOẢNG SỢ
+
+SCENE
+(DANH TỪ): KHUNG CẢNH
+
+SCHEDULE
+(DANH TỪ): LỊCH TRÌNH
+
+SEASON
+(DANH TỪ): MÙA
+
+SECRET
+(DANH TỪ): BÍ MẬT
+
+SECTION
+(DANH TỪ): TẦNG LỚP NHÂN DÂN
+
+SELECT
+(ĐỘNG TỪ): LỰA CHỌN
+
+SENSE
+(ĐỘNG TỪ) : NHẬN THẤY
+
+SEPARATE
+(ĐỘNG TỪ): CHIA TÁCH
+
+SERIOUS
+(TÍNH TỪ): NGHIÊM TÚC
+
+SERVE
+(ĐỘNG TỪ): PHỤC VỤ
+
+SET
+(ĐỘNG TỪ): ĐỂ LẠI
+
+SEVERAL
+(TÍNH TỪ): MỘT VÀI
+
+SHAKE
+(ĐỘNG TỪ) : VẪY, LẮC
+
+SHAPE
+(DANH TỪ): HÌNH THÙ, HÌNH DÁNG
+
+SHARE
+(ĐỘNG TỪ): CHIA SẺ
+
+SHEET
+(DANH TỪ): TRANG GIẤY
+
+SHOT
+(ĐỘNG TỪ): BẮN
+
+SHOUT
+(ĐỘNG TỪ): KÊU GÀO
+
+SIGHT
+(DANH TỪ): CẢNH TƯỢNG
+
+SIGN
+(DANH TỪ): DẤU HIỆU
+
+SILLY
+(TÍNH TỪ): NGỚ NGẨN
+
+SINCE
+(PHÓ TỪ): TỪ KHI
+
+SINGLE
+(TÍNH TỪ): MỘT MÌNH
+
+SITE
+(DANH TỪ) : VỊ TRÍ
+
+SITUATE
+(ĐỘNG TỪ): ĐẶT Ở CHỖ
+
+SKILL
+(DANH TỪ): KỸ NĂNG
+
+SMELL
+(ĐỘNG TỪ): NGỬI THẤY
+
+SOCIAL
+(TÍNH TỪ): XÃ HỘI
+
+SOCIETY
+(DANH TỪ): XÃ HỘI
+
+SOLUTION
+(DANH TỪ): GIẢI PHÁP
+
+SOLVE
+(ĐỘNG TỪ): GIẢI QUYẾT
+
+SOMEHOW
+(PHÓ TỪ): VÌ LÝ DO NÀY LÝ DO KHÁC
+
+SOUND
+(ĐỘNG TỪ): NGHE CÓ VẺ, KÊU
+
+SPACE
+(DANH TỪ): KHÔNG GIAN
+
+SPECIFIC
+(TÍNH TỪ): CHI TIẾT, CỤ THỂ
+
+SPEECH
+(DANH TỪ): BÀI NÓI CHUYỆN
+
+SPEND: DÀNH
+(THỜI GIAN)
+
+SPOT
+(DANH TỪ) NƠI, ĐIỂM
+
+SPREAD
+(ĐỘNG TỪ): LAN RỘNG
+
+STAFF
+(DANH TỪ): NHÂN VIÊN, ĐỘI NGŨ
+
+STAGE
+(DANH TỪ): SÂN KHẤU
+
+STAIR
+(DANH TỪ): CẦU THANG
+
+STANDARD
+(DANH TỪ): TIÊU CHUẨN, MỨC CHUẨN
+
+STEAL
+(ĐỘNG TỪ): ĂN CẮP
+
+STEP
+(V): BƯỚC ĐI
+
+STILL
+(ADV): VẪN CÒN
+
+STORE
+(DANH TỪ): CỬA HÀNG
+
+STORM
+(DANH TỪ): BÃO
+
+STRANGE
+(TÍNH TỪ): KÌ LẠ
+
+STRENGTH
+(DANH TỪ): SỨC MẠNH
+
+STRIKE
+(ĐỘNG TỪ): ĐÂM VÀO, ĐÁNH VÀO
+
+STROLL
+(ĐỘNG TỪ) : ĐI DẠO
+
+STRUCTURE
+(DANH TỪ) : CÔNG TRÌNH XÂY DỰNG
+
+SUCCESS
+(DANH TỪ): THÀNH CÔNG
+
+SUDDEN
+(TÍNH TỪ) : ĐỘT NGỘT
+
+SUDDENLY
+(TRẠNG TỪ): ĐỘT NHIÊN
+
+SUFFER
+(ĐỘNG TỪ): CHỊU ĐỰNG
+
+SUGGEST
+(ĐỘNG TỪ): GỢI Ý
+
+SUPPORT
+(ĐỘNG TỪ): GIÚP ĐỠ
+
+SUPPOSE
+(ĐỘNG TỪ): NGHĨ RẰNG
+
+SURFACE
+(DANH TỪ): BỀ MẶT
+
+SURVIVE
+(ĐỘNG TỪ): SỐNG SÓT
+
+SWIM
+(ĐỘNG TỪ): BƠI
+
+SYMBOL
+(DANH TỪ): BIỂU TƯỢNG
+
+TAIL
+(DANH TỪ) : ĐUÔI
+
+TASK
+(DANH TỪ): NHIỆM VỤ
+
+TASTE
+(N): NẾM THỬ, MÙI VỊ
+
+TEAR
+(ĐỘNG TỪ): XÉ
+
+TECHNOLOGY
+(DANH TỪ): CÔNG NGHỆ
+
+TERM
+(DANH TỪ): THUẬT NGỮ
+
+TERRIBLE
+(TÍNH TỪ): TỆ HẠI
+
+THEATER
+(N) RẠP HÁT, NHÀ HÁT
+
+THEORY
+(DANH TỪ): GIẢ THUYẾT
+
+THEREFORE
+(PHÓ TỪ): BỞI VẬY
+
+THIEF
+(DANH TỪ): KẺ TRỘM
+
+THIN
+(TÍNH TỪ): GẦY GÒ
+
+THOUGH
+(LIÊN TỪ): DÙ
+
+THROW
+(V): NÉM
+
+TIP
+(DANH TỪ): ĐẦU NHỌN
+
+TOOL
+(DANH TỪ): DỤNG CỤ
+
+TOUR
+(DANH TỪ): CHUYẾN DU LỊCH
+
+TOWARD
+(GIỚI TỪ): VỀ PHÍA
+
+TRADITION
+(DANH TỪ): TRUYỀN THỐNG
+
+TRASH
+(DANH TỪ): RÁC
+
+TREAT
+(ĐỘNG TỪ): ĐỐI XỬ
+
+TRICK
+(DANH TỪ): MẸO
+
+TRIP
+(DANH TỪ): CHUYẾN ĐI
+
+TROUBLE
+(DANH TỪ): RẮC RỐI
+
+TRUTH
+(DANH TỪ) : SỰ THẬT
+
+UNITE
+(ĐỘNG TỪ): ĐOÀN KẾT LẠI
+
+UNIVERSE
+(DANH TỪ): VŨ TRỤ
+
+UPSET
+(TÍNH TỪ): BUỒN BÃ
+
+VALUE
+(DANH TỪ): GIÁ TRỊ
+
+VARIOUS
+(TÍNH TỪ): ĐA DẠNG
+
+VEGETABLE
+(DANH TỪ): RAU CỦ
+
+VIEW
+(ĐỘNG TỪ): XEM, CHIÊM NGƯỠNG
+
+VILLAGE
+(DANH TỪ): LÀNG
+
+VISIBLE
+(TÍNH TỪ): DỄ NHẬN THẤY
+
+VOICE
+(DANH TỪ): GIỌNG NÓI
+
+VOTE
+(ĐỘNG TỪ): BẦU CHỌN
+
+WAKE
+(ĐỘNG TỪ): THỨC DẬY
+
+WAR
+(DANH TỪ): CHIẾN TRANH
+
+WASTE
+(ĐỘNG TỪ): PHUNG PHÍ
+
+WAVE
+(N): SÓNG BIỂN
+
+WEALTH
+(N) SỰ GIÀU CÓ; SỰ GIÀU SANG
+
+WEATHER
+(DANH TỪ): THỜI TIẾT
+
+WEB
+(DANH TỪ): MẠNG
+
+WELL
+(TRẠNG TỪ): ỔN, TỐT
+
+WHETHER
+(LIÊN TỪ): CÓ HAY KHÔNG
+
+WHOLE
+(TÍNH TỪ): TẤT CẢ
+
+WIDE
+(TÍNH TỪ): RỘNG
+
+WILD
+(TÍNH TỪ): HOANG DÃ
+
+WISE
+(TÍNH TỪ): THÔNG THÁI
+
+WITHIN
+(GIỚI TỪ): Ở GIỮA BÊN TRONG
+
+WONDER
+(ĐỘNG TỪ): TỰ HỎI
+
+WOOD
+(DANH TỪ): GỖ
+
+WORSE
+(TÍNH TỪ SO SÁNH): TỆ HƠN
+
+WORTH
+(TÍNH TỪ): ĐÁNG GIÁ
+
+YET
+(PHÓ TỪ): CÒN NỮA
+

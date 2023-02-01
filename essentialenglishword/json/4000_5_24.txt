@@ -1,0 +1,82 @@
+[
+{"english":"bankrupt",
+"vietnamese":"adj. phá sản"},
+
+
+{"english":"conform",
+"vietnamese":"v. tuân theo"},
+
+
+{"english":"employ",
+"vietnamese":"v. tuyển dụng"},
+
+
+{"english":"expel",
+"vietnamese":"v. trục xuất"},
+
+
+{"english":"extension",
+"vietnamese":"n. phần mở rộng"},
+
+
+{"english":"forthcoming",
+"vietnamese":"adj. sắp tới"},
+
+
+{"english":"furnish",
+"vietnamese":"v. trang bị"},
+
+
+{"english":"hygiene",
+"vietnamese":"n. vệ sinh"},
+
+
+{"english":"hygienic",
+"vietnamese":"adj. hợp vệ sinh"},
+
+
+{"english":"landlord",
+"vietnamese":"n. chủ nhà"},
+
+
+{"english":"lease",
+"vietnamese":"v. cho thuê"},
+
+
+{"english":"mandatory",
+"vietnamese":"adj. bắt buộc"},
+
+
+{"english":"mend",
+"vietnamese":"v. sửa chữa, cài thiện"},
+
+
+{"english":"mortgage",
+"vietnamese":"n. thế chấp"},
+
+
+{"english":"personnel",
+"vietnamese":"n. nhân viên"},
+
+
+{"english":"plumbing",
+"vietnamese":"n. hệ thống ông nước"},
+
+
+{"english":"tenant",
+"vietnamese":"n. người thuê"},
+
+
+{"english":"trendy",
+"vietnamese":"adj. hợp thời trang, mốt"},
+
+
+{"english":"utility",
+"vietnamese":"n. điện nước, công ty điện nước"},
+
+
+{"english":"whereby",
+"vietnamese":"conj. theo đó"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"admission",
+"vietnamese":"n.cho phép vào"},
+
+
+{"english":"astronomy",
+"vietnamese":"n.thiên văn học"},
+
+
+{"english":"blame",
+"vietnamese":"v.khiển trách"},
+
+
+{"english":"chemistry",
+"vietnamese":"n.hóa học"},
+
+
+{"english":"despite",
+"vietnamese":"prep.mặc dù"},
+
+
+{"english":"dinosaur",
+"vietnamese":"n.khủng long"},
+
+
+{"english":"exhibit",
+"vietnamese":"n.triển lãm"},
+
+
+{"english":"fame",
+"vietnamese":"n.danh tiếng"},
+
+
+{"english":"forecast",
+"vietnamese":"n.dự báo"},
+
+
+{"english":"genius",
+"vietnamese":"n.thiên tài"},
+
+
+{"english":"gentle",
+"vietnamese":"adj.cao quý, dịu dàng"},
+
+
+{"english":"geography",
+"vietnamese":"n.môn địa lý"},
+
+
+{"english":"interfere",
+"vietnamese":"v.gây trở ngại, ngăn cản"},
+
+
+{"english":"lightly",
+"vietnamese":"adv.nhẹ nhàng"},
+
+
+{"english":"principal",
+"vietnamese":"n.hiệu trưởng"},
+
+
+{"english":"row",
+"vietnamese":"n.hàng"},
+
+
+{"english":"shelf",
+"vietnamese":"n.cái kệ"},
+
+
+{"english":"spite",
+"vietnamese":"n.sự giận, không bẳng lòng"},
+
+
+{"english":"super",
+"vietnamese":"adj.siêu phàm"},
+
+
+{"english":"wet",
+"vietnamese":"adj.ướt"}
+
+
+]

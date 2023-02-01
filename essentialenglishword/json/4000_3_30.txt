@@ -1,0 +1,82 @@
+[
+{"english":"appliance",
+"vietnamese":"n. thiết bị"},
+
+
+{"english":"basin",
+"vietnamese":"n. bồn rữa mặt"},
+
+
+{"english":"broom",
+"vietnamese":"n. chổi lau"},
+
+
+{"english":"caterpillar",
+"vietnamese":"n. sâu bướm"},
+
+
+{"english":"cupboard",
+"vietnamese":"n. tủ đựng chén"},
+
+
+{"english":"delicate",
+"vietnamese":"adj. mong manh, dễ tổn thương"},
+
+
+{"english":"emerge",
+"vietnamese":"v. nhô lên, hiện lên"},
+
+
+{"english":"handicap",
+"vietnamese":"n. khuyết tật"},
+
+
+{"english":"hook",
+"vietnamese":"n. cái móc"},
+
+
+{"english":"hop",
+"vietnamese":"v. nhảy lò cò, nhảy cóc"},
+
+
+{"english":"laundry",
+"vietnamese":"n. giặt ủi"},
+
+
+{"english":"pursue",
+"vietnamese":"v. theo đuổi"},
+
+
+{"english":"reluctant",
+"vietnamese":"adj. lưỡng lự"},
+
+
+{"english":"sleeve",
+"vietnamese":"n. tay áo"},
+
+
+{"english":"spine",
+"vietnamese":"n. xương sống"},
+
+
+{"english":"stain",
+"vietnamese":"n. vết bẩn"},
+
+
+{"english":"strip",
+"vietnamese":"n. dải"},
+
+
+{"english":"swear",
+"vietnamese":"v. thề"},
+
+
+{"english":"swing",
+"vietnamese":"v. lung lay"},
+
+
+{"english":"utilize",
+"vietnamese":"v. tận dụng"}
+
+
+]

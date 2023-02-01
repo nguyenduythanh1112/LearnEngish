@@ -1,0 +1,82 @@
+[
+{"english":"acquire",
+"vietnamese":"v. có được, thu được"},
+
+
+{"english":"awkward",
+"vietnamese":"adj. khó xử, lúng túng"},
+
+
+{"english":"caretaker",
+"vietnamese":"người chăm sóc, giữ nhà"},
+
+
+{"english":"deceive",
+"vietnamese":"v. lừa dối"},
+
+
+{"english":"discourage",
+"vietnamese":"v. gây chán nản"},
+
+
+{"english":"fake",
+"vietnamese":"adj. giả mạo"},
+
+
+{"english":"hatred",
+"vietnamese":"n. sự hận thù"},
+
+
+{"english":"hut",
+"vietnamese":"n. túp lều"},
+
+
+{"english":"inferior",
+"vietnamese":"adj. kém hơn"},
+
+
+{"english":"lodge",
+"vietnamese":"n. lều, nhà nhỏ, nhà nghỉ"},
+
+
+{"english":"neglect",
+"vietnamese":"v. bỏ bê, bỏ mặc"},
+
+
+{"english":"newcomer",
+"vietnamese":"n. người mới đến"},
+
+
+{"english":"offense",
+"vietnamese":"n. sự xúc phạm"},
+
+
+{"english":"overlook",
+"vietnamese":"v. bỏ qua, bỏ sót"},
+
+
+{"english":"repay",
+"vietnamese":"v. trả lại, thưởng"},
+
+
+{"english":"ridiculous",
+"vietnamese":"adj. vô lý"},
+
+
+{"english":"satisfactory",
+"vietnamese":"adj. đạt yêu cầu"},
+
+
+{"english":"shepherd",
+"vietnamese":"n. người chăn cừu"},
+
+
+{"english":"venture",
+"vietnamese":"v. mạo hiểm"},
+
+
+{"english":"wheat",
+"vietnamese":"n. lúa mì"}
+
+
+]

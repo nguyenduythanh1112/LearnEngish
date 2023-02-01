@@ -1,0 +1,82 @@
+[
+{"english":"abnormal",
+"vietnamese":"adj. bất thường"},
+
+
+{"english":"bamboo",
+"vietnamese":"n. cây tre, cây trúc"},
+
+
+{"english":"blossom",
+"vietnamese":"n. hoa, bó hoa"},
+
+
+{"english":"compass",
+"vietnamese":"n. la bàn"},
+
+
+{"english":"dialect",
+"vietnamese":"n. ngôn ngữ địa phương"},
+
+
+{"english":"dishonest",
+"vietnamese":"adj. không trung thực"},
+
+
+{"english":"dwarf",
+"vietnamese":"n. người lùn, chú lùn"},
+
+
+{"english":"ecosystem",
+"vietnamese":"n. hệ sinh thái"},
+
+
+{"english":"fatal",
+"vietnamese":"adj. không tránh được, gây tử vong"},
+
+
+{"english":"impatient",
+"vietnamese":"adj. nóng nảy"},
+
+
+{"english":"leaf",
+"vietnamese":"n. lá cây"},
+
+
+{"english":"manuscript",
+"vietnamese":"n. bản thảo"},
+
+
+{"english":"marsh",
+"vietnamese":"n. đầm lầy"},
+
+
+{"english":"patience",
+"vietnamese":"n. kiên nhẫn"},
+
+
+{"english":"perfume",
+"vietnamese":"n. nước hoa"},
+
+
+{"english":"pond",
+"vietnamese":"n. ao, vũng nước"},
+
+
+{"english":"proverb",
+"vietnamese":"n. tục ngữ"},
+
+
+{"english":"pursuit",
+"vietnamese":"n. theo đuổi"},
+
+
+{"english":"recite",
+"vietnamese":"v. đọc thuộc lòng"},
+
+
+{"english":"wilderness",
+"vietnamese":"n. hoang dã"}
+
+
+]

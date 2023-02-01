@@ -1,0 +1,40 @@
+analytic
+adj. phân tích ( _ _ _ l _ _ i _ )
+assert
+v. khẳng định ( a _ _ _ _ _ )
+bachelor
+n. cử nhân ( _ a _ _ _ _ _ r )
+calculus
+n. giải tích ( _ a _ _ _ _ u _ )
+celestial
+adj. thiên thể ( _ e _ _ _ _ _ _ l )
+cognitive
+adj. nhận thức ( _ _ g _ _ _ _ v _ )
+collision
+n. sự va chạm ( _ o _ _ _ _ i _ _ )
+competent
+adj. có thẩm quyền ( _ _ _ _ _ t _ n _ )
+diploma
+n. văn bằng ( d _ _ _ _ _ _ )
+excel
+v. xuất sắc ( _ x _ _ _ )
+geology
+n. địa chất học ( _ _ _ _ _ _ y )
+harness
+v. khai thác ( _ _ r _ _ _ _ )
+intellect
+n. trí tuệ ( _ _ t _ l _ _ _ _ )
+keen
+adj. giỏi, xuất sắc, thông minh ( k _ _ _ )
+mythology
+n. thần thoại ( _ y _ _ _ _ _ _ y )
+physiology
+n. sinh lý học ( _ _ _ _ _ _ l _ g _ )
+radioactive
+adj. phóng xạ ( _ _ _ i _ _ _ _ _ v _ )
+relativity
+n. thuyết tương đối ( _ _ _ a _ _ _ _ _ y )
+sociology
+n. xã hội học ( _ o _ _ o _ _ _ _ )
+theoretical
+adj. lý thuyết ( _ _ _ _ r _ _ _ _ _ l )

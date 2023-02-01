@@ -1,0 +1,82 @@
+[
+{"english":"bench",
+"vietnamese":"n. băng ghế"},
+
+
+{"english":"confront",
+"vietnamese":"v. đối đầu"},
+
+
+{"english":"daisy",
+"vietnamese":"n. hoa cúc"},
+
+
+{"english":"dispute",
+"vietnamese":"n. tranh chấp"},
+
+
+{"english":"horror",
+"vietnamese":"n. rùng rợn"},
+
+
+{"english":"incident",
+"vietnamese":"n. sự cố"},
+
+
+{"english":"mist",
+"vietnamese":"n. sương mù"},
+
+
+{"english":"object",
+"vietnamese":"n. sự vật"},
+
+
+{"english":"orphan",
+"vietnamese":"n. mồ côi, trẻ mồ côi"},
+
+
+{"english":"plot",
+"vietnamese":"v. âm mưu"},
+
+
+{"english":"pregnant",
+"vietnamese":"adj. có thai"},
+
+
+{"english":"rage",
+"vietnamese":"n. cơn thịnh nộ"},
+
+
+{"english":"revenge",
+"vietnamese":"n. sự trả thù"},
+
+
+{"english":"shame",
+"vietnamese":"n. nỗi tủi nhục"},
+
+
+{"english":"sigh",
+"vietnamese":"v. thở dài"},
+
+
+{"english":"sneak",
+"vietnamese":"v. đánh lén"},
+
+
+{"english":"spare",
+"vietnamese":"v. dự phòng"},
+
+
+{"english":"stem",
+"vietnamese":"n. thân cây"},
+
+
+{"english":"supper",
+"vietnamese":"n. bữa tối"},
+
+
+{"english":"tender",
+"vietnamese":"adj. mềm"}
+
+
+]

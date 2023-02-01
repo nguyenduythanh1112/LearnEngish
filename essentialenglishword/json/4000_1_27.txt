@@ -1,0 +1,82 @@
+[
+{"english":"actually",
+"vietnamese":"(trạng từ): thực sự"},
+
+
+{"english":"bite",
+"vietnamese":"(động từ): cắn"},
+
+
+{"english":"coast",
+"vietnamese":"(danh từ): bờ biển"},
+
+
+{"english":"deal",
+"vietnamese":"(danh từ): giao dịch"},
+
+
+{"english":"desert",
+"vietnamese":"(danh từ): sa mạc"},
+
+
+{"english":"earthquake",
+"vietnamese":"(danh từ): trận động đất"},
+
+
+{"english":"effective",
+"vietnamese":"(tính từ): hiệu quả"},
+
+
+{"english":"examine",
+"vietnamese":"(động từ): kiểm tra"},
+
+
+{"english":"false",
+"vietnamese":"(tính từ): sai"},
+
+
+{"english":"gift",
+"vietnamese":"(danh từ): món quà"},
+
+
+{"english":"hunger",
+"vietnamese":"(danh từ): cơn đói"},
+
+
+{"english":"imagine",
+"vietnamese":"(động từ): tưởng tượng"},
+
+
+{"english":"journey",
+"vietnamese":"(danh từ): hành trình"},
+
+
+{"english":"otherwise",
+"vietnamese":"(liên từ): nếu không thì"},
+
+
+{"english":"puzzle",
+"vietnamese":"(danh từ): câu đố"},
+
+
+{"english":"quite",
+"vietnamese":"(phó từ): khá là"},
+
+
+{"english":"rather",
+"vietnamese":"(phó từ): thà hơn"},
+
+
+{"english":"specific",
+"vietnamese":"(tính từ): chi tiết, cụ thể"},
+
+
+{"english":"trip",
+"vietnamese":"(danh từ): chuyến đi"},
+
+
+{"english":"value",
+"vietnamese":"(danh từ): giá trị"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"analogy",
+"vietnamese":"n. tương tự, loại suy"},
+
+
+{"english":"ancestry",
+"vietnamese":"n. tổ tiên"},
+
+
+{"english":"archer",
+"vietnamese":"n. người bắn cung"},
+
+
+{"english":"conspiracy",
+"vietnamese":"n. âm mưu"},
+
+
+{"english":"deputy",
+"vietnamese":"n. cấp phó"},
+
+
+{"english":"earl",
+"vietnamese":"n. bá tước"},
+
+
+{"english":"fragrant",
+"vietnamese":"adj. thơm"},
+
+
+{"english":"funnel",
+"vietnamese":"n. phễu"},
+
+
+{"english":"hereditary",
+"vietnamese":"adj. di truyền"},
+
+
+{"english":"hymn",
+"vietnamese":"n. thánh ca"},
+
+
+{"english":"invert",
+"vietnamese":"v. đảo, nghịch"},
+
+
+{"english":"prey",
+"vietnamese":"n. con mồi"},
+
+
+{"english":"procession",
+"vietnamese":"n. đám rước"},
+
+
+{"english":"prophet",
+"vietnamese":"n. nhà tiên tri"},
+
+
+{"english":"sarcastic",
+"vietnamese":"adj. mỉa mai"},
+
+
+{"english":"seasoning",
+"vietnamese":"n. gia vị"},
+
+
+{"english":"sodium",
+"vietnamese":"n. natri"},
+
+
+{"english":"tyranny",
+"vietnamese":"n. chế độ chuyên chế"},
+
+
+{"english":"tyrant",
+"vietnamese":"n. bạo chúa"},
+
+
+{"english":"vinegar",
+"vietnamese":"n. giấm"}
+
+
+]

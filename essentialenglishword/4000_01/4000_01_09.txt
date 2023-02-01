@@ -1,0 +1,122 @@
+against 
+(prep): Trái lại, chống lại, đối lại
+ 
+beach   
+(n): Bãi biển
+ 
+damage  
+(v): Làm hư hại, làm tổn hại
+ 
+discover    
+(v): Khám phá, tìm hiểu
+
+emotion 
+(n): Cảm xúc
+
+fix 
+(v): sửa chữa
+ 
+frank   
+(a): Chân thành, thẳng thắn
+
+identify    
+(v): Nhận định, nhận danh
+ 
+island  
+(n): Hòn đảo
+ 
+ocean   
+(n): Đại dương, biển cả
+ 
+perhaps 
+(adv): Có lẽ
+ 
+pleasant    
+(a): Dễ chịu
+
+prevent 
+(v): Ngăn chặn, ngăn cản
+
+rock    
+(n): Hòn đá, tảng đá
+ 
+save    
+(v): Cứu, giải cứu
+ 
+step    
+(v): Bước đi
+ 
+still   
+(adv): Vẫn còn
+ 
+taste   
+(n): Nếm thử, mùi vị
+ 
+throw   
+(v): Ném
+ 
+throw about/around 
+(PV): Tiêu tiền một cách phung phí, ném tiền qua cửa sổ
+
+throw away
+(PV): Vứt cái gì không cần nữa
+
+throw away
+(PV): Lãng phí một kỹ năng hay cơ hội
+
+throw back at
+(PV): Nhắt ai đó về việc người đó đã nói, làm trong quá khứ
+
+throw down
+(PV): Thách đấu
+
+throw in
+(PV): Tham gia, đồng hành với
+
+throw in
+(PV): Thêm cái gì vào mà không tăng giá
+
+throw off
+(PV): Tháo phụ kiện, cởi quần áo
+
+throw off
+(PV): Loại bỏ, thoát khỏi
+
+throw on
+(PV): Mặc quần áo nhanh chóng
+
+throw over
+(PV): Kết thúc một mối quan hệ với ai đó
+
+throw out
+(PV): Từ chối, Loại bỏ, vứt bỏ, Trục xuất, Đưa ra nhiều sáng kiến, câu hỏi
+
+throw out
+(PV): Từ chối
+
+throw out
+(PV): Loại bỏ, vứt bỏ
+
+throw out
+(PV): Trục xuất, Đưa ra nhiều sáng kiến, câu hỏi
+
+throw out
+(PV): Đưa ra nhiều sáng kiến, câu hỏi
+
+throw together
+(PV): Làm cho tình cờ gặp nhau, Sắp xếp chuẩn bị nhanh chóng
+
+throw together
+(PV): Làm cho tình cờ gặp nhau
+
+throw together
+(PV): Sắp xếp chuẩn bị nhanh chóng
+
+throw up
+(PV): Nôn ói, Đề xuất vấn đề, ý tưởng, Rời bỏ công việc đột ngột
+
+throw up
+(PV): Nôn ói, Đề xuất vấn đề, ý tưởng, Rời bỏ công việc đột ngột
+
+wave    
+(n): Sóng biển

@@ -1,0 +1,82 @@
+[
+{"english":"addict",
+"vietnamese":"n. người nghiện"},
+
+
+{"english":"archeological",
+"vietnamese":"adj. khảo cổ"},
+
+
+{"english":"archeology",
+"vietnamese":"n. khảo cổ học"},
+
+
+{"english":"brainstorm",
+"vietnamese":"v. động não"},
+
+
+{"english":"budget",
+"vietnamese":"n. ngân sách"},
+
+
+{"english":"chaotic",
+"vietnamese":"adj. hỗn loạn"},
+
+
+{"english":"cite",
+"vietnamese":"v. trích dẫn, nêu ra"},
+
+
+{"english":"correspond",
+"vietnamese":"v. tương ứng"},
+
+
+{"english":"courtyard",
+"vietnamese":"n. sân"},
+
+
+{"english":"estate",
+"vietnamese":"n. sản nghiệp, bất động sản"},
+
+
+{"english":"fraud",
+"vietnamese":"n. sự gian lận"},
+
+
+{"english":"hydrogen",
+"vietnamese":"n. hydrogen"},
+
+
+{"english":"integrity",
+"vietnamese":"n. sự toàn vẹn"},
+
+
+{"english":"knit",
+"vietnamese":"v. đan"},
+
+
+{"english":"outlook",
+"vietnamese":"n. quan điểm"},
+
+
+{"english":"parachute",
+"vietnamese":"n. cái dù"},
+
+
+{"english":"prehistoric",
+"vietnamese":"adj. thời tiền xử"},
+
+
+{"english":"proponent",
+"vietnamese":"n. người đề xuất"},
+
+
+{"english":"refine",
+"vietnamese":"v. tinh chỉnh"},
+
+
+{"english":"restrict",
+"vietnamese":"v. hạn chế"}
+
+
+]

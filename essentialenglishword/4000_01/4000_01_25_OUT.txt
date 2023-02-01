@@ -1,0 +1,40 @@
+associate
+(động từ): liên kết ( _ _ _ _ c _ a _ _ )
+environment
+(danh từ): môi trường ( _ _ _ _ r _ _ _ _ n _ )
+factory
+(danh từ): nhà máy ( _ _ _ _ _ _ y )
+feature
+(danh từ): đặc tính, tính năng ( _ _ _ t _ _ _ )
+instance
+(danh từ): ví dụ, trường hợp ( i _ _ t _ _ _ _ )
+involve
+(động từ): tham gia vào, liên quan đến ( i _ _ _ _ _ _ )
+medicine
+(danh từ): thuốc ( m _ _ _ _ _ n _ )
+mix
+(danh từ): hỗn hợp ( _ _ _ )
+organize
+(động từ): tổ chức ( _ _ _ _ _ i _ e )
+period
+(danh từ): giai đoạn ( _ _ r _ _ _ )
+populate
+(động từ): sinh sống ( _ _ _ _ _ a _ e )
+produce
+(động từ): tạo ra, sản xuất ( _ _ _ _ u _ _ )
+range
+(danh từ): một loạt ( _ _ _ _ e )
+recognize
+(động từ): nhận ra ( _ _ _ o g _ _ _ _ )
+regular
+(phó từ): thường xuyên ( _ _ _ _ _ a _ )
+sign
+(danh từ): dấu hiệu ( _ _ _ n )
+tip
+(danh từ): đầu nhọn ( _ _ _ )
+tradition
+(danh từ): truyền thống ( _ r _ _ i _ _ _ _ )
+trash
+(danh từ): rác ( _ _ _ _ h )
+wide
+(tính từ): rộng ( _ _ d _ )

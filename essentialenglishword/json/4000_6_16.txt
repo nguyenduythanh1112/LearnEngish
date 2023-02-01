@@ -1,0 +1,82 @@
+[
+{"english":"amid",
+"vietnamese":"prep. giữa"},
+
+
+{"english":"backstage",
+"vietnamese":"adv. hậu trường"},
+
+
+{"english":"billionaire",
+"vietnamese":"n. nhà tỉ phú"},
+
+
+{"english":"brute",
+"vietnamese":"n. vũ phu"},
+
+
+{"english":"clumsy",
+"vietnamese":"adj. vụng về"},
+
+
+{"english":"collide",
+"vietnamese":"v. va chạm"},
+
+
+{"english":"culprit",
+"vietnamese":"n. thủ phạm"},
+
+
+{"english":"evacuate",
+"vietnamese":"v. sơ tán"},
+
+
+{"english":"flammable",
+"vietnamese":"adj. dễ cháy"},
+
+
+{"english":"mob",
+"vietnamese":"n. đám đông"},
+
+
+{"english":"premature",
+"vietnamese":"adj. quá sớm"},
+
+
+{"english":"resent",
+"vietnamese":"v. phẫn nộ"},
+
+
+{"english":"satire",
+"vietnamese":"n. tác phẩm trâm biếm"},
+
+
+{"english":"scrutiny",
+"vietnamese":"n. sự soi xét, kiểm tra"},
+
+
+{"english":"segregate",
+"vietnamese":"v. phân biệt"},
+
+
+{"english":"subject",
+"vietnamese":"v. tuân theo"},
+
+
+{"english":"testify",
+"vietnamese":"v. làm chứng"},
+
+
+{"english":"tumult",
+"vietnamese":"n. tiếng hỗn loạn, ổn ào"},
+
+
+{"english":"underestimate",
+"vietnamese":"v. đánh giá thấp"},
+
+
+{"english":"uproar",
+"vietnamese":"n. náo động"}
+
+
+]

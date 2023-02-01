@@ -1,0 +1,82 @@
+[
+{"english":"band",
+"vietnamese":"(danh từ): ban nhạc"},
+
+
+{"english":"barely",
+"vietnamese":"(phó từ): hiếm khi"},
+
+
+{"english":"boring",
+"vietnamese":"(tính từ): nhàm chán"},
+
+
+{"english":"cancel",
+"vietnamese":"(động từ): hủy bỏ"},
+
+
+{"english":"driveway",
+"vietnamese":"(danh từ): đường lái xe vào nhà"},
+
+
+{"english":"garbage",
+"vietnamese":"(danh từ): rác"},
+
+
+{"english":"instrument",
+"vietnamese":"(danh từ): đạo cụ"},
+
+
+{"english":"list",
+"vietnamese":"(danh từ): danh sách"},
+
+
+{"english":"magic",
+"vietnamese":"(danh từ): phép màu"},
+
+
+{"english":"notice",
+"vietnamese":"(động từ): chú ý tới"},
+
+
+{"english":"own",
+"vietnamese":"(động từ): sở hữu"},
+
+
+{"english":"predict",
+"vietnamese":"(động từ): dự đoán"},
+
+
+{"english":"professor",
+"vietnamese":"(danh từ): giáo sư"},
+
+
+{"english":"rush",
+"vietnamese":"(động từ): vội vã đi gấp"},
+
+
+{"english":"schedule",
+"vietnamese":"(danh từ): lịch trình"},
+
+
+{"english":"share",
+"vietnamese":"(động từ): chia sẻ"},
+
+
+{"english":"stage",
+"vietnamese":"(danh từ): sân khấu"},
+
+
+{"english":"storm",
+"vietnamese":"(danh từ): bão"},
+
+
+{"english":"tour",
+"vietnamese":"(danh từ): chuyến du lịch"},
+
+
+{"english":"within",
+"vietnamese":"(giới từ): ở giữa bên trong"}
+
+
+]

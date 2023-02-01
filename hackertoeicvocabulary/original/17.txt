@@ -1,0 +1,256 @@
+butcher's shop
+phr cửa hàng thịt
+cargo
+n hàng hóa (vận tải)
+clinic
+n phòng khám
+crate
+n thùng thưa, sọt
+flow
+n dòng chảy, luồng; v chảy, ùa tới
+following week
+phr tuần tiếp theo
+get a ticket
+phr lấy vé/mua vé
+in storage
+phr trong kho
+load
+n vật nặng, gánh nặng, tải trọng
+mail
+n thư, bưu phẩm; v gửi (qua đường bưu điện)
+museum
+n bảo tàng
+parcel
+n bưu kiện
+pick up packages
+phr lấy hàng
+pottery
+n đồ gốm
+public park
+phr công viên công cộng
+stamp
+v dán tem, đóng dấu; n con tem
+van
+n xe tải nhỏ
+venue
+n địa điểm
+weight
+n khối lượng, cân nặng
+barrier
+v hàng rào, chướng ngại vật
+base
+n cơ sở, nền tảng, đáy
+delay
+v trì hoãn, chậm trễ; n sự chậm trễ
+due date
+phr thời hạn, ngày đáo hạn
+instructor
+n người dạy, giáo viên
+offload
+v dỡ hàng, trút gánh nặng
+parking pass
+phr thẻ đỗ xe
+shipping
+n việc vận chuyển
+trade
+n thương mại, sự buôn bán
+as of now
+phr ngay bây giờ, từ nay trở đi
+broker
+n người môi giới
+canal
+n kênh, ống
+carry a large parcel
+phr mang một bưu kiện lớn
+closing
+n sự kết thúc; adj kết thúc, cuối cùng
+courier service
+phr dịch vụ chuyển phát
+door-to-door delivery
+phr giao hàng tận nơi
+drive off
+phr lái xe đi
+drop off
+phr cho xuống (xe), giảm sút
+drycleaner (drycleaner's) 
+n cửa hàng giặt khô
+floor manager 
+phí quản lý tầng
+hold onto the handrail
+phr bám vào lan can
+in transit
+phr trong khi vận chuyển
+inn
+n nhà trọ
+lab report
+phr báo cáo thí nghiệm
+lab technician
+phr kỹ thuật viên phòng thí nghiệm 
+lace
+n dây buộc, ren; n thắt, buộc
+legal department
+phr bộ phận pháp lý
+load A onto B
+phr chất A lên B
+load a truck
+phr chất hàng lên xe tải
+loaded with
+phr được chất đầy
+loading
+n sự chất hàng, hàng trên xe
+lost in delivery
+phr thất lạc khi vận chuyển
+mailing list
+phr danh sách gửi thư
+make a delivery
+phr giao hàng
+packing tape
+phr băng dính gói hàng
+pass over
+phr bỏ qua, lờ đi
+pavement
+n vỉa hè
+people on foot
+phr người đi bộ
+pick up passengers
+phr đón khách
+pier
+n bến tàu, cầu tàu
+pile up
+phr chất đồng, chồng chất
+postal
+adj (thuộc) bưu điện
+strap
+v buộc, băng; n dây, đại
+time limit
+phr thời hạn
+waterway
+n đường thủy
+weigh
+v cân, cân nhắc
+weight limit
+phr giới hạn trọng lượng
+wrap up
+phr gói lại
+correction
+n sự sửa chữa, hiệu chỉnh
+delivery option
+phr phương thức giao hàng
+discard
+v bỏ, loại bỏ
+express mail
+phr thư chuyển phát nhanh
+fortunately
+adv may thay
+ideally
+adv lý tưởng
+load size
+phr mức tải
+marginally
+adv một chút
+ordered
+adj có trật tự
+ordering
+n sự đặt hàng, sự sắp xếp
+ordinarily
+adv thông thường
+packaging
+n bao bì
+provided (that)
+conj miễn là
+respond to
+phr đáp lại
+separation
+n sự chia tách
+sizable
+adj to, có kích cỡ lớn
+society
+n xã hội, đoàn thể
+accelerate
+v tăng tốc
+additional charge
+phr phí phải trả thêm
+ ahead of schedule
+ phr trước thời hạn
+at the last minute
+phr vào phút cuối
+by hand
+phr thủ công
+car maintenance
+phr bảo dưỡng xe
+city official
+phr quan chức thành phố
+free of charge
+phr miễn phí
+postage
+n bưu phí
+trade negotiation
+phr đàm phán thương mại  
+trade show
+phr triển lãm thương mại
+without delay
+phr không chậm trễ
+freight
+n hàng hóa (được vận chuyển)
+heritage
+n tài sản thừa kế, di sản
+janitor
+n người quét dọn
+loading dock
+phr khu vực bốc dỡ
+logistics
+n hậu cần, kho vận, giao nhận
+realtor (= real estate agency)
+n người môi giới bất động sản
+registered mail
+phr thư bảo đảm
+wheelbarrow
+n xe cút kít
+classified
+adj đã được phân loại
+consulate
+n lãnh sự quán
+decidedly
+adv kiên quyết, dứt khoát
+inaugurate
+v khai mạc, khánh thành
+institute
+n viện, học viện
+institution
+n tổ chức, cơ quan
+openly
+adv công khai, thẳng thắn
+oversight
+n sự giám sát
+province
+n tỉnh
+selective
+adj có chọn lọc
+transportable
+adj có thể vận chuyển được
+alumni association
+phr hội cựu sinh viên
+bilateral
+adj hai bên, song phương
+diplomat
+n nhà ngoại giao
+embargo
+n lệnh cấm vận; sự đình chỉ hoạt động
+expatriate
+n người nước ngoài; v đày biệt xứ
+expedite
+v xúc tiến, giải quyết
+handling
+n cách xử lý
+import license
+phr giấy phép nhập khẩu
+intended recipient
+phr người nhận
+progression
+n sự tiến triển, sự tiến hành
+reciprocal
+adj lẫn nhau, cả đôi bên
+stow
+v cất giữ
+surplus
+n số dư, thặng dư

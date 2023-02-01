@@ -1,0 +1,82 @@
+[
+{"english":"antique",
+"vietnamese":"adj. cổ"},
+
+
+{"english":"applicant",
+"vietnamese":"n. ứng viên"},
+
+
+{"english":"artifact",
+"vietnamese":"n. tạo tác"},
+
+
+{"english":"authentic",
+"vietnamese":"adj. chân chính, đích thực"},
+
+
+{"english":"chronology",
+"vietnamese":"n. niên đại học"},
+
+
+{"english":"diplomat",
+"vietnamese":"n. nhà ngoại giao"},
+
+
+{"english":"epic",
+"vietnamese":"n. sử thi"},
+
+
+{"english":"excerpt",
+"vietnamese":"n. đoạn trích"},
+
+
+{"english":"fossil",
+"vietnamese":"n. hoá thạch"},
+
+
+{"english":"humiliate",
+"vietnamese":"v. làm nhục, làm bẽ mặt"},
+
+
+{"english":"lyric",
+"vietnamese":"adj. trữ tình"},
+
+
+{"english":"majesty",
+"vietnamese":"n. uy nghiêm"},
+
+
+{"english":"monarch",
+"vietnamese":"n. quốc vương, vua"},
+
+
+{"english":"precede",
+"vietnamese":"v. đi trước"},
+
+
+{"english":"punctual",
+"vietnamese":"adj. đúng giờ"},
+
+
+{"english":"recruit",
+"vietnamese":"v. tuyển dụng"},
+
+
+{"english":"refund",
+"vietnamese":"n. trả lại"},
+
+
+{"english":"register",
+"vietnamese":"n. đăng ký"},
+
+
+{"english":"renown",
+"vietnamese":"n. nổi tiếng"},
+
+
+{"english":"tusk",
+"vietnamese":"n. ngà"}
+
+
+]

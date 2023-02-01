@@ -1,0 +1,82 @@
+[
+{"english":"accident",
+"vietnamese":"n. tai nạn"},
+
+
+{"english":"admiral",
+"vietnamese":"n. đô đốc"},
+
+
+{"english":"arc",
+"vietnamese":"n. vòng cung"},
+
+
+{"english":"character",
+"vietnamese":"n. tính cách"},
+
+
+{"english":"conscience",
+"vietnamese":"n. lương tâm"},
+
+
+{"english":"fiery",
+"vietnamese":"adj. bốc lửa"},
+
+
+{"english":"flesh",
+"vietnamese":"n. thịt"},
+
+
+{"english":"grapefruit",
+"vietnamese":"n. bưởi"},
+
+
+{"english":"hay",
+"vietnamese":"n. cỏ khô"},
+
+
+{"english":"horrified",
+"vietnamese":"adj. sợ hãi, kinh hoàng"},
+
+
+{"english":"kerosene",
+"vietnamese":"n. dầu hỏa"},
+
+
+{"english":"loop",
+"vietnamese":"n. vòng lặp"},
+
+
+{"english":"paddle",
+"vietnamese":"n. giầm (dung để chèo thuyền), mái chèo"},
+
+
+{"english":"raft",
+"vietnamese":"n. cái bè"},
+
+
+{"english":"sour",
+"vietnamese":"adj. chua"},
+
+
+{"english":"stake",
+"vietnamese":"n. cái cọc"},
+
+
+{"english":"steward",
+"vietnamese":"n. quản gia, người quản lý bếp ăn"},
+
+
+{"english":"string",
+"vietnamese":"n. sợi dây, xâu, chuỗi"},
+
+
+{"english":"thorn",
+"vietnamese":"n. cái gai"},
+
+
+{"english":"wreck",
+"vietnamese":"v. phá hủy"}
+
+
+]

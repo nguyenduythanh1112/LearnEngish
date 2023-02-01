@@ -1,0 +1,1794 @@
+anxious 
+adj.lo âu, lo lắng
+
+awful 
+adj.kinh khủng, quá tệ hại
+
+consist 
+v.bao gồm, gồm có
+
+desire 
+v.khao khát, mong muốn
+
+eager 
+adj.hào hứng, hăng hái, nhiệt tình
+
+household 
+n.hộ gia đình
+
+intent 
+n.mục đích, ý định
+
+landscape 
+n.phong cảnh, dấu mốc
+
+lift 
+v.nâng lên
+
+load 
+v.tải, chất, chồng
+
+lung 
+n.phổi
+
+motion 
+n. chuyển động
+
+pace 
+n.nhịp độ, tốc độ
+
+polite 
+adj.lễ phép, tao nhã, lịch sự, có học thức
+
+possess 
+v.sở hữu, có được
+
+rapidly  
+adv.nhanh chóng
+
+remark 
+v.căn dặn, nhận xét
+
+seek 
+v.tìm kiếm
+
+shine 
+v.tỏa sáng
+
+spill 
+v.tràn, chảy 
+
+bring  
+v.mang
+
+
+castle  
+n.lâu đài
+
+command  
+v.chỉ huy,ra lệnh
+
+counsel  
+v.tư vấn
+
+ensure  
+v.đảm bảo, chắc chắn
+
+explosion  
+n.tiếng nổ, sợ nổ
+
+jewelry  
+n.trang sức
+
+land  
+v.đáp xuống đất
+
+meteor  
+n.thiên thạnh
+
+monster  
+n.quái vật
+
+northern  
+adj.phương bắc, phía bắc
+
+remote  
+adj.xa xôi hẻo lánh
+
+southern  
+adj.phương nam, phía nam
+
+statue  
+n.bức tượng
+
+steam  
+n.hơi 
+
+submit  
+v.gửi đi, đệ trình
+
+temple  
+n.ngôi chùa
+
+upper  
+adj.phía trên
+
+weed  
+n.cỏ dại
+
+wing  
+n.cánh
+
+arrow  
+n.mũi tên
+
+battle  
+n.trận chiến
+
+bow  
+n.cây cung
+
+brave  
+adj.can đảm, dũng cảm
+
+chief  
+n.thủ lĩnh
+
+disadvantage  
+n.bất lợi
+
+enemy  
+n.kẻ thù, kẻ địch
+
+entrance  
+n.cửa vào, lối vào
+
+hardly  
+adj.hiếm khi, hầu như không
+
+intend  
+v.ý định, dự định
+
+laughter  
+n.tiếng cười
+
+log  
+n.khúc gỗ
+
+military  
+n.quân đội
+
+obey  
+v.tuân theo, phục tùng
+
+secure  
+v.đảm bảo, chắc chắn
+
+steady  
+adj.vững chắc, ổn định
+
+trust  
+v.tín nhiệm
+
+twist  
+v.xoắn
+
+unless  
+conj.nếu không
+
+weapon  
+n.vũ khí
+chest  
+n.ngực
+
+confidence  
+n.sự tự tin
+
+consequence  
+n.kết quả
+
+disaster
+n.thảm họa
+
+disturb  
+v.làm phiền
+
+estimate  
+v.ước tính
+
+honor  
+v.tôn trọng
+
+impress  
+v.gây ấn tượng
+
+marathon  
+n.cuộc chạy đia đường dài
+
+narrow  
+adj.hẹp
+
+pale  
+adj.nhợt nhạt
+
+rough  
+adj.thô
+
+satisfy  
+v.làm thỏa mãn
+
+scream  
+v.hét lên
+
+sensitive  
+adj.nhạy cảm
+
+shade  
+n.bóng râm
+
+supplement  
+v.bổ sung
+
+terror  
+n.sự khủng khiếp, khủng bố
+
+threat  
+n.mối đe dọa
+
+victim  
+n.nạn nhân
+
+ancestor  
+n.tổ tiên
+
+angle  
+n.góc
+
+boot  
+n.giày ống
+
+border  
+n.đường viền
+
+congratulate  
+v.chúc mừng
+
+frame  
+n.khung tranh
+
+heaven  
+n.thiên đường
+
+incredible  
+adj.đáng kinh ngạc
+
+legend  
+n.huyền thoại
+
+praise  
+v.khen ngợi
+
+proceed  
+v.tiến hành
+
+pure  
+adj.tinh khiết
+
+relative  
+n.quan hệ
+
+senior  
+adj.người có kinh nghiệm
+
+silent  
+adj.im lặng
+
+sink  
+v.chìm dưới đáy
+
+superior  
+adj.cấp trên, trên hết
+
+surround  
+v.xung quanh
+
+thick  
+adj.dày
+
+wrap  
+v.bọc, gói
+
+abroad                      
+adv.ở ngước ngoài
+
+anger                   
+v.sự phẫn nộ
+
+bride                   
+n.cô dâu
+
+brief                   
+adj.tóm tắt
+
+chase                   
+v.đuổi theo
+
+disappoint                      
+v.thất vọng
+
+dive                    
+v.lặn
+
+exchange                    
+v.trao đổi, giao dịch
+
+favor                   
+n.ủng hộ, giúp đỡ
+
+fee                     
+n.phí
+
+forever                     
+adv.mãi mãi
+
+guy                     
+n.chàng trai
+
+lovely                      
+adj.đáng yêu
+
+mood                    
+n.tâm trạng
+
+palace                      
+n.cung điện
+
+permit                      
+v.cho phép
+
+protest                     
+v.phản đối
+
+sculpture                   
+n.bức tượng
+
+tribe                   
+n.lộ lạc
+
+youth                   
+n.thiếu niên
+basis 
+n.nền tảng
+ 
+biology 
+n.sinh học
+ 
+cage 
+n.cái lồng
+ 
+colleague 
+n.đồng nghiệp
+ 
+colony 
+n.thuộc địa
+ 
+debate 
+v.tranh luận
+ 
+depart 
+v.khởi hành
+ 
+depress 
+v.chán nản
+ 
+factual 
+adj.thực tế
+ 
+fascinate 
+v.cuốn hút, mơ hoặc
+ 
+mission 
+n.sứ mệnh
+ 
+nevertheless 
+adv.tuy nhiên
+ 
+occupation 
+n.nghề nghiệp
+ 
+overseas 
+adv.ở hải ngoại
+ 
+persuade 
+v.thuyết phục
+ 
+route 
+n.tuyến đường
+ 
+ruins 
+n.tàn tích
+ 
+scholar 
+n.học giả
+ 
+significant 
+adj.quan trọng, trọng đại
+ 
+volcano 
+n.núi lửa
+broad 
+adj.rộng lớn
+
+bush 
+n.bụi cây
+
+capable 
+adj.có khả năng
+
+cheat 
+v.đánh lừa, lừa đảo
+
+concentrate 
+v.tập chung
+
+conclude 
+v.kết luận
+
+confident 
+adj.tự tin
+
+considerable 
+adj.to tác, đáng kể
+
+convey 
+v.truyền đạt
+
+definite 
+adj.xác định
+
+delight 
+n.sự vui mừng
+
+destination 
+n.đích đến
+
+dictate 
+v.đọc cho viết, đọc chính tả, ra lệnh
+
+edge 
+n.cạnh, mép
+
+path 
+n.con đường
+
+resort 
+v.phương sách, cách giải quyết một vấn đề
+
+shadow 
+n.bóng
+
+succeed 
+v.thành công
+
+suspect 
+v.nghi ngờ, khả nghi
+
+valley 
+n.thung lũng       
+
+admire 
+v.ngưỡng mộ, khâm phục
+
+aid 
+v.giúp đỡ, viện trợ
+
+attempt 
+v.cố gắng
+
+authority 
+n.được quyền, thẩm quyền
+
+capital 
+n.thủ đô
+
+cooperate 
+v.hợp tác
+
+defend 
+v.phòng thủ, bảo vệ
+
+destruction 
+n.sự phá hủy
+
+disorder 
+n.rối loạn
+
+division 
+n.phân công
+
+enable 
+v.cho phép
+
+frustrate 
+v.thất vọng
+
+govern 
+v.cai trị, thống trị
+
+plenty 
+n.nhiều
+
+relieve 
+v.giải toản
+
+reputation 
+n.danh tiếng
+
+royal 
+adj.hoàng gia
+
+slave 
+n.nô lệ
+
+struggle 
+v.tranh dành, tranh đấu
+
+stupid 
+adj.ngốc nghếch
+citizen 
+n.người dân
+
+council 
+n.hội đồng
+
+declare 
+v.khai báo
+
+enormous 
+adj.khổng lồ
+
+extraordinary 
+adj.phi thường
+
+fog 
+n.sương mù
+
+funeral 
+n.tang lễ
+
+giant 
+adj.to lớn
+
+impression 
+n.ấn tượng
+
+income 
+n.thu nhập
+
+mad 
+adj.điên, giận dữ
+
+ought 
+aux. v.phải, nên, hẳn là, chắc là
+
+resist 
+v.kháng cự, chống cự
+
+reveal 
+v.tiết lộ
+
+rid 
+v.thoát khỏi
+
+sword 
+n.thanh kiếm
+
+tale 
+n.câu chuyện
+
+trap 
+v.bẫy bắt thú
+
+trial 
+n.phiên tòa
+
+violent 
+adj.hung bạo
+
+admission  
+n.cho phép vào
+
+astronomy  
+n.thiên văn học
+
+blame  
+v.khiển trách
+
+chemistry  
+n.hóa học
+
+despite  
+prep.mặc dù
+
+dinosaur  
+n.khủng long
+
+exhibit  
+n.triển lãm
+
+fame  
+n.danh tiếng
+
+forecast  
+n.dự báo
+
+genius  
+n.thiên tài
+
+gentle  
+adj.cao quý, dịu dàng
+
+geography  
+n.môn Địa lý
+
+interfere  
+v.gây trở ngại, ngăn cản
+
+lightly  
+adv.nhẹ nhàng
+
+principal  
+n.hiệu trưởng
+
+row  
+n.hàng
+
+shelf  
+n.cái kệ
+
+spite  
+n.sự giận, không bẳng lòng
+
+super  
+adj.siêu phàm 
+
+wet  
+adj.ướt
+abuse 
+v.hành hạ
+
+afford 
+v.có đủ điều kiện, mua được
+
+bake 
+v.nướng
+
+bean 
+n.hạt đậu
+
+candle 
+n.nến, đèn cầy
+
+convert 
+v.đổi
+
+debt 
+n.món nợ
+
+decrease 
+v.giảm bớt
+
+fault 
+n.lỗi, điều sai
+
+fund 
+n.quỹ, tiền vốn
+
+generous 
+adj.hào phóng, rộng lượng
+
+ingredient 
+n.thành phần
+
+insist 
+v.năn nỉ
+
+mess 
+n.hỗn độn, lộn xộn
+
+metal 
+n.kim loại
+
+monitor 
+v.giám sát
+
+oppose 
+v.phản đối
+
+passive 
+a.thụ động
+
+quantity 
+n.số lượng
+
+sue 
+v.kiện người nào, làm đơn thưa người nào
+anxiety 
+n.sự lo ngại
+
+army 
+n.quân đội
+
+billion 
+n.một tỷ
+
+carve 
+v.khắc chạm, cắt
+
+consult 
+v.tư vấn
+
+emergency 
+n.trưởng hợp khẩn cấp
+
+fortune 
+n.vận may
+
+guarantee 
+v.sự cam đoan, bảo hành
+
+hike 
+v.đi dạo
+
+initial 
+adj.ban đầu, mở đầu
+
+intense 
+adj.dữ dội
+
+lend 
+v.cho vay
+
+peak 
+n.đỉnh
+
+potential 
+adj.tiềm năng, khả năng
+
+pride 
+n.tự hào
+
+proof 
+n.bằng chứng
+
+quit 
+v.bỏ
+
+spin 
+v.quay
+
+tiny 
+adj.nhỏ bé
+
+tutor 
+n.gia sư
+
+apparent 
+adj.rõ ràng
+
+blind 
+adj.mù, mù quáng
+
+calculate 
+v.tính toán
+
+chat 
+v.trò chuyện
+
+commit 
+v.cam kết
+
+compose 
+v.soạn, biên soạn
+
+dormitory 
+n.ký túc xá
+
+exhaust 
+v.làm kiệt sức
+
+greenhouse 
+n.nhà kính
+
+ignore 
+v.bỏ qua, không chấp nhận
+
+obvious 
+adj.hiển nhiên, rõ ràng
+
+physics 
+n.vật lý
+
+portion 
+n.phần
+
+remind 
+v.nhắc lại, nhắc nhở
+
+secretary 
+n.thư ký
+
+severe 
+adj.nghiêm trọng
+
+talent 
+n.năng lực
+
+thesis 
+n.luận văn
+
+uniform 
+n.đồng phục
+
+vision 
+n.tầm nhìn
+
+absorb 
+v.hấp thụ
+
+boss 
+n.ông chủ
+
+committee 
+n.hội đồng, ủy ban
+
+contract 
+n.hợp đồng
+
+crew 
+n.đội
+
+devote 
+v.dành(thời gian đề làm gì đó)
+
+dig 
+v.đào
+
+dine 
+v.ăn bữa tối
+
+donate 
+v.tặng
+
+double 
+adj.gấp đôi
+
+elevate 
+v.nâng
+
+flavor 
+n.hương vị
+
+foundation 
+n.nền tảng, người sáng lập
+
+generation 
+n.thế hệ
+
+handle 
+n.quai va ly, tay cầm, tay vặn
+
+layer 
+n.lớp
+
+mud 
+n.bùn, sình lầy
+
+smooth 
+a.trơn chu
+
+soil 
+n.đất
+
+unique 
+adj.độc nhất
+
+chamber 
+n. buồng, phòng ngủ
+
+deny 
+v. từ chối
+
+document 
+n. tài liệu 
+
+emphasize 
+v. nhấn mạnh
+
+fever 
+n. sốt
+
+flu 
+n. cúm
+
+freeze 
+v. đông cứng
+
+gesture 
+n. cử chỉ
+
+interrupt 
+v. làm gián đoạn
+
+last 
+v. cuối cùng
+
+likeness 
+n. giống nhau
+
+moreover 
+adv. hơn thế nữa
+
+perspective 
+n. quan điểm
+
+rational 
+adj. hợp lý
+
+recover 
+v. phục hồi
+
+rely 
+v. dựa vào, tin cậy
+
+shock 
+v. sốc
+
+shy 
+adj. rụt rè, mắc cỡ
+
+stare 
+v. nhìn chằm chằm
+
+thus 
+adv. do đó
+
+aim 
+n. mục đích
+
+attach 
+v. gắn, dán, trói buộc, đính kèm
+
+bet 
+v. đánh cược, cá cược
+
+carriage 
+n. xe ngựa
+
+classic 
+adj. cổ điển
+
+commute 
+v. đi lại
+
+confirm 
+v. xác nhận
+
+criticize 
+v. chỉ trích
+
+differ 
+v. khác nhau
+
+expense 
+n. chi phí
+
+formal 
+adj. chính thức
+
+height 
+n. chiều cao
+
+invent 
+v. phát minh
+
+junior 
+adj. trẻ tuổi hơn, ít kinh nghiệm làm việc
+
+labor 
+n. lao động
+
+mechanic 
+n. cơ khí
+
+prime 
+adj. nguyên tố, quan trọng
+
+shift 
+v. sự dịch chuyển
+
+signal 
+n. tín hiệu
+
+sincere 
+adj. chân thành
+
+ability 
+n. có khả năng
+
+agriculture 
+n. nông nghiệp
+
+cartoon 
+n. hoạt hình, tranh cười
+
+ceiling 
+n. trần nhà
+
+convince 
+v. thuyết phục
+
+curious 
+adj. hiếu kỳ
+
+delay 
+v. trậm trễ
+
+diary 
+n. nhật ký
+
+element 
+n. thành phần
+
+faith 
+n. lòng tin
+
+grain 
+n. ngũ cốc
+
+greet 
+v. chào hỏi
+
+investigate 
+v. điều tra
+
+joy 
+n. vui sướng
+
+label 
+n. nhãn
+
+monk 
+n. thầy tu
+
+odd 
+adj. bất thường, kỳ cục
+
+pause 
+v. tạm dừng
+
+priest 
+n. mục sư, thầy tu
+
+profession 
+n. chuyên nghiệp
+
+adopt 
+v. nhận nuôi, làm con nuôi
+
+beg 
+v. ăn xin
+
+beyond 
+prep. xa lắm, vượt ra ngoài
+
+costume 
+n. trang phục
+
+exclaim 
+v. kêu lên, la lên
+
+extend 
+v. mở rộng
+
+fool 
+n. ngu xuẩn, người dại dột
+
+forbid 
+v. ngăn cấm
+
+illustrate 
+v. minh họa
+
+indeed 
+adv. thật, theo sự thật
+
+interpret 
+v. thông dịch
+
+kindly 
+adv. tử tế
+
+motive 
+n. động cơ
+
+nest 
+n. tổ chim
+
+origin 
+n. gốc, xuất xứ
+
+reception 
+n. sự đón tiếp
+
+reject 
+v. từ chối
+
+silence 
+n. khoảng lặng
+
+stream 
+n. dòng suối
+
+tone 
+n. giọng, tiếng
+
+accomplish 
+v. hoàn thành
+
+approve 
+v. phê duyệt, xác nhận
+
+approximate 
+adj. gần đúng
+
+barrier 
+n. rào chắn
+
+detect 
+v. phát hiện
+
+duty 
+n. nhiệm vụ
+
+elementary 
+adj. tiểu học
+
+failure 
+n. thất bại
+
+gradual 
+adj. dần dần, lần lần
+
+immigrant 
+n. di trú, cư trú
+
+insert 
+v. chèn
+
+instant 
+n. ngay lập tức
+
+poverty 
+n. nghèo nàn
+
+pretend 
+v. giả vờ
+
+rank 
+n. cấp bậc
+
+recognition 
+n. sự công nhận
+
+refrigerate 
+v. làm lạnh
+
+rent 
+n. thuê
+
+retire 
+v. về hưu
+
+statistic 
+n. thống kê
+
+astronaut 
+ n. phi hành gia
+
+awake 
+ adj. thức tỉnh, nhắc lại
+
+courage 
+ n. lòng can đảm
+
+float 
+ v. trôi nổi
+
+grant 
+ v. bẳng lòng, chấp nhận
+
+gravity 
+ n. lực hấp dẫn
+
+jewel 
+ n. ngọc, đá quý
+
+miner 
+ n. thợ mỏ
+
+mineral 
+ n. khoáng sản
+
+participate 
+ v. tham dự
+
+permission 
+ n. sự cho phép
+
+pour 
+ v. rót nước, đổ nước
+
+presence 
+ n. sự hiện diện
+
+raw 
+ adj. thô, chưa được xử lý
+
+satellite 
+ n. vệ tinh
+
+scale 
+ n. tỉ lệ
+
+skip 
+ v. bỏ qua
+
+stretch 
+ v. căng qua
+
+telescope 
+ n.kính viễn vọng 
+
+underground 
+ adv. dưới lòng đất
+
+alarm 
+ n. báo động
+
+apart 
+ adv. cách nhau
+
+arrest 
+ v. bắt giữ
+
+award 
+ n. giải thưởng
+
+breed 
+ n. giống
+
+bucket 
+ n. xô
+
+contest 
+ n. cuộc thi
+
+convict 
+ v. kết án
+
+garage 
+ n. nhà để xe
+
+journalist 
+ n. nhà báo
+
+pup 
+ n. chó con
+
+qualify 
+ v. hội đủ điều kiện
+
+repair 
+ v. sửa
+
+resume 
+ v. hồi phục
+
+rob 
+ v. cướp
+
+slip 
+ v. trượt
+
+somewhat 
+ adv. phần nào, một vài cái gì
+
+stable 
+ adj. ổn định
+
+tissue 
+ n. khăn giấy
+
+yard 
+ n. sân
+
+alike 
+ adj. như nhau
+
+annoy 
+ v. làm phiền
+
+architecture 
+ n. kiến trúc
+
+artificial 
+ adj. nhân tạo
+
+chain 
+ n. dây xích, chuỗi
+
+distinct 
+ adj. khác biệt
+
+distinguish 
+ v. phân biệt
+
+dust 
+ n. bụi bặm
+
+excitement 
+ n. sự phấn khích
+
+heal 
+ v. chữa lành
+
+inherit 
+ v. thừa kế
+
+manner 
+ n. dáng vẻ, thái độ, cách thức
+
+mount 
+ v. leo trèo
+
+roof 
+ n. mái nhà
+
+shortage 
+ n. sự thiếu
+
+solid 
+ adj. rắn chắc
+
+stock 
+ n. đồ tích trữ
+
+substance 
+ n. vật chất
+
+tomb 
+ n. phần mộ
+
+wound 
+ n. vết thương
+
+bath 
+ n. bồn tắm
+
+bend 
+ v. bẻ cong
+
+chew 
+ v. nhai
+
+disabled 
+ adj. tàn tật
+
+fantastic 
+ adj. tuyệt diệu 
+
+fiction 
+ n. viễn cảnh
+
+flag 
+ n. cờ
+
+inspect 
+ v. xem xét, kiểm tra
+
+journal 
+ n. tạp chí
+
+liquid 
+ n. chất lỏng
+
+marvel 
+ v. ngạc nhiên, lấy làm lạ
+
+nutrient 
+ n. chất dinh dưỡng
+
+overcome 
+ v. vượt qua
+
+recall 
+ v. hồi tưởng
+
+regret 
+ v. hối tiếc
+
+soul 
+ n. linh hồn
+
+sufficient 
+ adj. đầy đủ
+
+surgery 
+ n. phẫu thuật
+
+tough 
+ adj. khó khăn
+
+tube 
+ n. ống
+
+admit 
+ v. thừa nhận
+
+bin 
+ n. rác
+
+bowl 
+ n. bát
+
+cabin 
+ n. chòi, nhà gỗ nhỏ
+
+cash 
+ n. tiền mặt
+
+criminal 
+ n. tội phạm
+
+dozen 
+ n. một tá, 12 cái
+
+elder 
+ adj. đàn anh
+
+facial 
+ adj. ở mặt, thuộc về mặt
+
+fence 
+ n. hàng rào
+
+inspire 
+ v. truyền cảm hứng
+
+mere 
+ adj. chỉ là
+
+neat 
+ adj. phòng có ngăn nắp
+
+occasion 
+ n. dịp
+
+penalty 
+ n. hình phạt, sự phạt
+
+rude 
+ adj. thô lỗ
+
+settle 
+ v. dàn xếp
+
+vehicle 
+ n. phương tiện
+
+wallet 
+ n. ví
+
+yell 
+ v. la lên
+
+accuse 
+ v. cáo buộc
+
+adjust 
+ v. điều chỉnh
+
+amuse 
+ v. làm vui, làm thích thú
+
+coral 
+ n. san hô
+
+cotton 
+ n. bông, bông vải
+
+crash 
+ v. tai nạn
+
+deck 
+ n. boong tàu
+
+engage 
+ v. bận việc
+
+firm 
+ adj. chắc chắn
+
+fuel 
+ n. nhiên liệu
+
+grand 
+ adj. lớn
+
+hurricane 
+ n. cuồng phong, bão
+
+loss 
+ n. mất mát
+
+plain 
+ adj. trơn, đơn giản, giản dị
+
+reef 
+ n. rặng san hô
+
+shut 
+ v. đóng cửa
+
+strict 
+ adj. nghiêm chặt
+
+surf 
+ v. lướt sóng
+
+task 
+ n. công việc
+
+zone 
+ n. khu vực
+
+apology 
+ n. lời xin lỗi
+
+bold 
+ adj. dũng cảm 
+
+capture 
+ v. chụp, bắt giữ, bắt
+
+cardinal 
+ adj. chủ yếu
+
+duke 
+ n. công tước
+
+expose 
+ v. lộ ra
+
+guilty 
+ adj. tội lỗi
+
+hire 
+ v. thuê mướn
+
+innocent 
+ adj. vô tội
+
+jail 
+ n. nhà giam
+
+minister 
+ n. bộ trưởng
+
+ordinary 
+ adj. bình thường
+
+permanent 
+ adj. dài hạn
+
+preserve 
+ v. bảo tồn
+
+pronounce 
+ v. phát âm
+
+resemble 
+ v. giống nhau
+
+symptom 
+ n. triệu chứng
+
+tobacco 
+ n. thuốc lá
+
+twin 
+ n. sinh đôi
+
+witch 
+ n. phù thủy
+
+accompany 
+ v. đi cùng
+
+bare 
+ adj. trần trụi
+
+branch 
+ n. nhánh cây
+
+breath 
+ n. hơi thở
+
+bridge 
+ n. cầu
+
+cast 
+ v. ném
+
+dare 
+ v. mạo hiểm
+
+electronic 
+ adj. điện tử
+
+inn 
+ n. quán trọ
+
+net 
+ n. lưới đánh cá
+
+philosophy 
+ n. triết học
+
+pot 
+ n. cái nồi
+
+seed 
+ n. hạt giống
+
+sharp 
+ adj. nhọn, bén, sắc
+
+sort 
+ n. sắp xếp
+
+subtract 
+ v. trừ
+
+tight 
+ adj. chặt chẽ
+
+virtual 
+ adj. ảo
+
+weigh 
+ v. cân nặng
+
+whisper 
+ v. thì thầm
+
+abstract 
+ adj. trừu tượng
+
+annual 
+ adj. hàng năm
+
+clay 
+ n. đất sét
+
+cloth 
+ n. vải
+
+curtain 
+ n. tấm màn
+
+deserve 
+ v. xứng đáng
+
+feather 
+ n. lông chim
+
+fertile 
+ adj. phì nhiêu
+
+flood 
+ n. lũ lụt
+
+furniture 
+ n. đồ nội thất
+
+grave 
+ n. phẫn nộ
+
+ideal 
+ adj. lý tưởng
+
+intelligence 
+ n. sự thông minh
+
+nowadays 
+ adv. ngày nay
+
+obtain 
+ v. đạt được
+
+religious 
+ adj. thuộc về tôn giáo
+
+romantic 
+ adj. lãng mạn
+
+shell 
+ n. vỏ
+
+shore 
+ n. bờ biển
+
+wheel 
+ n. bánh xe
+
+appeal 
+ v. hấp dẫn, lôi cuốn
+
+assume 
+ v. giả định
+
+borrow 
+ v. vay mượn
+
+client 
+ n. khách hàng
+
+downtown 
+ n. trung tâm thành phố
+
+dull 
+ adj. chán ngắt
+
+embarrass 
+ v. lúng túng, bối rối
+
+fare 
+ n. giá vé
+
+former 
+ adj. trước đây
+
+formula 
+ n. công thức
+
+found 
+ v. thành lập, sáng lập
+
+invest 
+ v. đầu tư
+
+loan 
+ n. tiền vay
+
+practical 
+ adj. tiện lợi
+
+quarter 
+ n. phần tư
+
+salary 
+ n. tiền lương
+
+scholarship 
+ n. học bổng
+
+temporary 
+ adj. tạm thời
+
+treasure 
+ n. khó báu
+
+urge 
+ v. thúc giục, khuyến khích

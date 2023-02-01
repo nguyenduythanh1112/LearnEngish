@@ -1,0 +1,82 @@
+[
+{"english":"accustomed",
+"vietnamese":"adj. thói quen, thường lệ"},
+
+
+{"english":"affirm",
+"vietnamese":"v. chứng thật, khẳng định"},
+
+
+{"english":"astonished",
+"vietnamese":"adj. kinh ngạc"},
+
+
+{"english":"bang",
+"vietnamese":"v. đập"},
+
+
+{"english":"clan",
+"vietnamese":"n. gia tộc, bè đảng, bộ lạc"},
+
+
+{"english":"dim",
+"vietnamese":"adj. lờ mờ, mờ không sáng"},
+
+
+{"english":"emphasis",
+"vietnamese":"n. nhấn mạnh"},
+
+
+{"english":"fable",
+"vietnamese":"n. truyện ngụ ngôn"},
+
+
+{"english":"feast",
+"vietnamese":"n. bữa tiệc"},
+
+
+{"english":"glow",
+"vietnamese":"v. tỏa sáng, chói sáng"},
+
+
+{"english":"hollow",
+"vietnamese":"adj. rỗng"},
+
+
+{"english":"instinct",
+"vietnamese":"n. bản năng"},
+
+
+{"english":"joint",
+"vietnamese":"n. khớp"},
+
+
+{"english":"leak",
+"vietnamese":"v. hở, rò rỉ"},
+
+
+{"english":"physician",
+"vietnamese":"n. bác sĩ"},
+
+
+{"english":"sacrifice",
+"vietnamese":"v. hy sinh"},
+
+
+{"english":"stiff",
+"vietnamese":"adj. cứng, bướng bỉnh"},
+
+
+{"english":"stroke",
+"vietnamese":"v. vuốt má"},
+
+
+{"english":"tragic",
+"vietnamese":"adj. bi thảm"},
+
+
+{"english":"tune",
+"vietnamese":"n. điệu nhạc,âm điệu"}
+
+
+]

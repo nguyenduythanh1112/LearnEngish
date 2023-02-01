@@ -1,0 +1,194 @@
+[
+{"english":"bring",
+"vietnamese":"v.mang"},
+
+
+{"english":"bring down",
+"vietnamese":"pv.đánh bại, hạ bệ ai/cái gì"},
+
+
+{"english":"bring down",
+"vietnamese":"pv.làm ai ngã (trong thể thao)"},
+
+
+{"english":"bring down",
+"vietnamese":"pv.làm hạ, tụt giảm mức độ/số lượng/tỉ lệ của cái gì"},
+
+
+{"english":"bring down",
+"vietnamese":"pv. hạ cánh"},
+
+
+{"english":"bring forward",
+"vietnamese":"pv.diễn ra sớm hơn"},
+
+
+{"english":"bring forward",
+"vietnamese":"pv.đề ra, nêu ra, đề xuất"},
+
+
+{"english":"bring in",
+"vietnamese":"pv.nhờ ai đưa lời khuyên/giúp đỡ việc gì"},
+
+
+{"english":"bring in",
+"vietnamese":"pv.(cảnh sát) bắt giữ ai/đưa về đồn để tra hỏi/bắt"},
+
+
+{"english":"bring in",
+"vietnamese":"pv.ban hành một luật lệ mới"},
+
+
+{"english":"bring in",
+"vietnamese":"pv.làm ra tiền hoặc được nhận tiền"},
+
+
+{"english":"bring in",
+"vietnamese":"pv.đưa ra phán quyết tại toà"},
+
+
+{"english":"bring in",
+"vietnamese":"pv.thu hút khách hàng"},
+
+
+{"english":"bring off",
+"vietnamese":"pv.thành công (trong việc gì khó khăn)"},
+
+
+{"english":"bring on",
+"vietnamese":"pv.gây ra, gây nên (điều tệ, xấu)"},
+
+
+{"english":"bring on",
+"vietnamese":"pv.giúp phát triển, cải thiện"},
+
+
+{"english":"bring on",
+"vietnamese":"pv.đưa vào sân"},
+
+
+{"english":"bring out",
+"vietnamese":"pv.đưa ra, làm ra để bán ra thị trường"},
+
+
+{"english":"bring out",
+"vietnamese":"pv. tôn lên, làm bật lên một giá trị hoặc điểm nổi bật nhất"},
+
+
+{"english":"bring over",
+"vietnamese":"pv.mang ai hoặc cái gì từ chỗ này đến chỗ kia, nhất là mang về nhà người nói"},
+
+
+{"english":"bring round",
+"vietnamese":"pv.đưa ai đi chơi cùng, đưa ai về nhà"},
+
+
+{"english":"bring round",
+"vietnamese":"pv.làm ai tỉnh lại sau khi ngất, bất tỉnh"},
+
+
+{"english":"bring round",
+"vietnamese":"pv.thuyết phục"},
+
+
+{"english":"bring forth",
+"vietnamese":"pv.khiến cho cái gì xảy ra/ được trông thấy/ biết đến"},
+
+
+{"english":"bring through",
+"vietnamese":"pv.giúp ai đó vượt qua giai đoạn khó khăn"},
+
+
+{"english":"bring about",
+"vietnamese":"pv.gây ra, đem lại"},
+
+
+{"english":"bring back",
+"vietnamese":"pv.giới thiệu lại"},
+
+
+{"english":"bring back",
+"vietnamese":"pv.gợi nhớ"},
+
+
+{"english":"bring before",
+"vietnamese":"pv.giới thiệu cái gì để thảo luận"},
+
+
+{"english":"castle",
+"vietnamese":"n.lâu đài"},
+
+
+{"english":"command",
+"vietnamese":"v.chỉ huy,ra lệnh"},
+
+
+{"english":"counsel",
+"vietnamese":"v.tư vấn"},
+
+
+{"english":"ensure",
+"vietnamese":"v.đảm bảo, chắc chắn"},
+
+
+{"english":"explosion",
+"vietnamese":"n.tiếng nổ, sợ nổ"},
+
+
+{"english":"jewelry",
+"vietnamese":"n.trang sức"},
+
+
+{"english":"land",
+"vietnamese":"v.đáp xuống đất"},
+
+
+{"english":"meteor",
+"vietnamese":"n.thiên thạnh"},
+
+
+{"english":"monster",
+"vietnamese":"n.quái vật"},
+
+
+{"english":"northern",
+"vietnamese":"adj.phương bắc, phía bắc"},
+
+
+{"english":"remote",
+"vietnamese":"adj.xa xôi hẻo lánh"},
+
+
+{"english":"southern",
+"vietnamese":"adj.phương nam, phía nam"},
+
+
+{"english":"statue",
+"vietnamese":"n.bức tượng"},
+
+
+{"english":"steam",
+"vietnamese":"n.hơi"},
+
+
+{"english":"submit",
+"vietnamese":"v.gửi đi, đệ trình"},
+
+
+{"english":"temple",
+"vietnamese":"n.ngôi chùa"},
+
+
+{"english":"upper",
+"vietnamese":"adj.phía trên"},
+
+
+{"english":"weed",
+"vietnamese":"n.cỏ dại"},
+
+
+{"english":"wing",
+"vietnamese":"n.cánh"}
+
+
+]

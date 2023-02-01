@@ -1,0 +1,82 @@
+[
+{"english":"across",
+"vietnamese":"(giới từ): ở phía bên kia"},
+
+
+{"english":"breathe",
+"vietnamese":"(động từ): thở"},
+
+
+{"english":"characteristic",
+"vietnamese":"(danh từ): đặc điểm"},
+
+
+{"english":"consume",
+"vietnamese":"(động từ): tiêu thụ"},
+
+
+{"english":"excite",
+"vietnamese":"(động từ): kích động"},
+
+
+{"english":"extreme",
+"vietnamese":"(tính từ): khắc nghiệt"},
+
+
+{"english":"fear",
+"vietnamese":"(tính từ): sợ hãi"},
+
+
+{"english":"fortunate",
+"vietnamese":"(tính từ): may mắn"},
+
+
+{"english":"happen",
+"vietnamese":"(động từ): xảy ra"},
+
+
+{"english":"length",
+"vietnamese":"(danh từ): chiều dài"},
+
+
+{"english":"mistake",
+"vietnamese":"(danh từ): lỗi sai"},
+
+
+{"english":"observe",
+"vietnamese":"(động từ): quan sát"},
+
+
+{"english":"opportunity",
+"vietnamese":"(danh từ): cơ hội"},
+
+
+{"english":"prize",
+"vietnamese":"(danh từ): giải thưởng"},
+
+
+{"english":"race",
+"vietnamese":"(danh từ): cuộc đua"},
+
+
+{"english":"realize",
+"vietnamese":"(động từ): nhận ra"},
+
+
+{"english":"respond",
+"vietnamese":"(động từ): phản hồi, phản ứng"},
+
+
+{"english":"risk",
+"vietnamese":"(danh từ): sự rủi ro"},
+
+
+{"english":"wonder",
+"vietnamese":"(động từ): tự hỏi"},
+
+
+{"english":"yet",
+"vietnamese":"(phó từ): còn nữa"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"awhile",
+"vietnamese":"adv. một lúc"},
+
+
+{"english":"cyberspace",
+"vietnamese":"n. không gian mạng"},
+
+
+{"english":"edit",
+"vietnamese":"v. biên tập, chỉnh sửa"},
+
+
+{"english":"essay",
+"vietnamese":"n. bài luận"},
+
+
+{"english":"evaluate",
+"vietnamese":"v. đánh giá"},
+
+
+{"english":"faint",
+"vietnamese":"v. ngất xỉu"},
+
+
+{"english":"global",
+"vietnamese":"adj. toàn cầu"},
+
+
+{"english":"gymnasium",
+"vietnamese":"n. phòng tập thể dục"},
+
+
+{"english":"highlight",
+"vietnamese":"v. làm nổi bật"},
+
+
+{"english":"ignorant",
+"vietnamese":"adj. thiếu hiểu biết"},
+
+
+{"english":"index",
+"vietnamese":"n. chỉ số"},
+
+
+{"english":"lecture",
+"vietnamese":"n. bài giảng"},
+
+
+{"english":"moral",
+"vietnamese":"n. đạo đức"},
+
+
+{"english":"operate",
+"vietnamese":"v. hoạt động"},
+
+
+{"english":"private",
+"vietnamese":"adj. riêng tư"},
+
+
+{"english":"recent",
+"vietnamese":"adj. gần đây"},
+
+
+{"english":"resolution",
+"vietnamese":"n. quyết định cá nhân"},
+
+
+{"english":"semester",
+"vietnamese":"n. học kỳ"},
+
+
+{"english":"typewritten",
+"vietnamese":"adj. được đánh máy"},
+
+
+{"english":"weird",
+"vietnamese":"adj. kỳ lạ"}
+
+
+]

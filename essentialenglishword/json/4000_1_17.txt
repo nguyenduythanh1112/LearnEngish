@@ -1,0 +1,122 @@
+[
+{"english":"appreciate",
+"vietnamese":"(động từ): đánh giá cao"},
+
+
+{"english":"available",
+"vietnamese":"(tính từ): còn trống"},
+
+
+{"english":"beat",
+"vietnamese":"(động từ): đánh bại"},
+
+
+{"english":"beat down",
+"vietnamese":"(pv): tỏa nắng, mưa to, giảm giá thứ gì đó nhờ mặc cả"},
+
+
+{"english":"beat off",
+"vietnamese":"(pv): thành công trong việc vượt qua/ngăn cản"},
+
+
+{"english":"beat out",
+"vietnamese":"(pv): đánh trống, dập lửa bằng cái gì"},
+
+
+{"english":"beat st out of sb",
+"vietnamese":"(pv): đánh ai đó bắt khai ra"},
+
+
+{"english":"beat up sb or beat sb up",
+"vietnamese":"(pv): trách mắng vô cớ, đánh đấm liên tục( vào ai)"},
+
+
+{"english":"bright",
+"vietnamese":"(tính từ): sáng chói"},
+
+
+{"english":"celebrate",
+"vietnamese":"(động từ): làm lễ kỷ niệm"},
+
+
+{"english":"determine",
+"vietnamese":"(động từ): quyết tâm"},
+
+
+{"english":"disappear",
+"vietnamese":"(động từ): biến mất"},
+
+
+{"english":"else",
+"vietnamese":"(phó từ): khác nữa"},
+
+
+{"english":"fair",
+"vietnamese":"(tính từ): công bằng"},
+
+
+{"english":"flow",
+"vietnamese":"(động từ): chảy"},
+
+
+{"english":"forward",
+"vietnamese":"(giới từ): về phía trước"},
+
+
+{"english":"hill",
+"vietnamese":"(danh từ): đồi"},
+
+
+{"english":"level",
+"vietnamese":"(danh từ): mức"},
+
+
+{"english":"level against/at",
+"vietnamese":"(pv): nhắm vào, ai thứ gì, buộc tội tố cáo"},
+
+
+{"english":"level down",
+"vietnamese":"(pv): trở nên tồi tệ, dở hơi"},
+
+
+{"english":"level off/out",
+"vietnamese":"(pv): ổn định, bình ổn, giữ nguyên, san bằng"},
+
+
+{"english":"level up",
+"vietnamese":"(pv): tăng/cải thiện"},
+
+
+{"english":"level with",
+"vietnamese":"(pv): nói sự thật, tiết lộ"},
+
+
+{"english":"lone",
+"vietnamese":"(tính từ): đơn độc"},
+
+
+{"english":"puddle",
+"vietnamese":"(danh từ): vũng nước mưa"},
+
+
+{"english":"response",
+"vietnamese":"(danh từ): phản hồi"},
+
+
+{"english":"season",
+"vietnamese":"(danh từ): mùa"},
+
+
+{"english":"solution",
+"vietnamese":"(danh từ): giải pháp"},
+
+
+{"english":"waste",
+"vietnamese":"(động từ): phung phí"},
+
+
+{"english":"whether",
+"vietnamese":"(liên từ): có hay không"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"beneficial",
+"vietnamese":"adj. có ích"},
+
+
+{"english":"birthplace",
+"vietnamese":"n. nơi sinh"},
+
+
+{"english":"capacity",
+"vietnamese":"n. khả năng, dung lượng"},
+
+
+{"english":"comparative",
+"vietnamese":"adj. so sánh"},
+
+
+{"english":"comprehensive",
+"vietnamese":"adj. toàn diện"},
+
+
+{"english":"conserve",
+"vietnamese":"v. bảo quản, bảo tồn"},
+
+
+{"english":"crucial",
+"vietnamese":"adj. chủ yếu"},
+
+
+{"english":"cumulative",
+"vietnamese":"adj. tích lũy"},
+
+
+{"english":"deposit",
+"vietnamese":"v. tiền cọc"},
+
+
+{"english":"distribute",
+"vietnamese":"v. phân phối"},
+
+
+{"english":"equator",
+"vietnamese":"n. xích đạo"},
+
+
+{"english":"exotic",
+"vietnamese":"adj. kỳ lạ"},
+
+
+{"english":"federal",
+"vietnamese":"adj. liên bang"},
+
+
+{"english":"formation",
+"vietnamese":"n. sự hình thành"},
+
+
+{"english":"frequency",
+"vietnamese":"n. tần số"},
+
+
+{"english":"objective",
+"vietnamese":"adj. mục tiêu"},
+
+
+{"english":"oxygen",
+"vietnamese":"n. oxy"},
+
+
+{"english":"rainforest",
+"vietnamese":"n. rừng mưa nhiệt đới"},
+
+
+{"english":"strategy",
+"vietnamese":"n. chiến lược"},
+
+
+{"english":"wooded",
+"vietnamese":"adj. rừng rậm"}
+
+
+]

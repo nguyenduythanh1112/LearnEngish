@@ -1,0 +1,82 @@
+[
+{"english":"altitude",
+"vietnamese":"n. độ cao"},
+
+
+{"english":"coastline",
+"vietnamese":"n. đường bờ biển"},
+
+
+{"english":"deter",
+"vietnamese":"v. ngăn chặn"},
+
+
+{"english":"devise",
+"vietnamese":"v. nghĩ ra"},
+
+
+{"english":"expertise",
+"vietnamese":"n. chuyên môn"},
+
+
+{"english":"fracture",
+"vietnamese":"n. gãy"},
+
+
+{"english":"impair",
+"vietnamese":"v. làm suy yếu"},
+
+
+{"english":"implement",
+"vietnamese":"v. thực hiện"},
+
+
+{"english":"indigenous",
+"vietnamese":"adj. bản xứ, bản địa"},
+
+
+{"english":"insight",
+"vietnamese":"n. cái nhìn sâu sắc"},
+
+
+{"english":"limb",
+"vietnamese":"n. chi"},
+
+
+{"english":"migraine",
+"vietnamese":"n. đau nửa đầu"},
+
+
+{"english":"optimism",
+"vietnamese":"n. lạc quan"},
+
+
+{"english":"peculiar",
+"vietnamese":"adj. đặc biệt"},
+
+
+{"english":"proficient",
+"vietnamese":"adj. thành thạo"},
+
+
+{"english":"quest",
+"vietnamese":"n. nhiệm vụ, thám hiện, cuộc điều tra"},
+
+
+{"english":"ridge",
+"vietnamese":"n. sườn núi"},
+
+
+{"english":"spouse",
+"vietnamese":"n. vợ chồng"},
+
+
+{"english":"thrust",
+"vietnamese":"v. đẩy"},
+
+
+{"english":"tolerate",
+"vietnamese":"v. chịu đựng"}
+
+
+]

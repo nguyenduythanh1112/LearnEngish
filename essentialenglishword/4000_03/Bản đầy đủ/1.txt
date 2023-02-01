@@ -1,0 +1,44 @@
+1.
+public class BookItem{
+	int id;
+	String author;
+	String price;
+}
+public class CartItem{
+	int id;
+	int idBookItem;
+	int idCart;
+	int quantity;
+}
+public class Cart{
+	int id;
+}
+
+
+2.
+public class BookItem{
+	int id;
+	String author;
+	String price;
+}
+public class CartItem{
+	int id;
+	int quantity;
+}
+public class Cart{
+	int id;
+}
+
+3.
+public class BookItem{
+	int id;
+	String author;
+	String price;
+	int quantity;
+	
+}
+public class Cart{
+	int id;
+	List<BookItem> bookItems;
+	
+}

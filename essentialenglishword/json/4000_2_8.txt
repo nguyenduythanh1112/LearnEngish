@@ -1,0 +1,82 @@
+[
+{"english":"broad",
+"vietnamese":"adj.rộng lớn"},
+
+
+{"english":"bush",
+"vietnamese":"n.bụi cây"},
+
+
+{"english":"capable",
+"vietnamese":"adj.có khả năng"},
+
+
+{"english":"cheat",
+"vietnamese":"v.đánh lừa, lừa đảo"},
+
+
+{"english":"concentrate",
+"vietnamese":"v.tập chung"},
+
+
+{"english":"conclude",
+"vietnamese":"v.kết luận"},
+
+
+{"english":"confident",
+"vietnamese":"adj.tự tin"},
+
+
+{"english":"considerable",
+"vietnamese":"adj.to tác, đáng kể"},
+
+
+{"english":"convey",
+"vietnamese":"v.truyền đạt"},
+
+
+{"english":"definite",
+"vietnamese":"adj.xác định"},
+
+
+{"english":"delight",
+"vietnamese":"n.sự vui mừng"},
+
+
+{"english":"destination",
+"vietnamese":"n.đích đến"},
+
+
+{"english":"dictate",
+"vietnamese":"v.đọc cho viết, đọc chính tả, ra lệnh"},
+
+
+{"english":"edge",
+"vietnamese":"n.cạnh, mép"},
+
+
+{"english":"path",
+"vietnamese":"n.con đường"},
+
+
+{"english":"resort",
+"vietnamese":"v.phương sách, cách giải quyết một vấn đề"},
+
+
+{"english":"shadow",
+"vietnamese":"n.bóng"},
+
+
+{"english":"succeed",
+"vietnamese":"v.thành công"},
+
+
+{"english":"suspect",
+"vietnamese":"v.nghi ngờ, khả nghi"},
+
+
+{"english":"valley",
+"vietnamese":"n.thung lũng"}
+
+
+]

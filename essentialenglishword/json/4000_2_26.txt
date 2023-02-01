@@ -1,0 +1,82 @@
+[
+{"english":"accuse",
+"vietnamese":"v. cáo buộc"},
+
+
+{"english":"adjust",
+"vietnamese":"v. điều chỉnh"},
+
+
+{"english":"amuse",
+"vietnamese":"v. làm vui, làm thích thú"},
+
+
+{"english":"coral",
+"vietnamese":"n. san hô"},
+
+
+{"english":"cotton",
+"vietnamese":"n. bông, bông vải"},
+
+
+{"english":"crash",
+"vietnamese":"v. tai nạn"},
+
+
+{"english":"deck",
+"vietnamese":"n. boong tàu"},
+
+
+{"english":"engage",
+"vietnamese":"v. bận việc"},
+
+
+{"english":"firm",
+"vietnamese":"adj. chắc chắn"},
+
+
+{"english":"fuel",
+"vietnamese":"n. nhiên liệu"},
+
+
+{"english":"grand",
+"vietnamese":"adj. lớn"},
+
+
+{"english":"hurricane",
+"vietnamese":"n. cuồng phong, bão"},
+
+
+{"english":"loss",
+"vietnamese":"n. mất mát"},
+
+
+{"english":"plain",
+"vietnamese":"adj. trơn, đơn giản, giản dị"},
+
+
+{"english":"reef",
+"vietnamese":"n. rặng san hô"},
+
+
+{"english":"shut",
+"vietnamese":"v. đóng cửa"},
+
+
+{"english":"strict",
+"vietnamese":"adj. nghiêm chặt"},
+
+
+{"english":"surf",
+"vietnamese":"v. lướt sóng"},
+
+
+{"english":"task",
+"vietnamese":"n. công việc"},
+
+
+{"english":"zone",
+"vietnamese":"n. khu vực"}
+
+
+]

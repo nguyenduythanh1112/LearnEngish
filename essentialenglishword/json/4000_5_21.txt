@@ -1,0 +1,82 @@
+[
+{"english":"astounded",
+"vietnamese":"adj. kinh ngạc"},
+
+
+{"english":"attribute",
+"vietnamese":"n. thuộc tính"},
+
+
+{"english":"bilingual",
+"vietnamese":"adj. song ngữ"},
+
+
+{"english":"clone",
+"vietnamese":"n. bản sao"},
+
+
+{"english":"colloquial",
+"vietnamese":"adj. thông tục"},
+
+
+{"english":"cosmetics",
+"vietnamese":"n. phấn sáp, mỹ phẩm"},
+
+
+{"english":"dash",
+"vietnamese":"v. lao tới, xông tới"},
+
+
+{"english":"disgust",
+"vietnamese":"n. chán ghét, ghê tởm"},
+
+
+{"english":"fluorescent",
+"vietnamese":"adj. huỳnh quang"},
+
+
+{"english":"furious",
+"vietnamese":"adj. giận dữ"},
+
+
+{"english":"gulf",
+"vietnamese":"n. vịnh, số sâu, vực thẳm"},
+
+
+{"english":"humanities",
+"vietnamese":"n. nhân văn"},
+
+
+{"english":"knot",
+"vietnamese":"n. nút thắt"},
+
+
+{"english":"linguist",
+"vietnamese":"n. nhà ngôn ngôn học"},
+
+
+{"english":"participant",
+"vietnamese":"n. người tham gia"},
+
+
+{"english":"plausible",
+"vietnamese":"adj. hợp lý"},
+
+
+{"english":"ritual",
+"vietnamese":"n. nghi lễ"},
+
+
+{"english":"sibling",
+"vietnamese":"n. anh chị em"},
+
+
+{"english":"skinny",
+"vietnamese":"adj. gầy gò"},
+
+
+{"english":"vague",
+"vietnamese":"adj. mơ hồ"}
+
+
+]

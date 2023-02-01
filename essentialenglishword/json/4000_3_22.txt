@@ -1,0 +1,82 @@
+[
+{"english":"accommodate",
+"vietnamese":"v. chứa"},
+
+
+{"english":"circus",
+"vietnamese":"n. rạp xiếc"},
+
+
+{"english":"coincide",
+"vietnamese":"v. trùng hợp"},
+
+
+{"english":"commission",
+"vietnamese":"v. ủy nhiệm, ủy thác"},
+
+
+{"english":"dose",
+"vietnamese":"n. liều lượng"},
+
+
+{"english":"dye",
+"vietnamese":"v. nhuộm"},
+
+
+{"english":"extent",
+"vietnamese":"n. mức độ"},
+
+
+{"english":"gender",
+"vietnamese":"n. giới tính"},
+
+
+{"english":"headline",
+"vietnamese":"n. tiêu đề"},
+
+
+{"english":"informal",
+"vietnamese":"adj. không chính thức"},
+
+
+{"english":"inquire",
+"vietnamese":"v. hỏi thăm"},
+
+
+{"english":"messenger",
+"vietnamese":"n. người đưa tin"},
+
+
+{"english":"peer",
+"vietnamese":"v. nhìn chăm chú"},
+
+
+{"english":"portrait",
+"vietnamese":"n. chân dung"},
+
+
+{"english":"pose",
+"vietnamese":"v. tạo dáng"},
+
+
+{"english":"ranch",
+"vietnamese":"n. trang trại chăn nuôi"},
+
+
+{"english":"steer",
+"vietnamese":"v. chỉ đạo"},
+
+
+{"english":"stripe",
+"vietnamese":"n. vạch sọc"},
+
+
+{"english":"tame",
+"vietnamese":"adj. thuần hóa"},
+
+
+{"english":"tempt",
+"vietnamese":"v. cám dỗ"}
+
+
+]

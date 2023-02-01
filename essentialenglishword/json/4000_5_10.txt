@@ -1,0 +1,82 @@
+[
+{"english":"accountant",
+"vietnamese":"n. kế toán"},
+
+
+{"english":"capitalist",
+"vietnamese":"n. tư bản"},
+
+
+{"english":"contempt",
+"vietnamese":"n. sự khinh thường"},
+
+
+{"english":"dedicate",
+"vietnamese":"v. hiến dâng"},
+
+
+{"english":"ditch",
+"vietnamese":"n. mương"},
+
+
+{"english":"enterprise",
+"vietnamese":"n. xí nghiệp, doanh nghiệp"},
+
+
+{"english":"exquisite",
+"vietnamese":"adj. tinh tế"},
+
+
+{"english":"finance",
+"vietnamese":"v. tài chính"},
+
+
+{"english":"indifferent",
+"vietnamese":"adj. thờ ơ"},
+
+
+{"english":"irrigate",
+"vietnamese":"v. tưới nước"},
+
+
+{"english":"maximize",
+"vietnamese":"v. tối đa hóa"},
+
+
+{"english":"monetary",
+"vietnamese":"adj. tiền tệ"},
+
+
+{"english":"precaution",
+"vietnamese":"n. phòng ngừa"},
+
+
+{"english":"preliminary",
+"vietnamese":"adj. sơ bộ"},
+
+
+{"english":"saturate",
+"vietnamese":"v. bão hòa"},
+
+
+{"english":"simplicity",
+"vietnamese":"n. tính đơn giản"},
+
+
+{"english":"sow",
+"vietnamese":"v. gieo"},
+
+
+{"english":"soy",
+"vietnamese":"n. đậu nành"},
+
+
+{"english":"spade",
+"vietnamese":"n. xẻng"},
+
+
+{"english":"upcoming",
+"vietnamese":"adj. sắp tới"}
+
+
+]

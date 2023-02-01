@@ -1,0 +1,82 @@
+[
+{"english":"armor",
+"vietnamese":"n. áo giáp"},
+
+
+{"english":"blaze",
+"vietnamese":"v. bùng cháy"},
+
+
+{"english":"boom",
+"vietnamese":"v. bùng nổ"},
+
+
+{"english":"cliff",
+"vietnamese":"n. vách đá"},
+
+
+{"english":"flame",
+"vietnamese":"n. ngọn lửa"},
+
+
+{"english":"independence",
+"vietnamese":"adj. sự độc lập"},
+
+
+{"english":"invasion",
+"vietnamese":"n. cuộc xâm lăng"},
+
+
+{"english":"knight",
+"vietnamese":"n. hiệp sỹ"},
+
+
+{"english":"lightning",
+"vietnamese":"n. tia chớp"},
+
+
+{"english":"rebel",
+"vietnamese":"n. người làm loạn"},
+
+
+{"english":"retreat",
+"vietnamese":"v. tháo lui, rút lui"},
+
+
+{"english":"revolution",
+"vietnamese":"n. cuộc cách mạng"},
+
+
+{"english":"spear",
+"vietnamese":"n. gương, giáo"},
+
+
+{"english":"steep",
+"vietnamese":"adj. dốc đứng"},
+
+
+{"english":"summit",
+"vietnamese":"n. đỉnh núi"},
+
+
+{"english":"thunder",
+"vietnamese":"n. sấm sét"},
+
+
+{"english":"troops",
+"vietnamese":"n. quân đội"},
+
+
+{"english":"warrior",
+"vietnamese":"n. chiến binh"},
+
+
+{"english":"withdraw",
+"vietnamese":"v. rút"},
+
+
+{"english":"yield",
+"vietnamese":"v. năng suất"}
+
+
+]

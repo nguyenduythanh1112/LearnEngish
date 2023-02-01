@@ -1,0 +1,82 @@
+[
+{"english":"adept",
+"vietnamese":"adj. thành thạo"},
+
+
+{"english":"barren",
+"vietnamese":"adj. cằn cỗi"},
+
+
+{"english":"ceramic",
+"vietnamese":"adj. gốm"},
+
+
+{"english":"culinary",
+"vietnamese":"adj. ẩm thực"},
+
+
+{"english":"dense",
+"vietnamese":"adj. dày đăch, rậm rạp"},
+
+
+{"english":"dignity",
+"vietnamese":"n. nghêm túc, vẻ trang nghiêm"},
+
+
+{"english":"dominate",
+"vietnamese":"v. thống trị"},
+
+
+{"english":"edible",
+"vietnamese":"adj. ăn được"},
+
+
+{"english":"hostile",
+"vietnamese":"adj. thù địch, không than thiện"},
+
+
+{"english":"intake",
+"vietnamese":"n. lượng ăn uống"},
+
+
+{"english":"likewise",
+"vietnamese":"adv. tương tự"},
+
+
+{"english":"malnutrition",
+"vietnamese":"n. suy dinh dưỡng"},
+
+
+{"english":"medication",
+"vietnamese":"n. thuốc"},
+
+
+{"english":"misconception",
+"vietnamese":"n. quan niệm sai lầm"},
+
+
+{"english":"obscure",
+"vietnamese":"adj. mờ mịt, ít người biết đến"},
+
+
+{"english":"oppress",
+"vietnamese":"v. đàn áp"},
+
+
+{"english":"peel",
+"vietnamese":"v. bóc, gọt vỏ"},
+
+
+{"english":"prescription",
+"vietnamese":"n. toa thuốc, đơn thuốc"},
+
+
+{"english":"respirator",
+"vietnamese":"n. mặt nạ phòng độc"},
+
+
+{"english":"strive",
+"vietnamese":"v. cố gắng, phấn đấu"}
+
+
+]

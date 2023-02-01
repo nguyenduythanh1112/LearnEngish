@@ -1,0 +1,82 @@
+[
+{"english":"associate",
+"vietnamese":"(động từ): liên kết"},
+
+
+{"english":"environment",
+"vietnamese":"(danh từ): môi trường"},
+
+
+{"english":"factory",
+"vietnamese":"(danh từ): nhà máy"},
+
+
+{"english":"feature",
+"vietnamese":"(danh từ): đặc tính, tính năng"},
+
+
+{"english":"instance",
+"vietnamese":"(danh từ): ví dụ, trường hợp"},
+
+
+{"english":"involve",
+"vietnamese":"(động từ): tham gia vào, liên quan đến"},
+
+
+{"english":"medicine",
+"vietnamese":"(danh từ): thuốc"},
+
+
+{"english":"mix",
+"vietnamese":"(danh từ): hỗn hợp"},
+
+
+{"english":"organize",
+"vietnamese":"(động từ): tổ chức"},
+
+
+{"english":"period",
+"vietnamese":"(danh từ): giai đoạn"},
+
+
+{"english":"populate",
+"vietnamese":"(động từ): sinh sống"},
+
+
+{"english":"produce",
+"vietnamese":"(động từ): tạo ra, sản xuất"},
+
+
+{"english":"range",
+"vietnamese":"(danh từ): một loạt"},
+
+
+{"english":"recognize",
+"vietnamese":"(động từ): nhận ra"},
+
+
+{"english":"regular",
+"vietnamese":"(phó từ): thường xuyên"},
+
+
+{"english":"sign",
+"vietnamese":"(danh từ): dấu hiệu"},
+
+
+{"english":"tip",
+"vietnamese":"(danh từ): đầu nhọn"},
+
+
+{"english":"tradition",
+"vietnamese":"(danh từ): truyền thống"},
+
+
+{"english":"trash",
+"vietnamese":"(danh từ): rác"},
+
+
+{"english":"wide",
+"vietnamese":"(tính từ): rộng"}
+
+
+]

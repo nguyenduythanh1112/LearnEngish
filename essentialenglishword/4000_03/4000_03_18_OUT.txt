@@ -1,0 +1,40 @@
+armor
+n. áo giáp ( _ _ _ _ r )
+blaze
+v. bùng cháy ( b _ _ _ _ )
+boom
+v. bùng nổ ( _ _ o _ )
+cliff
+n. vách đá ( c _ _ _ _ )
+flame
+n. ngọn lửa ( _ _ a _ _ )
+independence
+adj. sự độc lập ( _ _ _ _ _ e _ d e _ _ _ )
+invasion
+n. cuộc xâm lăng ( _ _ _ _ _ i o _ )
+knight
+n. hiệp sỹ ( _ _ _ g _ _ )
+lightning
+n. tia chớp ( _ i _ _ t _ _ _ _ )
+rebel
+n. người làm loạn ( r _ _ _ _ )
+retreat
+v. tháo lui, rút lui ( _ _ t _ _ _ _ )
+revolution
+n. cuộc cách mạng ( _ _ _ _ _ _ _ i _ n )
+spear
+n. gương, giáo ( _ _ e _ _ )
+steep
+adj. dốc đứng ( _ _ _ e _ )
+summit
+n. đỉnh núi ( _ _ _ _ _ t )
+thunder
+n. sấm sét ( _ _ _ n _ _ _ )
+troops
+n. quân đội ( _ _ o _ _ _ )
+warrior
+n. chiến binh ( w _ _ _ _ _ _ )
+withdraw
+v. rút ( w _ _ h _ _ _ _ )
+yield
+v. năng suất ( _ _ _ l _ )

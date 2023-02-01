@@ -1,0 +1,82 @@
+[
+{"english":"adapt",
+"vietnamese":"v. thích nghi"},
+
+
+{"english":"biological",
+"vietnamese":"adj. sinh học"},
+
+
+{"english":"cellular",
+"vietnamese":"adj. tế bào"},
+
+
+{"english":"dynamic",
+"vietnamese":"adj. năng động"},
+
+
+{"english":"fantasy",
+"vietnamese":"n. tưởng tượng"},
+
+
+{"english":"heredity",
+"vietnamese":"n. di truyền"},
+
+
+{"english":"internal",
+"vietnamese":"adj. nộ bộ"},
+
+
+{"english":"minimal",
+"vietnamese":"adj. tối thiểu"},
+
+
+{"english":"pioneer",
+"vietnamese":"n. người tình nguyện"},
+
+
+{"english":"prescribe",
+"vietnamese":"v. kê đơn"},
+
+
+{"english":"respective",
+"vietnamese":"adj. tương ứng"},
+
+
+{"english":"revive",
+"vietnamese":"v. khôi phục, hồi sinh"},
+
+
+{"english":"rigid",
+"vietnamese":"adj. cứng nhắc"},
+
+
+{"english":"sequence",
+"vietnamese":"n. chuỗi, dãy"},
+
+
+{"english":"substitute",
+"vietnamese":"v. thay thế"},
+
+
+{"english":"surgeon",
+"vietnamese":"n. bác sĩ phẫu thuật"},
+
+
+{"english":"therapy",
+"vietnamese":"n. liệu pháp"},
+
+
+{"english":"transfer",
+"vietnamese":"v. chuyển"},
+
+
+{"english":"transition",
+"vietnamese":"n. sự chuyển tiếp"},
+
+
+{"english":"transplant",
+"vietnamese":"n. cấy nghép"}
+
+
+]

@@ -1,0 +1,82 @@
+[
+{"english":"alley",
+"vietnamese":"n.  con hẻm"},
+
+
+{"english":"ax",
+"vietnamese":"n. rìu"},
+
+
+{"english":"bunch",
+"vietnamese":"n. chùm, bó"},
+
+
+{"english":"chore",
+"vietnamese":"n. công việc nhà, việc vặt"},
+
+
+{"english":"decent",
+"vietnamese":"adj. hợp lệ, kha khá, tươm tất"},
+
+
+{"english":"disgrace",
+"vietnamese":"n. nhục nhã, xấu hổ"},
+
+
+{"english":"elbow",
+"vietnamese":"n. khuỷu tay"},
+
+
+{"english":"grateful",
+"vietnamese":"adj. biết ơn"},
+
+
+{"english":"irritate",
+"vietnamese":"v. kích thích, làm phát cáu"},
+
+
+{"english":"kid",
+"vietnamese":"v. nói đùa"},
+
+
+{"english":"loose",
+"vietnamese":"adj. lung lay, lỏng lẻo"},
+
+
+{"english":"offend",
+"vietnamese":"v. xúc phạm"},
+
+
+{"english":"overnight",
+"vietnamese":"adv. qua đêm"},
+
+
+{"english":"persist",
+"vietnamese":"v. kiên trì"},
+
+
+{"english":"pine",
+"vietnamese":"n. cây thông"},
+
+
+{"english":"scar",
+"vietnamese":"n. vết sẹo"},
+
+
+{"english":"sensation",
+"vietnamese":"n. cảm giác"},
+
+
+{"english":"sled",
+"vietnamese":"n. xe trượt tuyết"},
+
+
+{"english":"tease",
+"vietnamese":"v. chọc ghẹo"},
+
+
+{"english":"valentine",
+"vietnamese":"n. valentine"}
+
+
+]

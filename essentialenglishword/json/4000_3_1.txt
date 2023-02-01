@@ -1,0 +1,82 @@
+[
+{"english":"arise",
+"vietnamese":"v. phát sinh, nảy sinh"},
+
+
+{"english":"benefactor",
+"vietnamese":"n. nhà hảo tâm"},
+
+
+{"english":"blacksmith",
+"vietnamese":"n. thợ rèn"},
+
+
+{"english":"charitable",
+"vietnamese":"adj. từ thiện"},
+
+
+{"english":"chimney",
+"vietnamese":"n. ống khói"},
+
+
+{"english":"compensate",
+"vietnamese":"v. đền bù, bồi thưởng, thưởng công"},
+
+
+{"english":"encounter",
+"vietnamese":"v. gặp gỡ"},
+
+
+{"english":"exceed",
+"vietnamese":"v. vượt quá"},
+
+
+{"english":"forge",
+"vietnamese":"v. rèn, tạo ra"},
+
+
+{"english":"humble",
+"vietnamese":"adj. khiêm tốn"},
+
+
+{"english":"iron",
+"vietnamese":"n. sắt"},
+
+
+{"english":"ladder",
+"vietnamese":"n. thang"},
+
+
+{"english":"modest",
+"vietnamese":"adj. khiêm tốn"},
+
+
+{"english":"occupy",
+"vietnamese":"v. chiếm đóng, giữ"},
+
+
+{"english":"penny",
+"vietnamese":"n. đồng xu"},
+
+
+{"english":"preach",
+"vietnamese":"v. thuyết giảng"},
+
+
+{"english":"prosper",
+"vietnamese":"v. thịnh vượng"},
+
+
+{"english":"province",
+"vietnamese":"n. tỉnh, thành phố"},
+
+
+{"english":"satisfaction",
+"vietnamese":"n. sự hài lòng"},
+
+
+{"english":"sustain",
+"vietnamese":"v. duy trì"}
+
+
+]

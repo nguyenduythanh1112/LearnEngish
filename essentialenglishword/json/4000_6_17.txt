@@ -1,0 +1,82 @@
+[
+{"english":"accelerate",
+"vietnamese":"v. tăng tốc"},
+
+
+{"english":"anew",
+"vietnamese":"adv. một lần nữa"},
+
+
+{"english":"defect",
+"vietnamese":"n. thiếu sót"},
+
+
+{"english":"dreary",
+"vietnamese":"adj. âm u, ảm đạm"},
+
+
+{"english":"duplicate",
+"vietnamese":"v. bản sao"},
+
+
+{"english":"electromagnetic",
+"vietnamese":"adj. điện từ"},
+
+
+{"english":"electron",
+"vietnamese":"n. điện tử"},
+
+
+{"english":"glide",
+"vietnamese":"v. lướt, lượn"},
+
+
+{"english":"ingenious",
+"vietnamese":"adj. khéo léo"},
+
+
+{"english":"innovation",
+"vietnamese":"n. sự đổi mới"},
+
+
+{"english":"innovative",
+"vietnamese":"adj. sáng tạo"},
+
+
+{"english":"launch",
+"vietnamese":"v. khởi động, chạy"},
+
+
+{"english":"meteorological",
+"vietnamese":"adj. khí tượng"},
+
+
+{"english":"meteorology",
+"vietnamese":"n. khí tượng học"},
+
+
+{"english":"penetrate",
+"vietnamese":"v. thấm thía"},
+
+
+{"english":"propulsion",
+"vietnamese":"n. sự đẩy"},
+
+
+{"english":"simulate",
+"vietnamese":"v. mô phỏng"},
+
+
+{"english":"spur",
+"vietnamese":"v. thúc đẩy"},
+
+
+{"english":"stimulate",
+"vietnamese":"v. kích thích"},
+
+
+{"english":"tenacious",
+"vietnamese":"adj. ngoan cường"}
+
+
+]

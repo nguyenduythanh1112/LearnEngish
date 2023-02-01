@@ -1,0 +1,82 @@
+[
+{"english":"charity",
+"vietnamese":"n. từ thiện"},
+
+
+{"english":"commerce",
+"vietnamese":"n. thương mại"},
+
+
+{"english":"condemn",
+"vietnamese":"v. kết án"},
+
+
+{"english":"cozy",
+"vietnamese":"adj. ấm cúng"},
+
+
+{"english":"deplete",
+"vietnamese":"v. cạn kiệt"},
+
+
+{"english":"economy",
+"vietnamese":"n. nền kinh tế"},
+
+
+{"english":"empire",
+"vietnamese":"n. đế quốc, đế chế"},
+
+
+{"english":"goods",
+"vietnamese":"n. hàng hoá"},
+
+
+{"english":"heed",
+"vietnamese":"v. chú ý"},
+
+
+{"english":"hitchhike",
+"vietnamese":"v. quá giang, đi nhờ"},
+
+
+{"english":"mock",
+"vietnamese":"v. chế nhạo"},
+
+
+{"english":"neutral",
+"vietnamese":"adj. trung lập"},
+
+
+{"english":"persecute",
+"vietnamese":"v. ngược đãi"},
+
+
+{"english":"pity",
+"vietnamese":"n. thương hại"},
+
+
+{"english":"reduce",
+"vietnamese":"v. giảm"},
+
+
+{"english":"scribe",
+"vietnamese":"n. scribe"},
+
+
+{"english":"temper",
+"vietnamese":"n. tâm trạng"},
+
+
+{"english":"throne",
+"vietnamese":"n. ngai, ngôi"},
+
+
+{"english":"unity",
+"vietnamese":"n. sự thống nhất"},
+
+
+{"english":"victor",
+"vietnamese":"n. người, nhóm người chiến thắng"}
+
+
+]

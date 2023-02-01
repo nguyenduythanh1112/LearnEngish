@@ -1,0 +1,59 @@
+aggregate
+adj. tổng
+
+antibiotic
+n. kháng sinh
+
+circuit
+n. mạch điện
+
+complement
+v. bổ sung
+
+compress
+v. nén
+
+database
+n. cơ sở dữ liệu
+
+equivalent
+n. tương đương
+
+immune
+adj. miễn dịch
+
+input
+n. đầu vào
+
+intimate
+adj. thân mật
+
+magnet
+n. nam châm
+
+metabolism
+n. trao đổi chất
+
+microchip
+n. vi mạch
+
+phase
+n. pha, giai đoạn
+
+pinch
+v. véo
+
+prevalent
+adj. Phổ biến
+
+quantum
+adj. lượng tử
+
+ratio
+n. tỉ lệ
+
+spiral
+n. xoắn ốc
+
+viral
+adj. virus

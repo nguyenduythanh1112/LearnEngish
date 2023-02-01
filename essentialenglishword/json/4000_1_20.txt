@@ -1,0 +1,114 @@
+[
+{"english":"achieve",
+"vietnamese":"(động từ): đạt được"},
+
+
+{"english":"advise",
+"vietnamese":"(động từ): khuyên bảo"},
+
+
+{"english":"already",
+"vietnamese":"(phó từ): đã, đã rồi"},
+
+
+{"english":"basic",
+"vietnamese":"(tính từ): cơ bản"},
+
+
+{"english":"bit",
+"vietnamese":"(danh từ): một chút"},
+
+
+{"english":"consider",
+"vietnamese":"(động từ): cân nhắc"},
+
+
+{"english":"destroy",
+"vietnamese":"(động từ): phá hủy"},
+
+
+{"english":"entertain",
+"vietnamese":"(động từ): làm trò, giải trí"},
+
+
+{"english":"extra",
+"vietnamese":"(tính từ): thêm, được bổ sung them"},
+
+
+{"english":"goal",
+"vietnamese":"(danh từ): mục tiêu"},
+
+
+{"english":"lie",
+"vietnamese":"(động từ): nói dối"},
+
+
+{"english":"lie about",
+"vietnamese":"(pv): bị bỏ ở những nơi không nên ở, dành thời gian thư dãn"},
+
+
+{"english":"lie ahead",
+"vietnamese":"(pv): sẽ xảy ra với ai đó trong tương lai"},
+
+
+{"english":"lie back",
+"vietnamese":"(pv): tựa lưng vào cái gì, ngả lưng"},
+
+
+{"english":"lie behind",
+"vietnamese":"(pv): là lý do thực sự của một quyết định hoặc hành động"},
+
+
+{"english":"lie down",
+"vietnamese":"(pv): nằm xuống"},
+
+
+{"english":"lie in",
+"vietnamese":"(pv): ngủ nướng"},
+
+
+{"english":"lie up",
+"vietnamese":"(pv): trốn khỏi ai đang tìm bạn"},
+
+
+{"english":"lie with",
+"vietnamese":"(pv): là nhiệm vụ hay trách nhiệm của ai đó"},
+
+
+{"english":"meal",
+"vietnamese":"(danh từ): bữa ăn"},
+
+
+{"english":"opinion",
+"vietnamese":"(danh từ): quan điểm"},
+
+
+{"english":"real",
+"vietnamese":"(tính từ): có thật"},
+
+
+{"english":"reflect",
+"vietnamese":"(động từ): phản chiếu"},
+
+
+{"english":"regard",
+"vietnamese":"(động từ): coi (cái gì) là"},
+
+
+{"english":"serve",
+"vietnamese":"(động từ): phục vụ"},
+
+
+{"english":"vegetable",
+"vietnamese":"(danh từ): rau củ"},
+
+
+{"english":"war",
+"vietnamese":"(danh từ): chiến tranh"},
+
+
+{"english":"worth",
+"vietnamese":"(tính từ): đáng giá"}
+
+
+]

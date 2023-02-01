@@ -1,0 +1,82 @@
+[
+{"english":"absolute",
+"vietnamese":"adj. tuyệt đối"},
+
+
+{"english":"alas",
+"vietnamese":"int. alas"},
+
+
+{"english":"attentive",
+"vietnamese":"adj. chăm chú"},
+
+
+{"english":"cape",
+"vietnamese":"n. áo choàng"},
+
+
+{"english":"envision",
+"vietnamese":"v. hình dung"},
+
+
+{"english":"evenly",
+"vietnamese":"adv. đồng đều"},
+
+
+{"english":"folk",
+"vietnamese":"n. dân gian, dân tộc"},
+
+
+{"english":"melt",
+"vietnamese":"v. tan chảy"},
+
+
+{"english":"patch",
+"vietnamese":"n. miếng vá"},
+
+
+{"english":"pleasure",
+"vietnamese":"n. niềm vui thích"},
+
+
+{"english":"pop",
+"vietnamese":"n. tiếng nổ, tiếng pop"},
+
+
+{"english":"pudding",
+"vietnamese":"n. bánh tráng miệng ngọt"},
+
+
+{"english":"rail",
+"vietnamese":"n. thanh chắn"},
+
+
+{"english":"recipe",
+"vietnamese":"n. công thức"},
+
+
+{"english":"role",
+"vietnamese":"n. vai trò"},
+
+
+{"english":"shrink",
+"vietnamese":"v. co lại"},
+
+
+{"english":"soak",
+"vietnamese":"v. ngâm"},
+
+
+{"english":"spark",
+"vietnamese":"n. tia lửa"},
+
+
+{"english":"spirit",
+"vietnamese":"n. tinh thần"},
+
+
+{"english":"suit",
+"vietnamese":"n. bộ đồ"}
+
+
+]

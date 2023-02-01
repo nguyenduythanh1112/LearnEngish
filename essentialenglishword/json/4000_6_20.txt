@@ -1,0 +1,82 @@
+[
+{"english":"adhesive",
+"vietnamese":"n. chất kết dính"},
+
+
+{"english":"adverse",
+"vietnamese":"adj. bất lợi"},
+
+
+{"english":"dependency",
+"vietnamese":"n. sự phụ thuộc"},
+
+
+{"english":"dump",
+"vietnamese":"v. đổ"},
+
+
+{"english":"eternal",
+"vietnamese":"adj. vĩnh cửu"},
+
+
+{"english":"fluctuate",
+"vietnamese":"v. dao động"},
+
+
+{"english":"fro",
+"vietnamese":"adv. đung đưa, đu đi"},
+
+
+{"english":"inclusion",
+"vietnamese":"n. bao gồm"},
+
+
+{"english":"intermediate",
+"vietnamese":"adj. trung gian"},
+
+
+{"english":"intermittent",
+"vietnamese":"adj. ngắt quãng, không liên tục"},
+
+
+{"english":"mentor",
+"vietnamese":"n. người cố vấn"},
+
+
+{"english":"phoenix",
+"vietnamese":"n. phượng hoàng"},
+
+
+{"english":"photosynthesis",
+"vietnamese":"n. quang hợp"},
+
+
+{"english":"pollen",
+"vietnamese":"n. phấn hoa"},
+
+
+{"english":"regain",
+"vietnamese":"v. lấy lại"},
+
+
+{"english":"reverse",
+"vietnamese":"v. đảo ngược"},
+
+
+{"english":"swarm",
+"vietnamese":"n. bầy, đàn"},
+
+
+{"english":"texture",
+"vietnamese":"n. kết cấu"},
+
+
+{"english":"tickle",
+"vietnamese":"v. cù"},
+
+
+{"english":"vibrant",
+"vietnamese":"adj. sôi động, rực rỡ"}
+
+
+]
