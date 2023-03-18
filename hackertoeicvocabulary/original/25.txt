@@ -1,0 +1,256 @@
+bus stop
+phr bến xe buýt
+busy street
+phr con đường đông đúc
+cab
+n xe taxi
+car rental
+phr dịch vụ cho thuê xe
+crosswalk
+n vạch cho người đi bộ sang đường
+free parking
+phr đỗ xe miễn phí
+gas station
+phr trạm đổ xăng
+get off
+phr xuống xe
+hang
+v treo, mắc
+heavy traffic
+phr xe cộ đông đúc
+highway
+n đường cái, đường quốc lộ
+on foot
+phr đi bộ
+park
+v đỗ xe
+path
+n con đường
+subway station
+phr ga tàu điện ngầm
+tour bus
+phr xe buýt du lịch
+traffic light
+phr đèn giao thông
+wall
+n tường, vách
+wash the car
+phr rửa xe
+wheel
+n bánh xe
+access to
+phr vào, tiếp cận
+cite
+v trích dẫn
+hood
+n nắp ca-pô (xe)
+inside
+prep ở trong, bên trong
+route
+n tuyến đường
+sharp
+adj sắc, nhọn
+solve
+v giải quyết
+stand
+v đứng
+across the street
+phr bên kia đường
+around the corner
+phr quanh góc phố, không xa lắm
+be closed to traffic
+phr cấm phương tiện giao thông
+be held up in traffic
+phr bị tắc đường
+be lined with
+phr thống nhất với
+broadcast
+v phát sóng; n buổi phát sóng
+bypass
+n đường vòng
+carpool
+v đi chung xe
+come to a standstill
+phr ngưng trệ, dừng lại
+commuter
+n người đi làm bằng vé tháng
+cross the street
+phr sang đường
+direct traffic
+phr điều khiển giao thông
+driver's license
+phr bằng lái xe
+driveway 
+n đường lái xe vào nhà
+driving direction
+phr hướng đi (xe)
+footrest (footstool)
+n ghế kê chân
+get a ride
+phr đi nhờ, quá giang
+get lost
+phr bị lạc
+get to
+phr tới đâu
+give A a ride
+phr cho A đi nhờ
+have a flat tire
+phr bị thủng lốp
+headlight
+n đèn pha (ô tô)
+land at the dock
+phr cập bến
+lane
+n làn đường
+lean over the railing
+phr tựa vào lan can
+license plate number
+phr biển số xe
+lock the key in the car
+phr để quên chìa khóa trong xe
+make a stop
+phr tạm dừng chân
+make a transfer
+phr chuyển xe
+march
+v diễu hành
+mileage
+n tổng số dặm xe đã đi
+navigation
+n tàu bè qua lại
+one-way ticket
+phr vé một chiều
+parking garage
+phr hầm đỗ xe
+pathway
+n đường mòn, đường nhỏ
+push one's way through
+phr chen qua, cố tìm đường qua
+ride away
+phr lái xe đi
+road sign
+phr biển báo giao thông
+roadwork (road construction)
+n việc làm đường/sửa đường
+shortcut
+n lối tắt
+stop at a light
+phr dừng chờ đèn tín hiệu
+stop for fuel
+phr dừng đổ xăng
+storage compartment
+phr ngăn lưu trữ
+street sign
+phr biển chỉ đường
+toll price
+phr phí cầu đường
+traffic jam
+phr tắc đường
+walk through 
+phr đi qua, bước qua
+walking distance
+phr quãng đường đi bộ
+walkway
+n đường dành cho người đi bộ
+windshield
+n kính chắn gió
+creation
+n sự sáng tạo, tạo vật
+motivate
+v thúc đẩy
+normal
+n tình trạng bình thường, mức bình thường
+still
+adj yên, tĩnh lặng; adv vẫn còn, thế mà
+traffic signal
+phe tín hiệu giao thông
+valuable
+adi quý giá, có thể định giá được
+volunteer
+n tình nguyện viên
+at full speed
+phr với vận tốc tối đa
+clear A from B
+phr dọn A khỏi B
+collide
+v va chạm, xung đột
+congested
+adj chật ních, đông nghịt
+encounter
+v bắt gặp, chạm trán
+move forward
+phr tiến lên
+principal ( primary) 
+adj chính, chủ yếu
+public transportation
+phr phương tiện giao thông công cộng
+standing room
+phr chỗ đứng
+steering wheel 
+phr vô lăng
+traffic congestion
+phr tắc nghẽn giao thông
+be towed away
+phr bị kéo đi
+bicycle rack 
+phr giá đỡ xe đạp
+carriage
+n cỗ xe, xe ngựa
+fuel-efficient
+adj tiết kiệm nhiên liệu
+navigate
+v lái, dẫn đường
+overnight express
+phr chuyển phát nhanh
+pass by
+phr ghé qua
+passerby
+n người qua đường
+pave
+v lát (đường, sàn)
+pedestrian
+n người đi bộ
+pull into
+phr đi vào, rẽ vào
+sidewalk 
+n vỉa hè, lề đường
+specialist
+n chuyên gia, chuyên viên
+spoke
+n nan hoa
+streetcar
+n xe điện
+towing service
+phr dịch vụ kéo xe
+wagon
+n xe kéo
+bear (carry)
+v mang, vác
+emphatic
+adj nhấn mạnh, mạnh mẽ
+hastily
+adv vội vàng, hấp tấp
+inconveniently
+adv bất tiện, phiền phức
+necessitate
+v bắt phải, đòi hỏi phải
+opposition
+n sự đối lập, sự chống lại
+ridership
+n lượng hành khách
+surround
+v bao quanh
+compact car
+phr xe hơi hạng nhỏ
+conform to
+phr tuân thủ, làm theo
+drawbridge
+n cầu rút
+give off
+phr tạo ra, tỏa ra
+gratuity
+n tiền thưởng
+ramp
+n đoạn dốc
+refurbish
+v tân trang lại

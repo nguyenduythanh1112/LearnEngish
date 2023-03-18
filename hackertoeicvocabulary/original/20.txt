@@ -177,7 +177,7 @@ n chữ số
 monetary
 adj thuộc tiền tệ
 outlay
-v tiền chi tiêu, phí tổn
+n tiền chi tiêu, phí tổn
 place of origin
 phr nơi xuất xứ, nguồn gốc
 purchase order

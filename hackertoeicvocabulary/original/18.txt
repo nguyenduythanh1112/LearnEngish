@@ -27,7 +27,7 @@ n tỏi
 meal
 n bữa ăn
 plate
-n día
+n đĩa
 pot
 n nồi
 prepare a meal
